@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sistemas Físicos Interactivos 1'
+project = 'Proyecto propuesta de creación de valor'
 copyright = '2022, Juan Franco'
 author = 'Juan Franco'
 
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Sistemas Físicos Interactivos 1'
+htmlhelp_basename = 'Proyecto Creación de Valor'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sistemasFisicosInteractivos1.tex', 'Curso Sistemas Físicos Interactivos 1',
+    (master_doc, 'propuestaValor.tex', 'Proyecto Creación de valor',
      'Juan Franco', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sistemasFisicosInteractivos1', 'Curso Sistemas Físicos Interactivos 1',
+    (master_doc, 'propuestaValor', 'Proyecto Creación de Valor',
      [author], 1)
 ]
 
@@ -148,7 +148,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sistemasFisicosInteractivos1', 'sistemasFisicosInteractivos1 Documentation',
-     author, 'sistemasFisicosInteractivos1', 'Documentación del curso Sistemas Físicos Interactivos 1',
+    (master_doc, 'propuestaValor', 'Documentación para el proyecto de creación de valor',
+     author, 'propuestaValor', 'Documentación del proyecto propuesta creación de valor',
      'Miscellaneous'),
 ]
