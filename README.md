@@ -15,5 +15,8 @@ a la carpeta docs y escribir el comando:
 
 make html
 
+```
+
+
 Este proceso ejecutará el comando Sphinx y producirá la salida en formato 
 html.
