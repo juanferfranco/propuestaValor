@@ -1,20 +1,57 @@
 Referentes
 ============
 
-En esta sección se analizarán 
+En esta sección se analizan algunos referentes que han servido de inspiración para 
+para la propuesta que se presentará en la siguiente sección del documento; sin embargo, 
+antes de entrar en materia, voy a narrar las motivaciones y reflexiones que terminan, 
+hasta ahora, en este documento. 
 
-Modelo relacional fontán
+El camino recorrido hasta ahora
+---------------------------------
 
-The ECIU University
+Inicié como docente de tiempo completo en la institución en marzo de 2014. Desde 
+el comienzo me enamoré del modelo pedagógico porque resonó inmediatamente con algo 
+que venía pensando desde mis años como docente de cátedra y que se hacía más obvio 
+con cada generación de estudiantes. Se trataba del aprendizaje activo y superar 
+el modelo de enseñanza tradicional de transmisión del conocimiento. Desde el inicio 
+de mi labor docente encontré en el aprendizaje basado en proyectos una herramienta 
+muy útil para implementar los principio que el modelo pedagógico sugería; en el año 
+2020 y gracias a la pandemia adicioné a mi repertorio docente las ideas del aula invertida. 
+Adicionalmente, descubrí a `John Biggs <https://www.johnbiggs.com.au/>`__ y el 
+`constructive alignment <https://www.johnbiggs.com.au/academic/constructive-alignment/>`__.
 
-Tec de monterrey
+La pandemia me hizo repensar todos mis cursos y considerando el aprendizaje basado en proyectos, el aula 
+invertida y el constructive alignment los estructuré como experiencias de aprendizaje 
+que usaban proyectos para evaluar el nivel de desarrollo de los criterios de competencias y 
+el aula invertida como `scaffolding` para preparar a los estudiantes para la evaluación. Mis 
+clases se fueron convirtiendo de una actividad magistral a un dialogo directo con cada 
+estudiante donde mi labor se tornó en algo más parecido a lo que hace un entrenador de 
+un atleta. Le ayudaba a mis estudiantes con los problemas técnicos del curso, pero también 
+dedicaba mucho tiempo a soportarlos en habilidades cognitivas y emocionales. Creo que la mejor 
+manera de resumir lo que me pasó es decir que antes los estudiantes me escuchaban casi 
+todo el tiempo. Ahora yo los escucho casi todo el tiempo. Pienso que esto me cambió para 
+siempre porque al escuchar a los estudiantes aprendí que el sistema de educación actual 
+se estaba convirtiendo en un obstáculo para su aprendizaje y desarrollo personal.
 
-London Interdisciplinary School
+Con todo lo que me ensañaron los estudiantes al escucharlos inicié una búsqueda de modelos 
+educativos, diferentes al actual, que promovieran en los estudiantes el aprendizaje y el 
+desarrollo personal. Esto me llevó a la primera innovación educativa en Colombia conocida 
+como el Modelo Fontán que luego evolucionaría al Modelo Relacional Fontán propuesto por 
+Julio Fontán.
 
-Minerva University
+Finalizando el año 2020 tuve la oportunidad de conversar con Julio Fontán en una videoconferencia. 
+Julio, una persona muy generosa se ofreció a reunirse de nuevo con un grupo de personas 
+interesadas de la Universidad para contarles acerca del Modelo Relacional Fontán. Ese grupo 
+lo conformé con la Directoria de Docencia y la Decana de Arquitectura y Diseño 
+con quienes seguimos elaborando las ideas durante el año de 2020 y el primer semestre de 2021 y construimos 
+una propuesta que denominamos proyecto 
+`Delfín <https://upbeduco.sharepoint.com/:p:/s/ProyectoDelfn/EQKYAkRq8htEnjobX2DiTT8B1gu-0ohEpLLV1OaAj620rA?e=RUJyv5>`__.
 
-IEEE ICICLE
-
+En el segundo semestre del año 2022, la escuela de Ingeniería y el líder de las iniciativas de educación virtual 
+me encomendaron pensar en una propuesta disruptiva e innovadora para la institución. Decidí entonces 
+retomar las ideas originales del proyecto Delfín y por solicitud de mis jefes proponer un PROTOTIPO de 
+un programa diferente para la institución con características disruptivas 
+e innovadores. El resultado es precisamente lo que viene a continuación. 
 
 Modelo relacional Fontán
 --------------------------
