@@ -1,7 +1,9 @@
 Propuesta de creación de valor 
 ===============================================================================
 
-Autor: Juan Fernando Franco Higuita
+Autores del proyecto Delfín: Beatriz Elena Lopez Velez, Juliana Restrepo Jaramillo, Juan Fernando Franco Higuita
+
+Autor de este documento: Juan Fernando Franco Higuita
 
 Programa: proyecto creación de valor 2022-20
 
