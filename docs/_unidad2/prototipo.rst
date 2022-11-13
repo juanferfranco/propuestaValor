@@ -1,6 +1,12 @@
 Prototipo de un programa disruptivo e innovador para la UPB
 =============================================================
 
+Motivación 
+---------------
+
+https://www.youtube.com/watch?v=0BFDVVuu7Ow
+
+
 Descripción del programa
 ------------------------
 

@@ -1,10 +1,10 @@
 Referentes
 ============
 
-En esta sección se analizan algunos referentes que han servido de inspiración para 
+En esta sección se analizan algunos referentes que han servido de inspiración 
 para la propuesta que se presentará en la siguiente sección del documento; sin embargo, 
 antes de entrar en materia, voy a narrar las motivaciones y reflexiones que terminan, 
-hasta ahora, en este documento. 
+hasta ahora, en este documento.
 
 El camino recorrido hasta ahora
 ---------------------------------
@@ -15,18 +15,18 @@ que venía pensando desde mis años como docente de cátedra y que se hacía má
 con cada generación de estudiantes. Se trataba del aprendizaje activo y superar 
 el modelo de enseñanza tradicional de transmisión del conocimiento. Desde el inicio 
 de mi labor docente encontré en el aprendizaje basado en proyectos una herramienta 
-muy útil para implementar los principio que el modelo pedagógico sugería; en el año 
-2020 y gracias a la pandemia adicioné a mi repertorio docente las ideas del aula invertida. 
-Adicionalmente, descubrí a `John Biggs <https://www.johnbiggs.com.au/>`__ y el 
+muy útil para implementar los principio que el modelo pedagógico sugería. En el año 
+2020 adicioné a mi repertorio docente las ideas del aula invertida como metodología 
+para adaptarse a los retos de la pandemia por COVID-19 y descubrí a `John Biggs <https://www.johnbiggs.com.au/>`__ y el 
 `constructive alignment <https://www.johnbiggs.com.au/academic/constructive-alignment/>`__.
 
-La pandemia me hizo repensar todos mis cursos y considerando el aprendizaje basado en proyectos, el aula 
-invertida y el constructive alignment los estructuré como experiencias de aprendizaje 
-que usaban proyectos para evaluar el nivel de desarrollo de los criterios de competencias y 
-el aula invertida como `scaffolding` para preparar a los estudiantes para la evaluación. Mis 
-clases se fueron convirtiendo de una actividad magistral a un dialogo directo con cada 
-estudiante donde mi labor se tornó en algo más parecido a lo que hace un entrenador de 
-un atleta. Le ayudaba a mis estudiantes con los problemas técnicos del curso, pero también 
+La pandemia me hizo repensar todos los cursos que impartía y considerando el aprendizaje 
+basado en proyectos, el aula invertida y el constructive alignment los estructuré como 
+experiencias de aprendizaje que usaban proyectos para evaluar el nivel de desarrollo de los 
+criterios de competencias y el aula invertida como `scaffolding` para preparar a los 
+estudiantes para la evaluación. Mis clases se fueron convirtiendo de una actividad magistral 
+a un diálogo directo con cada estudiante, donde mi labor se tornó en algo más parecido a una relación 
+entrenador/atleta. Le ayudaba a mis estudiantes con los problemas técnicos del curso, pero también 
 dedicaba mucho tiempo a soportarlos en habilidades cognitivas y emocionales. Creo que la mejor 
 manera de resumir lo que me pasó es decir que antes los estudiantes me escuchaban casi 
 todo el tiempo. Ahora yo los escucho casi todo el tiempo. Pienso que esto me cambió para 
@@ -34,39 +34,78 @@ siempre porque al escuchar a los estudiantes aprendí que el sistema de educaci�
 se estaba convirtiendo en un obstáculo para su aprendizaje y desarrollo personal.
 
 Con todo lo que me ensañaron los estudiantes al escucharlos inicié una búsqueda de modelos 
-educativos, diferentes al actual, que promovieran en los estudiantes el aprendizaje y el 
-desarrollo personal. Esto me llevó a la primera innovación educativa en Colombia conocida 
+educativos, diferentes al actual, que promovieran en ellos su aprendizaje y su 
+desarrollo personal. Esto me llevó a descubrir la primera innovación educativa en Colombia conocida 
 como el Modelo Fontán que luego evolucionaría al Modelo Relacional Fontán propuesto por 
 Julio Fontán.
 
 Finalizando el año 2020 tuve la oportunidad de conversar con Julio Fontán en una videoconferencia. 
 Julio, una persona muy generosa se ofreció a reunirse de nuevo con un grupo de personas 
-interesadas de la Universidad para contarles acerca del Modelo Relacional Fontán. Ese grupo 
-lo conformé con la Directoria de Docencia y la Decana de Arquitectura y Diseño 
-con quienes seguimos elaborando las ideas durante el año de 2020 y el primer semestre de 2021 y construimos 
-una propuesta que denominamos proyecto 
-`Delfín <https://upbeduco.sharepoint.com/:p:/s/ProyectoDelfn/EQKYAkRq8htEnjobX2DiTT8B1gu-0ohEpLLV1OaAj620rA?e=RUJyv5>`__.
+interesadas de la institución para contarles acerca del Modelo Relacional Fontán. Ese grupo 
+lo conformé con la Directoria de Docencia y la Decana de Arquitectura y Diseño. Luego de la reunión 
+con Julio y gracias a las conversaciones previas entre los miembros de este grupo surgió el proyecto 
+`Delfín <https://upbeduco.sharepoint.com/:p:/s/ProyectoDelfn/EQKYAkRq8htEnjobX2DiTT8B1gu-0ohEpLLV1OaAj620rA?e=RUJyv5>`__. 
+Este proyecto lo desarrollamos hasta el primer semestre de 2021.
+
 
 En el segundo semestre del año 2022, la escuela de Ingeniería y el líder de las iniciativas de educación virtual 
 me encomendaron pensar en una propuesta disruptiva e innovadora para la institución. Decidí entonces 
 retomar las ideas originales del proyecto Delfín y por solicitud de mis jefes proponer un PROTOTIPO de 
-un programa diferente para la institución con características disruptivas 
-e innovadores. El resultado es precisamente lo que viene a continuación. 
+un programa diferente para la institución con características disruptivas e innovadores. 
+Es así como llego a este documento que representa el resultado del camino recorrido hasta este punto.
 
 Modelo relacional Fontán
 --------------------------
 
+El `Modelo Relacional Fontán <https://www.learning1to1.net/>`__ o FRE por sus siglas en inglés 
+es una evolución del `Sistema Fontán <https://colegiofontan.edu.co/sistema-fontan/>`__ creado por los esposos 
+Ventura y Emilia Fontán. Es propuesto por uno de sus hijos, Julio Fontán.
+
+
 Propuesta de valor
 ***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+El modelo se propone el desarrollo de hábitos de autonomía de aprendizaje con los estudiantes 
+en tan solo 8 semanas. Propone un sistema que permita superar el sistema educativo actual inspirado, 
+`según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__, en los sistemas industrializados de la revolución industrial.
+
+El modelo pedagógico de FRE es `centrado en el estudiante`. Ofrece planes de estudio personalizados que dependen 
+de las capacidades, gustos y expectativas de cada estudiante. Le entrega al estudiante la responsabilidad de la toma 
+de decisiones en su proceso educativo permitiendo el aprendizaje autónomo.
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+FRE es un sistema de TIEMPO VARIABLE pero de CALIDAD CONSTANTE. Esto quiere decir que cada estudiante 
+va a su propio ritmo de aprendizaje. En FRE cada estudiante llega al nivel de excelencia esperado, simplemente, 
+a algunos estudiantes les tomará más o menos tiempo que a otros.
+
+Esta propuesta está basada en el mismo principio de tiempo variable, pero calidad constante. Realmente se privilegia 
+el aprendizaje vinculándolo con el conceptos de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__.  
+
+`Este <https://youtu.be/-MTRxRO5SRA>`__ video TED de Salman khan lo explica muy bien.
+
+¿Por qué es importante el mastery learning para esta propuesta? Porque está vinculado con el respecto por la diferencia, 
+es un asunto de dignidad humana. Todos los estudiantes deberían tener la oportunidad de desarrollar el nivel 
+del criterio de competencia esperado al 100% independiente del tiempo que les tome. ¿Por qué? Porque esto permite que 
+una persona pueda avanzar en su proceso de formación con bases firmes y fortalecer su mentalidad. 
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
 
+El modelo FRE inspiró el proyecto Delfín que a su vez inspiró esta propuesta. 
+Es muy importante anotar que FRE tiene más estudiantes en colegios 
+públicos que en colegios privados. En la página web `learning1to1 <https://www.learning1to1.net/>`__  se puede evidenciar 
+que FRE no es solo una iniciativa privada. El sistema se ha implementado en un gran número de colegios públicos y en algunas 
+Universidades. En el año 2020 tuve la oportunidad de hablar con John Jairo Parra Herrera, rector de 
+la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ de Itagui, 
+acerca de la implementación del sistema en este colegio público. El diálogo, inicialmente con Julio Fontán, y luego 
+con John Jairo Parra me hace pensar que si el sistema público Colombiano pudo adaptarse a un cambio como el propuesto 
+por FRE entonces la institución para la cual trabajo también podría hacerlo.
+
+En `este <https://www.researchgate.net/publication/348336687_El_Modelo_de_Educacion_Relacional_Fontan_De_la_practica_a_la_teoria>`__ 
+libro se puede encontrar una sustentación científica del modelo FRE. Dicho trabajo fue desarrollado en conjunto por 
+el equipo de investigación de FRE y la Universidad de Barcelona. Estos últimos ofrecen un 
+`posgrado <https://www.il3.ub.edu/postgrado-modelo-educacion-relacional>`__ en el modelo.  
 
 La Universidad ECIU 
 -----------------------
