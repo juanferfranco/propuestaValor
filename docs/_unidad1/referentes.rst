@@ -1,24 +1,152 @@
-Contexto (referentes)
-=======================
-
 Referentes
--------------
+============
 
-Referente 1
-***************************
+En esta sección se analizarán 
+
+Modelo relacional fontán
+
+The ECIU University
+
+Tec de monterrey
+
+London Interdisciplinary School
+
+Minerva University
+
+IEEE ICICLE
+
+
+Modelo relacional Fontán
+--------------------------
 
 Propuesta de valor
-^^^^^^^^^^^^^^^^^^^^^^
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
 
 ¿Por qué este referente inspira la propuesta?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+***********************************************
 (porque nos queremos parecer, en qué nos queremos diferenciar)
 
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
 
+
+La Universidad ECIU 
+-----------------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+******************************************************************************
+
+
+Tecnológico de Monterrey 
+---------------------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
+
+01-edu
+----------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
+
+
+
+London Interdisciplinary School 
+-----------------------------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
+
+
+Minerva University
+--------------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
+
+Metals CMU 
+------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
+
+
+
+Industry Consortium on Learning Engineering (IEEE/ICICLE)
+------------------------------------------------------------
+
+Propuesta de valor
+***************************
+(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+
+¿Por qué este referente inspira la propuesta?
+***********************************************
+(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
+******************************************************************************
+
 
 
 ..
