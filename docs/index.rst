@@ -1,9 +1,7 @@
 Propuesta de creación de valor 
 ===============================================================================
 
-Docente diseñador del curso: Juan Fernando Franco Higuita
-
-Nombre del docente moderador: Juan Fernando Franco Higuita
+Autor: Juan Fernando Franco Higuita
 
 Programa: proyecto creación de valor 2022-20
 
