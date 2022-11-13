@@ -1,14 +1,6 @@
 Contexto (referentes)
 =======================
 
-Introducción
---------------
-
-En esta unidad vas a aprender técnicas para programar 
-los sistemas embebidos (controladores) que permitirán capturar y/o generar 
-la información que fluye desde y hacia el mundo exterior 
-de la aplicación interactiva.
-
 Referentes
 -------------
 
