@@ -5,6 +5,8 @@ Autores del proyecto Delfín: Beatriz Elena Lopez Velez, Juliana Restrepo Jarami
 
 Autor de este documento: Juan Fernando Franco Higuita
 
+Contribuciones: Andres Ochoa Duque, Jully Paulina Gomez Zapata, Karol Marcela Villa Trujillo
+
 Programa: proyecto creación de valor 2022-20
 
 .. toctree::
