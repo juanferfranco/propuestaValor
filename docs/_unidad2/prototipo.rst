@@ -74,6 +74,15 @@ publicación en Medium realizada por MIT Open Learning.
 Descripción del perfil del egresado 
 -------------------------------------
 
+El perfil del egresado de Ingeniería del aprendizaje es un perfil interdisciplinario. 
+Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ la flor de conocimiento 
+central de la Ingeniería del Aprendizaje se puede observar en la siguiente imagen:
+
+.. image:: ../_static/LE-Core-Knowledge-Flower.png
+  :alt: Learning Engineering Core Knowledge Flower
+  :align: center
+  :width: 100%
+
 
 Problemas abordados por el programa
 -------------------------------------
