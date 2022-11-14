@@ -172,6 +172,15 @@ y con propósito. En `este <https://vimeo.com/583343858>`__ video, la ECIU expli
 En `este <https://youtu.be/CFCSvvsPWUA>`__ otro video la ECIU explica cómo está llevando a la práctica 
 el aprendizaje basado en retos.
 
+Otro aspecto de la propuesta de ECIU es el cambio en el rol del profesor que pasa de ser un 
+`TEACHER` a convertirse en un `TEAMCHER <https://www.utwente.nl/en/cbl/documents/cbl-eciu-tools-and-sources-for-teamchers.pdf>`__. 
+Según la ECIU un `teamcher` es un miembro del grupo de profesores que sirve de facilitador en los equipos 
+conformados para la solución de los retos, a la vez que participa activamente en la solución de los mismos.
+
+Al igual que la metodología basada en retos puede servir como un punto de partida, así mismo, la definición y 
+práctica del `teamcher` puede servir de inspiración inicial para la institución; sin embargo, no se puede perder 
+de vista le necesidad de pensar de manera crítica para adaptar ese rol según las necesidades y realidades 
+de nuestro contexto.
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
@@ -184,9 +193,48 @@ experiencia práctica en el tema como se se puede evidenciar en
 01-edu
 ----------
 
-`01-edu <https://01-edu.org/>`__ es la evolución de 42 school. Se dedican a la formación en ingeniería y programación 
-de software usando métodos de enseñanza radicalmente diferentes a los clásicos.
+`01-edu <https://01-edu.org/>`__ es una iniciativa del mismo creador de `42 school <https://42.fr/en/homepage/>`__. 
+Se dedican a la formación en ingeniería y programación de software usando métodos de enseñanza 
+radicalmente diferentes a los clásicos.
 
+El fundador de 01-edu, `Nicolas Sadirac <https://youtu.be/uVl9H2z2hVw>`__, notó que al no tener profesores 
+se podría exponer al estudiante a relaciones más complejas de interacción con el conocimiento y de alguna 
+manera esto hacía que los 
+estudiantes fueran más autónomos. Sadirac habla del concepto denominado INTELIGENCIA COLECTIVA y dice 
+que florece en ambientes de diversidad de personas. Por tanto, según Sadirac, al eliminar del proceso 
+de enseñanza a los profesores e introducir la diversidad se promueve la autonomía y la inteligencia 
+colectiva y de esa manera se consigue un sistema de educación ESCALABLE. 
+
+Sadirac dice que el conocimiento se ha transmitido de manera oral, luego con libros y ahora con Internet. Señala 
+que las inteligencias artificiales serán mejores que las personas en la retención y procesamiento del conocimiento. 
+Por tanto, con 01-edu busca promover la creatividad y la empatía para fomentar el 
+empoderamiento, la autonomía y el emprendimiento. De esta manera el ser humano podrá crear inteligencia 
+colectiva que pueda colaborar con inteligencias artificiales. Según Sadirac, hacer los humanos más humanos haciendo 
+que la inteligencia artificial expanda nuestra humanidad.
+
+01-edu es una plataforma que usa tres componentes esenciales:
+
+* Está completamente ludificada. Por medio de la ludificación se busca que una persona alcance todo 
+  su potencial mediante el goce porque según Sadirac la creatividad y el pensamiento positivo florecen en 
+  presencia del gozo. 
+* El proceso es 100% `peer-to-peer`. la ausencia de jerarquía promueve la confrontación entre los 
+  estudiantes lo cual crea complejidad y relativización del conocimiento. Esto abre a los estudiantes a la 
+  innovación.
+* Una comunidad solidaria sin profesores. Por medio de la empatía crea autonomía. Los estudiantes 
+  abrazan la idea de tomar riesgos y promueve el emprendimiento estableciendo de esta manera responsabilidad.
+
+Sadirac `dice <https://youtu.be/U8UX1KR73Yw>`__ que si no hay transmisión de conocimiento de ningún tipo 
+el estudiante tiene que tomar decisiones para crear su propio camino y por tanto esto genera 
+una actitud de empoderamiento. Se necesitan menos profesores y más inspirados, es decir, personas innovadoras, 
+emprendedoras, amables y sabias. Para Sadirac, es necesario fomentar más la comunicación y la 
+cooperación entre las personas.
+
+En `este <https://youtu.be/zi706-NrypY>`__ video Sadirac explica que los profesores son muy eficientes para 
+transmitir conocimiento, pero esto hace que las personas se vuelvan más pasivas y menos creativas en el proceso. 
+Cuando no existe la figura de profesor transmisor de conocimiento el estudiante se ve obligado a producir ideas, 
+generar hipótesis, probar las hipótesis y discutir con otros si la idea funciona o no. Por tanto, el 
+proceso de educativo se convierte más en un asunto de AUTO DESARROLLO que en un ejercicio de adquisición 
+de conocimiento.
 
 Propuesta de valor
 ***************************
@@ -201,7 +249,7 @@ La metodología es práctica y basada en proyectos, no hay profesores (tradicion
 que se requiere para resolver los problemas se busca en Internet y con ayuda de los compañeros, es decir, el enfoque 
 de aprendizaje es `peer learning and peer correction`.
 
-Utilizan técnicas de GAMIFICATION para inspirar a los estudiantes y la personalización la consiguen haciendo que el 
+01-edu utiliza técnicas de GAMIFICATION para inspirar a los estudiantes y la personalización la consiguen haciendo que el 
 tiempo sea variable pero la calidad constante como en el modelo FRE.
 
 
@@ -210,18 +258,24 @@ tiempo sea variable pero la calidad constante como en el modelo FRE.
 
 Aunque 01-edu dice que no hay profesores, la lectura que hago es diferente. Más bien no hay relaciones 
 de jerarquía profesor-estudiante porque la relación enseñanza aprendizaje se desarrolla entre pares. Este modelo 
-de 01-edu me lleva a pensar en un rol del profesor DIFERENTE al tradicional que efectivamente transciende la transmisión 
-de conocimiento y se acerca más el rol de un mentor que al tiempo participa en el proceso de mismo de aprendizaje 
-aportando desde la experiencia, no solo técnica, sino también desde la emocional, pero sin dejar de aprender del estudiante, 
-sin dejar la escucha activa de lado para favorecer el crecimiento personal COLECTIVO desde las actividades 
-de solución de problemas.
+de 01-edu me lleva a pensar en un rol del profesor DIFERENTE al tradicional. Un profesor que efectivamente 
+transciende la transmisión de conocimiento y se acerca más el rol de un mentor. Un profesor que  
+participa en el proceso mismo de aprendizaje aportando desde la experiencia, no solo técnica, sino también desde lo emocional, 
+pero sin dejar de aprender del estudiante, sin dejar la escucha activa de lado. Una relación profesor-estudiante 
+para favorecer el crecimiento personal COLECTIVO desde las actividades de solución de problemas.
 
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
 
-
-
+Con el modelo pedagógico de la institución se busca superar el modelo pedagógico tradicional centrado en la 
+enseñanza, el papel de receptor del estudiante y el de transmisor del conocimiento asumido por el profesor. 
+01-edu debería servirnos como caso de estudio que nos permita observar una manera de llevar a la práctica 
+los principios que propone el modelo pedagógico. 01-edu propone un cambio radical en la relación profesor 
+estudiante y es el análisis de esa propuesta lo que nos podría invitar a PENSAR de MANERA CRÍTICA en las 
+ideas a las que estamos anclados, pero desde una perspectiva CENTRADA EN EL ESTUDIANTE. Un modelo pedagógico 
+que privilegie el aprendizaje y el desarrollo personal. Un compromiso tan firme con estos principios que 
+nos lleve a cuestionar y problematizar las relaciones y los roles que no nos atrevemos a tocar. 
 
 London Interdisciplinary School 
 -----------------------------------
@@ -237,58 +291,6 @@ Propuesta de valor
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
-
-
-
-Minerva University
---------------------
-
-Propuesta de valor
-***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
-
-
-¿Por qué este referente inspira la propuesta?
-***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
-
-¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
-******************************************************************************
-
-
-Metals CMU 
-------------
-
-Propuesta de valor
-***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
-
-
-¿Por qué este referente inspira la propuesta?
-***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
-
-¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
-******************************************************************************
-
-
-
-
-Industry Consortium on Learning Engineering (IEEE/ICICLE)
-------------------------------------------------------------
-
-Propuesta de valor
-***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
-
-
-¿Por qué este referente inspira la propuesta?
-***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
-
-¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
-******************************************************************************
-
 
 
 ..
