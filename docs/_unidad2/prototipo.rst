@@ -83,6 +83,14 @@ central de la Ingeniería del Aprendizaje se puede observar en la siguiente imag
   :align: center
   :width: 100%
 
+See :cite:t:`2022:godell` for an introduction to non-standard analysis.
+
+
+
+
+En el libro Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, 
+and Beyond J Goodell, J Kolodner - 2022. 
+
 
 Problemas abordados por el programa
 -------------------------------------
