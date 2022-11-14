@@ -110,46 +110,112 @@ el equipo de investigación de FRE y la Universidad de Barcelona. Estos últimos
 La Universidad ECIU 
 -----------------------
 
+ECIU es el consorcio internacional líder de universidades intensivas en investigación, con énfasis colectivo en 
+la innovación, la creatividad y el impacto social, impulsando el desarrollo de una economía basada en el conocimiento.
+
+La `Universidad ECIU <https://www.eciu.org/>`__ es una universidad europea financiada por la UE que creará un modelo educativo 
+completamente nuevo a escala europea. La Universidad ECIU reúne a estudiantes, 
+profesores e investigadores para cooperar con ciudades y empresas y resolver desafíos de la vida real.
+
+`Este <https://vimeo.com/321068392>`__ video explica la iniciativa.
+
 Propuesta de valor
 ***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+La Universidad ECIU propone un nuevo modelo pedagógico basado en ``RETOS``. En la primera fase se han enfocado en el 
+`objetivo de desarrollo sostenible número 11 <https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/>`__: 
+Ciudades y comunidades sostenibles. Los retos los puede proponer cualquiera. Para abordar los retos se conforman equipos 
+con personas de la industria, la sociedad y las universidades para trabajar de manera REMOTA en los retos. Si en el proceso 
+de solución del reto se detectan carencias en algunos conocimientos o habilidades, los participantes pueden realizar 
+MICRO CREDENCIALES que son ofrecidas por las universidades del consorcio. Estas micro credenciales se documentan en 
+el pasaporte de aprendizaje europeo. 
+
+Según la `Universidad ECIU <https://www.eciu.org/>`__ los estudiantes pueden:
+
+* Participar en los desafíos y contribuir a generar un impacto real en la comunidad, ciudad o región.
+* Trabajar en equipos multidisciplinarios e internacionales que permiten adquirir habilidades y conocimientos profesionales.
+* Experimentar una forma nueva e innovadora de aprender y, al hacerlo, ayude a co-crear la Universidad ECIU.
+
+Los docentes de las Universidades pueden:
+
+* Resolver los problemas sociales y económicos más relevantes de la actualidad.
+* Ser pioneros en conceptos educativos de vanguardia: aprendizaje basado en desafíos y microcredenciales.
+* Co-crear con otros colegas la Universidad Europea.
+
+La sociedad y las empresas pueden:
+
+* Proponer desafíos para que los equipos de ECIU busquen respuestas.
+* Trabajar con y conectarse con los estudiantes actuales y los posibles empleados.
+* Unirse a los socios estratégicos de ECIU University co-creando las innovaciones educativas en Europa.
+
+Los investigadores pueden:
+
+* Explorar la estrategia de investigación conjunta a largo plazo de la Universidad ECIU y 
+  y las áreas de investigación compartidas.
+* Descubrir las oportunidades del Fondo de Movilidad de Investigadores de ECIU.
+* Obtener más información sobre el programa de red RUNIN y el proyecto TEFCE.
+* Obtener más información sobre el Instituto de Investigación de la Universidad ECIU para Regiones 
+  Europeas Inteligentes (SMART-ER).
 
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+El diseño curricular de la propuesta estará estructurado alrededor de problemas y ``RETOS``. La ECIU 
+propone una metodología para abordar estos retos que podrían ser el punto de partida desde el cual 
+la institución refine su propia metodología.
+
+El uso del aprendizaje basado en retos responde a los cambios rápidos que experimenta el mundo actualmente. 
+Mediante retos del mundo real se busca que los estudiantes aprendan en contexto, de manera profunda, con sentido 
+y con propósito. En `este <https://vimeo.com/583343858>`__ video, la ECIU explica por qué usar retos.
+
+En `este <https://youtu.be/CFCSvvsPWUA>`__ otro video la ECIU explica cómo está llevando a la práctica 
+el aprendizaje basado en retos.
+
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
 
-
-Tecnológico de Monterrey 
----------------------------
-
-Propuesta de valor
-***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
-
-
-¿Por qué este referente inspira la propuesta?
-***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
-
-¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
-******************************************************************************
-
+Uno de los miembros de la ECIU es el Tecnológico de Monterrey. La cercanía cultural con esta institución 
+podría acelerar los procesos de adopción de la metodología de aprendizaje basada en retos. El Tec tiene 
+experiencia práctica en el tema como se se puede evidenciar en 
+`este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ de sus Edu Trends
 
 01-edu
 ----------
 
+`01-edu <https://01-edu.org/>`__ es la evolución de 42 school. Se dedican a la formación en ingeniería y programación 
+de software usando métodos de enseñanza radicalmente diferentes a los clásicos.
+
+
 Propuesta de valor
 ***************************
-(Objetivo central del referente, cuál es la sustancia, su propuesta de valor)
+
+La propuesta de valor de 01-edu está centrada en su `modelo pedagógico <https://01-edu.org/pedagogy>`__. 
+
+La formación se enfoca en actividades creativas en lugar de conocimiento teórico mediante el uso de la metodología 
+de solución de problemas. El aprendizaje es personalizado, con auto-apropiación del conocimiento y construcción 
+de conocimiento de manera colectiva. 
+
+La metodología es práctica y basada en proyectos, no hay profesores (tradicionales) o aulas de clase. El conocimiento 
+que se requiere para resolver los problemas se busca en Internet y con ayuda de los compañeros, es decir, el enfoque 
+de aprendizaje es `peer learning and peer correction`.
+
+Utilizan técnicas de GAMIFICATION para inspirar a los estudiantes y la personalización la consiguen haciendo que el 
+tiempo sea variable pero la calidad constante como en el modelo FRE.
 
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
-(porque nos queremos parecer, en qué nos queremos diferenciar)
+
+Aunque 01-edu dice que no hay profesores, la lectura que hago es diferente. Más bien no hay relaciones 
+de jerarquía profesor-estudiante porque la relación enseñanza aprendizaje se desarrolla entre pares. Este modelo 
+de 01-edu me lleva a pensar en un rol del profesor DIFERENTE al tradicional que efectivamente transciende la transmisión 
+de conocimiento y se acerca más el rol de un mentor que al tiempo participa en el proceso de mismo de aprendizaje 
+aportando desde la experiencia, no solo técnica, sino también desde la emocional, pero sin dejar de aprender del estudiante, 
+sin dejar la escucha activa de lado para favorecer el crecimiento personal COLECTIVO desde las actividades 
+de solución de problemas.
+
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
