@@ -62,7 +62,7 @@ esta variación son reconocidos líderes de IEEE ICICLE.
     at the Advanced Distributed Learning Initiative iFest 2022. This poster is adapted from the work of IEEE IC 
     Consortium on Learning Engineering, Kurt VanLehn, and others.
 
-El poster original es este y está tomado de 
+El poster original se observa en la siguiente figura y está tomado de 
 `esta <https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3>`__ 
 publicación en Medium realizada por MIT Open Learning. 
 
@@ -70,6 +70,8 @@ publicación en Medium realizada por MIT Open Learning.
   :alt: Poster Learning Engineering at a Glance
   :align: center
   :width: 100%
+
+|
 
 Descripción del perfil del egresado 
 -------------------------------------
