@@ -1,4 +1,4 @@
-Prototipo de un programa disruptivo e innovador para la UPB
+Prototipo de un programa disruptivo e innovador
 =============================================================
 
 Motivación 
