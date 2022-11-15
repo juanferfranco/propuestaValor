@@ -102,9 +102,4 @@ Acercamiento al mapa de capacidades y competencias
 Propuesta de implementación
 -----------------------------
 
-El rol del estudiante
------------------------
-
-El rol del profesor
-----------------------
 
