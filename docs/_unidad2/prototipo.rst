@@ -20,7 +20,7 @@ En mayo del 2020 el vicerrector académico `señaló <https://www.youtube.com/wa
 Mi hipótesis es que nos cuesta profundamente hacer algunas renuncias a formas tradicionales de hacer las cosas y 
 además no contamos con una masa crítica de personas con una mentalidad y unas competencias interdisciplinarias que 
 inspiren y empujen con fuerza estrategias de cambio radicales. La implementación misma del modelo pedagógico es un 
-PROBLEMA muy COMPLEJO que requiere ser abordado desde un óptima interdisciplinaria. 
+PROBLEMA muy COMPLEJO que requiere ser abordado desde un óptica interdisciplinaria. 
 
 Denominación del programa
 ---------------------------
@@ -57,10 +57,8 @@ esta variación son reconocidos líderes de IEEE ICICLE.
   Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
   engineering design methodologies and data-informed decision-making to support learners and their development.
 
-  --The “Learning Engineering at a Glance” poster co-authored by Aaron Kessler, assistant director of learning sciences 
-    & teaching at MIT Open Learning, Jim Goodell, and Sae Schatz won the “People’s Choice Award for Best Poster Design” 
-    at the Advanced Distributed Learning Initiative iFest 2022. This poster is adapted from the work of IEEE IC 
-    Consortium on Learning Engineering, Kurt VanLehn, and others.
+  --Tomado de The “Learning Engineering at a Glance” poster en coautoría por Aaron Kessler,Jim Goodell y 
+  Sae Schatz. En the Advanced Distributed Learning Initiative iFest 2022.
 
 El poster original se observa en la siguiente figura y está tomado de 
 `esta <https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3>`__ 
