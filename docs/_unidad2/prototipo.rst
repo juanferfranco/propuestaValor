@@ -25,7 +25,7 @@ PROBLEMA muy COMPLEJO que requiere ser abordado desde un óptica interdisciplina
 Denominación del programa
 ---------------------------
 
-De este punto en adelante, el nuevo programa propuesto será denominado como ``Ingeniería del Aprendizaje`` o ``Learning`` 
+De este punto en adelante el nuevo programa propuesto será denominado como ``Ingeniería del Aprendizaje`` o ``Learning`` 
 ``Engineering``. Claramente esta denominación tendrá que discutirse profundamente; sin embargo, será acogida en este 
 documento porque es la denominación utilizada por el Consorcio Industrial en ``Ingeniería del Aprendizaje`` de la IEEE 
 IEEE ICICLE por sus siglas en inglés. En principio, todo el fundamento teórico del programa usará los documentos 
@@ -82,6 +82,10 @@ central de la Ingeniería del Aprendizaje se puede observar en la siguiente imag
   :alt: Learning Engineering Core Knowledge Flower
   :align: center
   :width: 100%
+
+Esta flor de conocimiento implica que el Ingeniero del aprendizaje podría desempeñarse en ámbitos 
+específicos o pétalos de la flor, compartiendo vocabulario con profesionales disciplinares y/o otros 
+Ingenieros del aprendizaje enfocados en otros pétalos.
 
 Según :cite:t:`2022:godell` los roles típicos de un Ingeniero del aprendizaje son:
 
