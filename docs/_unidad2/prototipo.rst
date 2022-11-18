@@ -71,6 +71,8 @@ publicación en Medium realizada por MIT Open Learning.
 
 |
 
+
+
 Descripción del perfil del egresado 
 -------------------------------------
 
@@ -100,8 +102,74 @@ Según :cite:t:`2022:godell` los roles típicos de un Ingeniero del aprendizaje 
 Problemas abordados por el programa
 -------------------------------------
 
+Aprender es un proceso que ocurre en casi todos los ámbitos de la vida tales como la familia, los colegios, las universidades, 
+las empresas, entre otros. Cada uno de estos ámbitos produce problemas que dificultan el proceso de desarrollo y aprendizaje 
+del aprendiz. Según :cite:t:`2022:godell` un Ingeniero del aprendizaje participa en equipos interdisciplinarios que abordan los problemas
+relacionados con:
+
+* Crear las condiciones para un aprendizaje óptimo.
+* Optimizar experiencia de aprendizaje.
+* Construir productos educativos que puedan emplearse como SOLUCIONES ESCALABLES.
+* Diseñar experiencias de aprendizaje.
+* Afronta las condiciones ambientales o externas, es decir, las condiciones que conducen a un aprendizaje óptimo. Por 
+  ejemplo la arquitectura de un ambiente físico o virtual de aprendizaje, las estructuras sociales, la mentalidad de los aprendices, 
+  hábitos y prácticas de los aprendices.
+* Diseño curricular.
+* Desarrollo de tecnologías educativas.
+* Analítica del aprendizaje.
+* Aprendizaje personalizado.
+* Instrumentar experiencias de aprendizaje para alimentar el proceso iterativo de creación, implementación e investigación de las soluciones.
+* Instrumentar experiencias de aprendizaje para optimizar las actividades de aprendizaje y retroalimentación.
+
+Críticas 
+-----------
+
+En este artículo (:cite:t:`2019:Chandler`) del primero congreso de Learning Engineering, una de las autoras,  
+Chelsea Chandler de la Universidad de Michigan, cuenta de manera anecdótica su primera impresión al escuchar en 
+la misma frase las palabras Ingeniería y aprendizaje. Me pasó lo mismo. Y aunque no estoy formado en una escuela 
+de ciencias humanas, si estoy familiarizado con las formas de la Ingeniería. Ingeniería y aprendizaje en la misma 
+frase traen a la mente ideas como la escuela al servicio de la industria, la eficiencia social, expertos que 
+realizan procesos de ingeniería que maximizan el material a enseñar a la mayor cantidad de estudiantes, en el menor 
+tiempo posible. En :cite:t:`2022:godell` también se apunta a la percepción de muchas personas que ven la palabra 
+ingeniería como algo mecánico o industrial. En :cite:t:`2019:Chandler` aclaran que la idea de la Ingeniería 
+del aprendizaje no es sacar del proceso a los profesores, más bien plantea a un profesor como un Ingeniero que 
+diseña, construye e implementa soluciones a problemas complejos situados en ambientes con variables dinámicas. 
+:cite:t:`2022:godell` dicen que los Ingenieros del aprendizaje no diseñan el aprendizaje más de lo que los 
+ingenieros civiles diseñan a los civiles. Un Ingeniero civil crea y mantiene la infraestructura física para 
+el beneficio de los civiles. Un Ingeniero del aprendizaje crea soluciones para el beneficio de los aprendices.
+
+Más allá de las discusiones al respecto me parece que lo importante es no perder de vista que el Ingeniero 
+del aprendizaje no diseña el aprendizaje. El aprendizaje es un proceso HUMANO que ocurre en el cerebro de cada persona. 
+Más bien, como lo apunta la definición el Ingeniero del aprendizaje SOPORTA el aprendizaje de una persona y 
+su desarrollo.
+
+Según :cite:t:`2022:Lee`, en relación a la ciencias del aprendizaje, es escéptico ante la noción de 
+la Ingeniería del aprendizaje como una nueva disciplina o como ciencias del aprendizaje aplicadas. En ese sentido concuerdo 
+con lo que señala :cite:t:`2022:godell`, la Ingeniería del aprendizaje parte de ideas informadas de las ciencias 
+del aprendizaje y desde ahí refina sus soluciones de manera iterativa usando DATOS y analítica para la toma de decisiones 
+acerca de la dirección y la próxima iteración de la solución en construcción. Concuerdo también con lo que plantea 
+:cite:t:`2022:godell` como los objetivos de la ciencia y la ingeniería. El objetivo de la ciencia es descubrir la verdad 
+acerca del mundo tal como es. El objetivo de la ingeniería es crear SOLUCIONES ESCALABLES a problemas mediante 
+el uso de la ciencia como una HERRAMIENTA.
+
+
+:cite:t:`2019:Watters` plantea una cuestión muy interesante. Profesionales como los diseñadores instruccionales o 
+los tecnólogos instruccionales cuyos títulos son en tecnologías educativas y similares cuestionan si la Ingeniería 
+del aprendizaje es simplemente un CAMBIO DE MARCA, una forma de renombrar sus profesiones por una con un campo 
+de acción más amplio y lucrativo como lo es la Ingeniería. Al respecto en :cite:t:`2019:godell` plantea la pregunta 
+``Are You Doing Learning Engineering—Or Instructional Design?`` Concuerdo con la acercamiento del autor a esta 
+cuestión y se trata de reflexionar en esta otra pregunta ¿El proyecto de diseño instruccional actual es un 
+proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingería del aprendizaje la respuesta a esta 
+última pregunta sería AFIRMATIVA si:
+
+* Se aplican las ciencias del aprendizaje ``Y``
+* Se usan metodologías de diseño de ingeniería centradas en el humano ``Y``
+* Se toman decisiones basadas en DATOS.
+
 Acercamiento al mapa de capacidades y competencias 
 ----------------------------------------------------
+
+
 
 Propuesta de implementación
 -----------------------------
