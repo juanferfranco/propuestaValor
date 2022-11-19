@@ -17,8 +17,9 @@ el modelo de enseñanza tradicional de transmisión del conocimiento. Desde el i
 de mi labor docente encontré en el aprendizaje basado en proyectos una herramienta 
 muy útil para implementar los principio que el modelo pedagógico sugería. En el año 
 2020 adicioné a mi repertorio docente las ideas del aula invertida como metodología 
-para adaptarse a los retos de la pandemia por COVID-19 y descubrí a `John Biggs <https://www.johnbiggs.com.au/>`__ y el 
-`constructive alignment <https://www.johnbiggs.com.au/academic/constructive-alignment/>`__.
+para adaptarse a los retos de la pandemia por COVID-19 y descubrí a 
+`John Biggs <https://www.johnbi2019ggs.com.au/>`__ (:cite:t:`2022:Biggs`)y el 
+`constructive alignment <https://www.johnbiggs.com.au/academic/constructive-alignment/>`__ (:cite:t:`2022-2:Biggs`).
 
 La pandemia me hizo repensar todos los cursos que impartía y considerando el aprendizaje 
 basado en proyectos, el aula invertida y el constructive alignment los estructuré como 
@@ -57,16 +58,15 @@ Es así como llego a este documento que representa el resultado del camino recor
 Modelo relacional Fontán
 --------------------------
 
-El `Modelo Relacional Fontán <https://www.learning1to1.net/>`__ o FRE por sus siglas en inglés 
-es una evolución del `Sistema Fontán <https://colegiofontan.edu.co/sistema-fontan/>`__ creado por los esposos 
+El `Modelo Relacional Fontán <https://www.learning1to1.net/>`__ (:cite:t:`2022:fre`) o FRE por sus siglas en inglés 
+es una evolución del `Sistema Fontán <https://colegiofontan.edu.co/sistema-fontan/>`__ (:cite:t:`2022:fontan`) creado por los esposos 
 Ventura y Emilia Fontán. Es propuesto por uno de sus hijos, Julio Fontán.
-
 
 Propuesta de valor
 ***************************
 El modelo se propone el desarrollo de hábitos de autonomía de aprendizaje con los estudiantes 
 en tan solo 8 semanas. Propone un sistema que permita superar el sistema educativo actual inspirado, 
-`según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__, en los sistemas industrializados de la revolución industrial.
+`según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__ (:cite:t:`2022:fre-2`), en los sistemas industrializados de la revolución industrial.
 
 El modelo pedagógico de FRE es `centrado en el estudiante`. Ofrece planes de estudio personalizados que dependen 
 de las capacidades, gustos y expectativas de cada estudiante. Le entrega al estudiante la responsabilidad de la toma 
@@ -80,9 +80,9 @@ va a su propio ritmo de aprendizaje. En FRE cada estudiante llega al nivel de ex
 a algunos estudiantes les tomará más o menos tiempo que a otros.
 
 Esta propuesta está basada en el mismo principio de tiempo variable, pero calidad constante. Realmente se privilegia 
-el aprendizaje vinculándolo con el conceptos de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__.  
+el aprendizaje vinculándolo con el conceptos de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__ (:cite:t:`2022:wiki-mastery`).  
 
-`Este <https://youtu.be/-MTRxRO5SRA>`__ video TED de Salman khan lo explica muy bien.
+`Este <https://youtu.be/-MTRxRO5SRA>`__ (:cite:t:`2016:Ted-Sal`) video TED de Salman khan lo explica muy bien.
 
 ¿Por qué es importante el mastery learning para esta propuesta? Porque está vinculado con el respecto por la diferencia, 
 es un asunto de dignidad humana. Todos los estudiantes deberían tener la oportunidad de desarrollar el nivel 
@@ -97,15 +97,15 @@ Es muy importante anotar que FRE tiene más estudiantes en colegios
 públicos que en colegios privados. En la página web `learning1to1 <https://www.learning1to1.net/>`__  se puede evidenciar 
 que FRE no es solo una iniciativa privada. El sistema se ha implementado en un gran número de colegios públicos y en algunas 
 Universidades. En el año 2020 tuve la oportunidad de hablar con John Jairo Parra Herrera, rector de 
-la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ de Itagui, 
+la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ (:cite:t:`2022:isolda`) de Itagui, 
 acerca de la implementación del sistema en este colegio público. El diálogo, inicialmente con Julio Fontán, y luego 
 con John Jairo Parra me hace pensar que si el sistema público Colombiano pudo adaptarse a un cambio como el propuesto 
 por FRE entonces la institución para la cual trabajo también podría hacerlo.
 
-En `este <https://www.researchgate.net/publication/348336687_El_Modelo_de_Educacion_Relacional_Fontan_De_la_practica_a_la_teoria>`__ 
+En `este <https://www.researchgate.net/publication/348336687_El_Modelo_de_Educacion_Relacional_Fontan_De_la_practica_a_la_teoria>`__ (:cite:t:`2022:colen`)
 libro se puede encontrar una sustentación científica del modelo FRE. Dicho trabajo fue desarrollado en conjunto por 
 el equipo de investigación de FRE y la Universidad de Barcelona. Estos últimos ofrecen un 
-`posgrado <https://www.il3.ub.edu/postgrado-modelo-educacion-relacional>`__ en el modelo.  
+`posgrado <https://www.il3.ub.edu/postgrado-modelo-educacion-relacional>`__  (:cite:t:`2021:UB`) en el modelo.  
 
 La Universidad ECIU 
 -----------------------
@@ -113,17 +113,17 @@ La Universidad ECIU
 ECIU es el consorcio internacional líder de universidades intensivas en investigación, con énfasis colectivo en 
 la innovación, la creatividad y el impacto social, impulsando el desarrollo de una economía basada en el conocimiento.
 
-La `Universidad ECIU <https://www.eciu.org/>`__ es una universidad europea financiada por la UE que creará un modelo educativo 
+La `Universidad ECIU <https://www.eciu.org/>`__ (:cite:t:`2022:ECIU`) es una universidad europea financiada por la UE que creará un modelo educativo 
 completamente nuevo a escala europea. La Universidad ECIU reúne a estudiantes, 
 profesores e investigadores para cooperar con ciudades y empresas y resolver desafíos de la vida real.
 
-`Este <https://vimeo.com/321068392>`__ video explica la iniciativa.
+`Este <https://vimeo.com/321068392>`__ (:cite:t:`2019:eciu-eu`) video explica la iniciativa.
 
 Propuesta de valor
 ***************************
 
 La Universidad ECIU propone un nuevo modelo pedagógico basado en ``RETOS``. En la primera fase se han enfocado en el 
-`objetivo de desarrollo sostenible número 11 <https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/>`__: 
+`objetivo de desarrollo sostenible número 11 <https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/>`__ (:cite:t:`2022:GG11`): 
 Ciudades y comunidades sostenibles. Los retos los puede proponer cualquiera. Para abordar los retos se conforman equipos 
 con personas de la industria, la sociedad y las universidades para trabajar de manera REMOTA en los retos. Si en el proceso 
 de solución del reto se detectan carencias en algunos conocimientos o habilidades, los participantes pueden realizar 
@@ -167,13 +167,13 @@ la institución refine su propia metodología.
 
 El uso del aprendizaje basado en retos responde a los cambios rápidos que experimenta el mundo actualmente. 
 Mediante retos del mundo real se busca que los estudiantes aprendan en contexto, de manera profunda, con sentido 
-y con propósito. En `este <https://vimeo.com/583343858>`__ video, la ECIU explica por qué usar retos.
+y con propósito. En `este <https://vimeo.com/583343858>`__ (:cite:t:`2021:eciu-cbl`) video, la ECIU explica por qué usar retos.
 
-En `este <https://youtu.be/CFCSvvsPWUA>`__ otro video la ECIU explica cómo está llevando a la práctica 
+En `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`) otro video la ECIU explica cómo está llevando a la práctica 
 el aprendizaje basado en retos.
 
 Otro aspecto de la propuesta de ECIU es el cambio en el rol del profesor que pasa de ser un 
-`TEACHER` a convertirse en un `TEAMCHER <https://www.utwente.nl/en/cbl/documents/cbl-eciu-tools-and-sources-for-teamchers.pdf>`__. 
+`TEACHER` a convertirse en un `TEAMCHER <https://www.utwente.nl/en/cbl/documents/cbl-eciu-tools-and-sources-for-teamchers.pdf>`__ (:cite:t:`2021:UT-teamcher`). 
 Según la ECIU un `teamcher` es un miembro del grupo de profesores que sirve de facilitador en los equipos 
 conformados para la solución de los retos, a la vez que participa activamente en la solución de los mismos.
 
@@ -188,7 +188,7 @@ de nuestro contexto.
 Uno de los miembros de la ECIU es el Tecnológico de Monterrey. La cercanía cultural con esta institución 
 podría acelerar los procesos de adopción de la metodología de aprendizaje basada en retos. El Tec tiene 
 experiencia práctica en el tema como se se puede evidenciar en 
-`este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ de sus Edu Trends
+`este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ (:cite:t:`2015:tec`) documento.
 
 01-edu
 ----------

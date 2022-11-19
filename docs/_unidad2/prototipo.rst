@@ -169,7 +169,7 @@ proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingeniería
 Acercamiento a las competencias del programa  
 ----------------------------------------------
 
-Para acercarse 
+Para acercarse a  
 
 
 
