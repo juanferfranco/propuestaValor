@@ -193,11 +193,12 @@ experiencia práctica en el tema como se se puede evidenciar en
 01-edu
 ----------
 
-`01-edu <https://01-edu.org/>`__ es una iniciativa del mismo creador de `42 school <https://42.fr/en/homepage/>`__. 
+`01-edu <https://01-edu.org/>`__ (:cite:t:`2022:01edu-home`) es una iniciativa del mismo creador de 
+`42 school <https://42.fr/en/homepage/>`__ (:cite:t:`2022:42-home`). 
 Se dedican a la formación en ingeniería y programación de software usando métodos de enseñanza 
 radicalmente diferentes a los clásicos.
 
-El fundador de 01-edu, `Nicolas Sadirac <https://youtu.be/uVl9H2z2hVw>`__, notó que al no tener profesores 
+El fundador de 01-edu, `Nicolas Sadirac <https://youtu.be/uVl9H2z2hVw>`__ (:cite:t:`2021:tedx-siderac`), notó que al no tener profesores 
 se podría exponer al estudiante a relaciones más complejas de interacción con el conocimiento y de alguna 
 manera esto hacía que los 
 estudiantes fueran más autónomos. Sadirac habla del concepto denominado INTELIGENCIA COLECTIVA y dice 
@@ -223,13 +224,13 @@ que la inteligencia artificial expanda nuestra humanidad.
 * Una comunidad solidaria sin profesores. Por medio de la empatía crea autonomía. Los estudiantes 
   abrazan la idea de tomar riesgos y promueve el emprendimiento estableciendo de esta manera responsabilidad.
 
-Sadirac `dice <https://youtu.be/U8UX1KR73Yw>`__ que si no hay transmisión de conocimiento de ningún tipo 
+Sadirac `dice <https://youtu.be/U8UX1KR73Yw>`__ (:cite:t:`2018:wise-siderac`) que si no hay transmisión de conocimiento de ningún tipo 
 el estudiante tiene que tomar decisiones para crear su propio camino y por tanto esto genera 
 una actitud de empoderamiento. Se necesitan menos profesores y más inspirados, es decir, personas innovadoras, 
 emprendedoras, amables y sabias. Para Sadirac, es necesario fomentar más la comunicación y la 
 cooperación entre las personas.
 
-En `este <https://youtu.be/zi706-NrypY>`__ video Sadirac explica que los profesores son muy eficientes para 
+En `este <https://youtu.be/zi706-NrypY>`__ (:cite:t:`2019:01-edu-siderac`) video Sadirac explica que los profesores son muy eficientes para 
 transmitir conocimiento, pero esto hace que las personas se vuelvan más pasivas y menos creativas en el proceso. 
 Cuando no existe la figura de profesor transmisor de conocimiento el estudiante se ve obligado a producir ideas, 
 generar hipótesis, probar las hipótesis y discutir con otros si la idea funciona o no. Por tanto, el 
@@ -239,7 +240,7 @@ de conocimiento.
 Propuesta de valor
 ***************************
 
-La propuesta de valor de 01-edu está centrada en su `modelo pedagógico <https://01-edu.org/pedagogy>`__. 
+La propuesta de valor de 01-edu está centrada en su `modelo pedagógico <https://01-edu.org/pedagogy>`__ (:cite:t:`2022:01edu-ped`). 
 
 La formación se enfoca en actividades creativas en lugar de conocimiento teórico mediante el uso de la metodología 
 de solución de problemas. El aprendizaje es personalizado, con auto-apropiación del conocimiento y construcción 
@@ -280,7 +281,7 @@ nos lleve a cuestionar y problematizar las relaciones y los roles que no nos atr
 London Interdisciplinary School 
 -----------------------------------
 
-`London Interdisciplinario School <https://www.lis.ac.uk/about/>`__ o LIS, es una nueva Universidad ubicada en Whitechapel al oriente de Londres. 
+`London Interdisciplinario School <https://www.lis.ac.uk/about/>`__ (:cite:t:`2022:lis-home`) o LIS, es una nueva Universidad ubicada en Whitechapel al oriente de Londres. 
 LIS es la primera Universidad en recibir el poder para otorgar títulos de naturaleza interdisciplinaria en el 
 reino unido. El programa interdisciplinario que ofrece LIS se dedica a abordar problemas del mundo real 
 como la crisis climática, el COVID-19, inteligencia artificial y ética, la malaria, entre otros.
@@ -334,7 +335,7 @@ El plan de estudios de LIS está basado en el estudio de los conceptos y la teor
 disciplinas. La idea de LIS es permitirle al estudiante entender y abordar un PROBLEMA COMPLEJO desde varios puntos de 
 vista. Para LIS los problemas más complejos son interdisciplinarios y por tanto el currículo debería serlo también.
 
-`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__, crear y programar 
+`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__ (cite:t:`2022:lis-why`), crear y programar 
 un plan de estudios unidades interdisciplinarias no es fácil, pero dan 3 razones para hacerlo:
 
 * La especialización temprana limita la exploración de carrera.
