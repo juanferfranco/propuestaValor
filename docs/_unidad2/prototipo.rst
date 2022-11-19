@@ -10,7 +10,7 @@ para acompañar los procesos de formación, los cuales desde mi opinión requier
 teamcher, un mentor, un líder. Profesores con habilidades para abordar las capacidades diversas y apoyar los procesos 
 desarrollo personal de los estudiantes. A mi modo de ver, este tipo de profesores aún no existen.
 
-En mayo del 2020 el vicerrector académico `señaló <https://www.youtube.com/watch?v=0BFDVVuu7Ow>`__ que:
+En mayo del 2020 el vicerrector académico `señaló <https://www.youtube.com/watch?v=0BFDVVuu7Ow>`__ (:cite:t:`2020:upb`) que:
 
   TENEMOS una brecha enorme y es PODER llevar TODO el modelo pedagógico de capacidades y competencias a los procesos 
   pedagógicos de curso;sin embargo, todavía no ha sido posible
@@ -38,7 +38,7 @@ Descripción del programa
 
 ¿Qué es Ingeniería del Aprendizaje? 
 
-Según `ICICLE <https://sagroups.ieee.org/icicle/>`__:
+Según `ICICLE <https://sagroups.ieee.org/icicle/>`__ (:cite:t:`2022:ieee-icicle`):
 
   Learning Engineering is a process and practice that applies the learning sciences using human-centered engineering design methodologies and data-informed 
   decision making to support learners and their development.
@@ -49,7 +49,8 @@ Según `ICICLE <https://sagroups.ieee.org/icicle/>`__:
   usando métodos de diseño de ingeniería centrados en el humano y toma de decisiones basadas en datos 
   para soportar a los aprendices y a sus procesos de desarrollo.
 
-En agosto de 2022 encontré `aquí <https://openlearning.mit.edu/news/learning-engineering-glance-poster-awarded-best-design-ifest-2022>`__ 
+En agosto de 2022 encontré 
+`aquí <https://openlearning.mit.edu/news/learning-engineering-glance-poster-awarded-best-design-ifest-2022>`__ (:cite:t:`2022:MIT`)
 una ligera variación a la definición anterior. La dejaré en el documento porque me parece 
 que aclara el alcance de la palabra PRÁCTICA en la definición. Adicionalmente, las personas que publican 
 esta variación son reconocidos líderes de IEEE ICICLE. 
@@ -61,7 +62,7 @@ esta variación son reconocidos líderes de IEEE ICICLE.
   Sae Schatz. En the Advanced Distributed Learning Initiative iFest 2022.
 
 El poster original se observa en la siguiente figura y está tomado de 
-`esta <https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3>`__ 
+`esta <https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3>`__ (:cite:t:`2022:MIT-medium`) 
 publicación en Medium realizada por MIT Open Learning. 
 
 .. image:: ../_static/posterLE.png
@@ -77,7 +78,7 @@ Descripción del perfil del egresado
 -------------------------------------
 
 El perfil del egresado de Ingeniería del Aprendizaje es un perfil interdisciplinario. 
-Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ la flor de conocimiento 
+Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ (cite:t:`2022:ieee-icicle-process`) la flor de conocimiento 
 central de la Ingeniería del Aprendizaje se puede observar en la siguiente imagen:
 
 .. image:: ../_static/LE-Core-Knowledge-Flower.png
