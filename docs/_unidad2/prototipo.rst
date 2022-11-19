@@ -153,22 +153,28 @@ acerca del mundo tal como es. El objetivo de la ingeniería es crear SOLUCIONES 
 el uso de la ciencia como una HERRAMIENTA.
 
 
-:cite:t:`2019:Watters` plantea una cuestión muy interesante. Profesionales como los diseñadores instruccionales o 
+:cite:t:`2019:Watters` plantea una cuestión muy interesante. Los profesionales como los diseñadores instruccionales o 
 los tecnólogos instruccionales cuyos títulos son en tecnologías educativas y similares cuestionan si la Ingeniería 
 del aprendizaje es simplemente un CAMBIO DE MARCA, una forma de renombrar sus profesiones por una con un campo 
 de acción más amplio y lucrativo como lo es la Ingeniería. Al respecto en :cite:t:`2019:godell` plantea la pregunta 
 ``Are You Doing Learning Engineering—Or Instructional Design?`` Concuerdo con la acercamiento del autor a esta 
 cuestión y se trata de reflexionar en esta otra pregunta ¿El proyecto de diseño instruccional actual es un 
-proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingería del aprendizaje la respuesta a esta 
+proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingeniería del aprendizaje la respuesta a esta 
 última pregunta sería AFIRMATIVA si:
 
 * Se aplican las ciencias del aprendizaje ``Y``
 * Se usan metodologías de diseño de ingeniería centradas en el humano ``Y``
 * Se toman decisiones basadas en DATOS.
 
-Acercamiento al mapa de capacidades y competencias 
-----------------------------------------------------
+Acercamiento a las competencias del programa  
+----------------------------------------------
 
+Para acercarse 
+
+
+
+Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
+engineering design methodologies and data-informed decision-making to support learners and their development.
 
 
 Propuesta de implementación
