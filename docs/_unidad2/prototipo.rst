@@ -170,13 +170,49 @@ proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingeniería
 Acercamiento a las competencias del programa  
 ----------------------------------------------
 
-Para acercarse a una posible definición de competencias es importante recordar algunas definición:
+Para acercarse a una posible propuesta de competencias para el Ingeniería del aprendizaje 
+es importante recordar algunas definición:
 
 * Ingeniería del aprendizaje. "Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
   engineering design methodologies and data-informed decision-making to support learners and their development."
 * Competencia. Actuación integral para IDENTIFICAR, INTERPRETAR, ARGUMENTAR y RESOLVER PROBLEMAS del contexto integrando 
   conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
- 
+
+De estas definiciones se proponen estas consideraciones:
+
+* Una competencia se entenderá como una unidad compuesta de tres partes: conceptos y teorías, actitudes y valores, y 
+  habilidades procedimentales y técnicas. Por tanto, un aprendiz puede conocer un concepto, pero si no lo aplica correctamente 
+  mediante algún procedimiento y actitud para resolver un problema entonces diremos que no es competente aún. Dicho de otra 
+  manera, el aprendiz exhibirá una competencia cuando sea posible observar de manera integrada el despliegue de los 
+  tres elementos en una situación PROBLEMÁTICA.
+* Para encontrar las competencias de Ingeniería del aprendizaje se partirá de la definición y se deberán identificar competencias 
+  necesarias para: seguir el proceso, aplicar las ciencias del aprendizaje, usar metodologías de diseño de ingeniería centradas en 
+  el humano, instrumentar el proceso y la experiencia de aprendizaje, analizar el proceso y la experiencia usando datos 
+  para la toma de decisiones y actuar con ética.
+* Para poder observar y de esa manera evaluar las competencias se deben proponer PROBLEMAS de contexto. De esta manera la 
+  evaluación es CENTRADA en resolver problemas más que en determinar el grado de apropiación de los contenidos.
+
+Acercamiento a las competencias para el PROCESO de Ingeniería del aprendizaje
+*******************************************************************************
+
+Según :cite:t:`2022:godell` el proceso de la Ingeniería del aprendizaje inicia con un RETO. El reto consiste en entender 
+la oportunidad para mejorar el aprendizaje o las condiciones para que este se de en un CONTEXTO. El contexto está 
+compuesto por el ambiente, el equipo que aborda el reto y los aprendices. Luego de esto el proceso incluye ciclos de 
+CREACIÓN, IMPLEMENTACIÓN e INVESTIGACIÓN que se desarrollan de manera iterativa y no necesariamente en orden. Incluso 
+los ciclos pueden ser paralelos. El proceso es iterativo y lo que se hace en cada iteración depende de los datos 
+extraídos y analizados de la iteración anterior.
+
+.. image:: ../_static/LEprocess.png
+  :alt: El proceso de la Ingeniería del aprendizaje
+  :align: center
+  :width: 100%
+
+|
+
+
+
+
+
 
 Propuesta de implementación
 -----------------------------
