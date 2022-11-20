@@ -170,13 +170,13 @@ proyecto de Ingeniería del aprendizaje? Basado en la definición de Ingeniería
 Acercamiento a las competencias del programa  
 ----------------------------------------------
 
-Para acercarse a  
+Para acercarse a una posible definición de competencias es importante recordar algunas definición:
 
-
-
-Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
-engineering design methodologies and data-informed decision-making to support learners and their development.
-
+* Ingeniería del aprendizaje. "Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
+  engineering design methodologies and data-informed decision-making to support learners and their development."
+* Competencia. Actuación integral para IDENTIFICAR, INTERPRETAR, ARGUMENTAR y RESOLVER PROBLEMAS del contexto integrando 
+  conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
+ 
 
 Propuesta de implementación
 -----------------------------
