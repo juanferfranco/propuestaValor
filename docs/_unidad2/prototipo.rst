@@ -65,12 +65,13 @@ El poster original se observa en la siguiente figura y está tomado de
 `esta <https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3>`__ (:cite:t:`2022:MIT-medium`) 
 publicación en Medium realizada por MIT Open Learning. 
 
-.. image:: ../_static/posterLE.png
-  :alt: Poster Learning Engineering at a Glance
-  :align: center
-  :width: 100%
-
-|
+.. figure:: ../_static/posterLE.png
+   :alt: Poster Learning Engineering at a Glance
+   :class: with-shadow
+   :align: center
+   :width: 100%
+   
+   Tomado de :cite:t:`2022:MIT-medium`.
 
 La ingeniería del aprendizaje se plantea como una ingeniería y no como un diseño porque aunque usa las metodologías del diseño,  
 las combina con procesos guiados por DATOS y principios de ingeniería, tales como la teoría del control, que no son prácticas 
@@ -91,10 +92,13 @@ El perfil del egresado de ingeniería del aprendizaje es un perfil interdiscipli
 Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ (cite:t:`2022:ieee-icicle-process`) la flor de conocimiento 
 central de la ingeniería del aprendizaje se puede observar en la siguiente imagen:
 
-.. image:: ../_static/LE-Core-Knowledge-Flower.png
-  :alt: Learning Engineering Core Knowledge Flower
-  :align: center
-  :width: 100%
+.. figure:: ../_static/LE-Core-Knowledge-Flower.png
+   :alt: Learning Engineering Core Knowledge Flower
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
 
 Esta flor de conocimiento implica que el Ingeniero del aprendizaje podría desempeñarse en ámbitos 
 específicos o pétalos de la flor, compartiendo vocabulario con profesionales disciplinares y/o otros 
@@ -221,12 +225,13 @@ el reto.Luego de esto el proceso incluye ciclos de CREACIÓN, IMPLEMENTACIÓN e 
 iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos. El proceso es iterativo y lo 
 que se hace en cada iteración depende de los datos extraídos y analizados de la iteración anterior.
 
-.. image:: ../_static/LEprocess.png
-  :alt: El proceso de la ingeniería del aprendizaje
-  :align: center
-  :width: 100%
+.. figure:: ../_static/LEprocess.png
+   :alt: El proceso de la ingeniería del aprendizaje
+   :align: center
+   :width: 100%
 
-|
+   Tomado de :cite:t:`2022:MIT-medium`.
+
 
 En el proceso de la ingeniería del aprendizaje ENTENDER el reto es central. Este entendimiento incluye entender 
 los objetivos del aprendizaje, a los aprendices y las condiciones que dificultan o ayudan al aprendiz a lograr los 
@@ -243,10 +248,13 @@ de un abordaje interdisciplinario. La comunidad de IEEE ICICLE ha definido una f
 pétalos representan los campos disciplinares o profesionales que pueden llegar a ser parte de una solución 
 de ingeniería del aprendizaje:
 
-.. image:: ../_static/LE-Core-Knowledge-Flower.png
-  :alt: Learning Engineering Core Knowledge Flower
-  :align: center
-  :width: 100%
+.. figure:: ../_static/LE-Core-Knowledge-Flower.png
+   :alt: Learning Engineering Core Knowledge Flower
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
 
 Es importante anotar que la formación de un Ingeniero del aprendizaje no debería caer en el error 
 de abordar de manera aislada cada disciplina, es decir, se debería descartar de entrada la idea 
@@ -264,12 +272,26 @@ Acercamiento a las competencias desde las ciencias del aprendizaje
 Las ciencias del aprendizaje proveen la perspectiva de cómo funciona el cerebro y cómo aprenden las personas. El trabajo 
 de la ingeniería del aprendizaje es APLICAR esta información para construir ``SOLUCIONES ESCALABLES``. 
 
-.. image:: ../_static/LE-LearningSciences.png
-  :alt: Ciencias del aprendizaje en learning engineering
-  :align: center
-  :width: 100%
+.. figure:: ../_static/LE-LearningSciences.png
+   :alt: Ciencias del aprendizaje en learning engineering
+   :class: with-shadow
+   :align: center
+   :width: 100%
 
+   Tomado de :cite:t:`2022:MIT-medium`.
 
+.. note:: EL GRAN RETO
+
+    Las soluciones que desarrolla la ingeniería del aprendizaje NO SON soluciones para la media. Las soluciones 
+    se adaptan y personalizan la experiencia de aprendizaje para optimizar los resultados de aprendizaje individuales.
+
+Para lograr un aprendizaje productivo se requiere que las actividades de aprendizaje sean continuas y con el nivel justo 
+de dificultad. Si las tareas propuesta son muy difíciles serán frustrantes y no se conectarán con el conocimiento previo. 
+Si las tareas son muy fáciles y no ofrecen un reto serán aburridas. En la mitad de estos extremos está lo que las ciencias 
+cognitivas llaman las ``dificultades deseables`` (:cite:t:`2011:bjorkmaking`). El reto de la ingeniería del aprendizaje es proponer soluciones 
+escalables y personalizadas que mantengan a los aprendices en sus ``zonas de desarrollo proximal``. En otras palabras, 
+para personalizar una experiencia de aprendizaje es necesario entregar las dificultades deseables en la medida justa 
+para provocar esfuerzo sin frustración.
 
 
 
