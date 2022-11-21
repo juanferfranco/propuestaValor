@@ -557,7 +557,6 @@ Estas competencias serán las necesarias para poder abordar el problema. El reto
 poder observar en el proceso de solución del problema si un criterio de competencia está fallando. Es allí 
 donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
 
-
 Plan de estudios
 *****************
 
@@ -570,9 +569,41 @@ en problemas; sin embargo, a medida que el estudiante avanza en el programa los 
 en ``retos``.
 
 El referente más cercano que nos permitirá analizar cómo se podría implementar en nuestro contexto un plan de estudios 
-centrado en problemas es London Interdisciplinary School con el programa Interdisciplinary Problems and Methods BASc. 
+centrado en problemas es London Interdisciplinary School (LIS) con el programa Interdisciplinary Problems and Methods BASc. 
 El prospecto para el año 2023 se puede descargar de 
 `aquí <https://github.com/juanferfranco/propuestaValor/blob/master/docs/_static/Undergraduate-Prospectus-2023-entry.pdf>`__.
+
+Como referencia rápida se incluyen en este documento capturas de pantalla del plan de estudios propuesto por LIS 
+para el pregrado en métodos y problemas interdisciplinarios.
+
+.. figure:: ../_static/LIS-year1.png
+   :alt:   Interdisciplinary Problems and Methods BASc año 1
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:LIS-2023`.
+
+.. figure:: ../_static/LIS-year2.png
+   :alt:   Interdisciplinary Problems and Methods BASc año 2
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:LIS-2023`.
+
+.. figure:: ../_static/LIS-year3.png
+   :alt:   Interdisciplinary Problems and Methods BASc año 3
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:LIS-2023`.
+
+Los problemas se desplegarán en el plan estudios por niveles de complejidad y de incertidumbre. 
+Desde el nivel resolutivo hasta el nivel estratégico y desde problemas bin definidos hasta retos que demandarán 
+la definición del problema mismo a resolver. De esta manera las competencias transitarán el mismo camino 
+de los resolutivo a lo estratégico.
 
 Metodología del programa
 **************************
@@ -586,3 +617,84 @@ artículo.
 
 Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la Universidad 
 ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`).
+
+Tipologías de problemas
+**************************
+
+Para alinear el modelo de plan de estudios centrado en problemas considerando niveles de complejidad e incertidumbre 
+incrementales se propone definir tres tipologías de problemas denominados problemas resolutivos, problemas autónomos y 
+problemas estratégicos.
+
+Los problemas resolutivos son problemas que requieren que el estudiante comprenda un espacio de solución y sea capaz de 
+transferir soluciones entre problemas muy similares. La compresión de un espacio de solución implica comprender los conceptos 
+y aplicarlos a la solución de problemas mediante procedimientos y valores.
+
+Los problemas autónomos son problemas que demandan procesos de optimización de la solución por parte del estudiante. 
+Para optimizar es necesario realizar compromisos y esos compromisos implican la selección argumentada de una posible solución 
+del espacio soluciones que permita optimizar contra algún o algunos requisitos no funcionales. Para abordar este tipo de 
+problemas el estudiante tuvo que haberse enfrentado a un conjunto de problemas resolutivos previamente y adicionalmente 
+abordar el estudio, puede ser por medio de casos de estudio, la manera de abordar problemas autónomos. Los problemas resolutivos 
+buscan soluciones que resuelvan problemas contra los requisitos funcionales, mientras que los problemas autónomos 
+buscan optimizar mediante la selección argumentada para optimizar un requisito no funcional.
+
+Los problemas estratégicos implican optimización pero son diferentes a los problemas autónomos porque demandan la combinación  
+de soluciones o la creación de nuevas soluciones para resolver el problema de optimización. Esto quiere decir que al resolver 
+problemas estratégicos se aumenta el espacio de soluciones.
+
+Es responsabilidad de la facultad diseñar cuidadosamente la selección de experiencias de aprendizaje que le permita al 
+estudiante navegar desde los problemas resolutivos hasta los estratégicos. Se espera también que al final del plan de estudios 
+la incertidumbre sea tan alta que los problemas transiten a retos.
+
+Portafolio de problemas o portafolio de excelencia
+***************************************************
+
+A medida que el estudiante progresa en el plan de estudios debe ir construyendo con ayuda de la facultad su portafolio 
+de problemas. Este portafolio permitirá visibilizar las competencias adquiridas y las evidencias a la solución de 
+problemas. 
+
+Mentoría
+*************
+
+Se propone que el programa acompañe al estudiante desde tres dimensiones:
+
+* La dimensión de desarrollo personal donde se le brida soporte emocional.
+* La dimensión de desarrollo profesional donde se acompaña al estudiante en la construcción del portafolio y la selección 
+  de rutas profesionales.
+* La dimensión de desarrollo académico donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
+  meta-cognitivos que tienen como propósito aprender a aprender.
+
+El rol del estudiante 
+***********************
+
+* El estudiante selecciona los problemas según sus necesidades y perfil. Este proceso se realiza acompañado 
+  del mentor de desarrollo profesional y el mentor de desarrollo personal.
+* El estudiante de manera autónoma aborda los problemas acompañado por el mentor de desarrollo académico.
+* El estudiante busca los recursos que necesite para demostrar que alcanzó la solución al problema.
+
+El rol del docente 
+***********************
+
+* Los docentes podrán acompañar desde las tres dimensiones de mentoría propuestas. Es decir, el docente no solo 
+  debe ser un experto en procesos de ingeniería del aprendizaje sino también en mentoría desde las tres dimensiones 
+  propuestas.
+* Los docentes acompañarán los procesos de evaluación auténtica y avalarán los portafolios de problemas de los estudiantes.
+* Los docentes realizarán en paralelo a sus labores de mentoría procesos de ingeniería del aprendizaje en el propio 
+  programa, otros programas de la institución o proyectos externos a la misma que permitan enriquecer el programa, 
+  las redes de contacto y la experiencia del propio docente.
+
+El rol de la Universidad
+**************************
+
+Se espera que la Universidad:
+
+* Provee la infraestructura necesaria para realizar los procesos de indagación e investigación autónoma propios 
+  del aprendizaje basado en retos tal como lo propone la Universidad ECIU `aquí <https://youtu.be/CFCSvvsPWUA>`__.
+* Provee acceso a los mentores, empresas y organizaciones que garantices el acceso y el desarrollo acompañado 
+  a los problemas.
+
+Titulaciones y certificaciones 
+********************************
+
+El plan de estudios centrado en problemas permite ir certificando el nivel de las competencias 
+adquiridas desde el nivel resolutivo hasta el nivel estratégico. Se podrán ir certificando competencias 
+y grupos de ellas podrán ir conformando titulaciones.
