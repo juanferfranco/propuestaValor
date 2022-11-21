@@ -412,6 +412,13 @@ una tendrá su PROPIA FUNCIÓN DE TRANSFERENCIA que además será variable en el
 que proponga la ingeniería del aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
 adaptarse en el tiempo a esa variabilidad. 
 
+En :cite:t:`2022:godell` se discuten otros asuntos importantes que deberían consultarse posteriormente como son 
+la velocidad de la retroalimentación para minimizar los tiempos de propagación y la frecuencia y la riqueza de la 
+retroalimentación. Según :cite:t:`2022:godell` la teoría del control dice que una retroalimentación rápida y frecuente 
+permite compensar las medidas imprecisas y las funciones de transferencia pobres. En términos educativos, permitiría 
+compensar una evaluación subóptima y una teoría del aprendizaje menos que perfecta. Sin embargo, mucha retroalimentación 
+puede ser poco productiva para el aprendiz porque genera alta carga cognitiva y afecta el nivel de dificultad deseado.
+
 En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en la ingeniería del aprendizaje:
 
 * La ciencia tiene como objetivo descubrir verdades sobre el mundo. La ingeniería busca crear soluciones escalables 
@@ -431,8 +438,41 @@ En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en l
 Acercamiento a las competencias desde la captura de datos y la analítica 
 *************************************************************************
 
+El proceso de ingeniería del aprendizaje es altamente dependiente de los datos. Los datos se usan para tomar 
+decisiones en el proceso relativas a la experiencia y al proceso mismo. Ambas cosas se ajustan iterativamente 
+gracias al uso de los datos. 
+
+.. warning:: MUY IMPORTANTE 
+
+  Si en un proceso de diseño e implementación de una experiencia de aprendizaje no se recolectan  
+  datos y no se analizan entonces no se está haciendo ingeniería del aprendizaje.
+
+Según :cite:t:`2022:godell` para tomar decisiones basadas en datos, la ingeniería del aprendizaje necesita hacer dos cosas:
+
+* Instrumentación. Es la parte de la ingeniería del aprendizaje encargada del diseño, desarrollo e implementación 
+  de la recolección de datos en una solución de aprendizaje indispensable para realizar mejoras a esta en 
+  cada iteración.
+* Analítica. Es la parte de la ingeniería del aprendizaje responsable del análisis de los datos recolectados en la 
+  instrumentación para realizar mejoras iterativas a la solución de aprendizaje.
+
+En :cite:t:`2022:MIT-medium` se resume el papel de los datos en el proceso de la ingeniería del aprendizaje:
+
+.. figure:: ../_static/LE-dataInstrumentation.png
+   :alt: Instrumentación en ingeniería del aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
 
 
+.. figure:: ../_static/LE-dataAnalytics.png
+   :alt: Analítica ingeniería del aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
 
 Propuesta de implementación
 -----------------------------
