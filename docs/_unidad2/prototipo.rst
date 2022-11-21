@@ -358,6 +358,40 @@ y las motivacionales.
 En la ingeniería del aprendizaje se busca construir soluciones escalables y personalizadas. Por tanto, se 
 aplica la teoría de control para el aprendizaje personalizado:
 
+.. figure:: ../_static/LE-control.png
+   :alt: control aplicado al aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:godell`.
+
+Según :cite:t:`2022:godell` "el sistema de educación tradicional es un sistema de control de lazo abierto. Se establecen un conjunto de objetivos 
+o recientemente resultados de aprendizaje. Esto se traslada a instrucciones en forma de libros de texto, clases magistrales 
+y ejercicios. Estas actividades se entregan a los aprendices dando como resultado las habilidades o competencias esperadas. 
+En el sistema tradicional a todos los aprendices se les entregan las mismas actividades. Los sistemas de lazo abierto 
+requieren sistemas muy precisos y un gran margen de error aceptable. Los alumnos llegan a un curso con personalidad, 
+talentos, preferencias y antecedentes diferentes. El resultado de aplicar un sistema de control en lazo abierto en estas 
+circunstancias producirá como resultado un margen de error muy amplio. Los buenos profesores y diseños curriculares proveen 
+retroalimentación constante a los aprendices y adaptan la enseñanza a las necesidades de estos. Los buenos aprendices a su vez 
+adaptan su estrategia de aprendizaje en función de la retroalimentación." Ambas estrategias de adaptación requieren el uso de 
+rúbricas que permitan comparar la retroalimentación con un estándar de lo que se espera. Lo anterior es precisamente la 
+manera como funciona un sistema de control de lazo cerrado tal como lo muestra la figura anterior. Lo ideal es que esta 
+estrategia se pueda aplicar con cada aprendiz, pero la realidad es que que el costo de implementar esta idea con cada uno 
+es prohibitivo. El reto entonces de la ingeniería del aprendizaje es lograr lo anterior a escala y con costos razonables.
+
+Idealmente un sistema instruccional adaptativo necesitaría múltiples lazos de retroalmentación:
+
+.. figure:: ../_static/LE-multiFeedback.png
+   :alt: control aplicado al aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
+
+Por ejemplo, las dos capas más internas se verían así:
+
 .. figure:: ../_static/LE-feedback.png
    :alt: control aplicado al aprendizaje.
    :class: with-shadow
@@ -365,6 +399,18 @@ aplica la teoría de control para el aprendizaje personalizado:
    :width: 100%
 
    Tomado de :cite:t:`2022:MIT-medium`.
+
+En la figura se observa un primer lazo de control cerrado al realizar una actividad y luego un control cerrado 
+más externo para seleccionar la siguiente actividad.
+
+:cite:t:`2022:godell` explica que en control una ``función de transferencia`` permite describir matemáticamente 
+la relación entre las entradas y las salidas de un sistema. Esta información es usada por el controlador para 
+poder anticipar qué entrada será necesaria para lograr una salida específica. En la ingeniería del aprendizaje 
+según :cite:t:`2022:godell` la función de transferencia es una ``teoría del aprendizaje``. Esta teoría permite 
+seleccionar la actividad que le permitirá al estudiante aprender. Debido a la variabilidad de las personas cada 
+una tendrá su PROPIA FUNCIÓN DE TRANSFERENCIA que además será variable en el tiempo. Es por ellos que los sistemas 
+que proponga la ingeniería del aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
+adaptarse en el tiempo a esa variabilidad. 
 
 En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en la ingeniería del aprendizaje:
 
@@ -377,13 +423,13 @@ En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en l
 * Los sistemas se diseñan usando modelos de varios grados de fidelidad.
 * La escalabilidad de los sistemas complejos se aborda mediante estrategias modulares, es decir, partir el sistema 
   en módulos con interfaces estándares entre ellos para favorecer la interoperabilidad.
-* La teoría del control ofrece ideas acerca del uso de ciclos de retroalimentación aplicados al aprendizaje. Se reconoce 
-  El aprendizaje humano funciona mejor con múltiples lazos de retroalimentación.
+* La teoría del control ofrece ideas acerca del uso de ciclos de retroalimentación aplicados al aprendizaje. El aprendizaje 
+  humano funciona mejor con múltiples lazos de retroalimentación.
 * Las ciencias del aprendizaje no se están aplicando a escala. Por tanto, la ingeniería del aprendizaje se presenta 
   como una nueva profesión que ayude a producir soluciones de aprendizaje a escala.
 
-Acercamiento a las competencias desde la instrumentación de los datos y la analítica
-**************************************************************************************
+Acercamiento a las competencias desde la captura de datos y la analítica 
+*************************************************************************
 
 
 
