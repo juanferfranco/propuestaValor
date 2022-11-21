@@ -487,7 +487,7 @@ Principios
 La propuesta está fundamentada en dos principios:
 
 #. El respeto por la diferencia 
-#. El mastery learning (:cite:t:`2022:wiki-master`)
+#. El mastery learning (:cite:t:`2022:wiki-mastery`)
 
 El respeto por la diferencia. Todos tenemos ritmos y tiempos de aprendizaje diferentes. Todos nuestros estudiantes 
 deberían tener la oportunidad de alcanzar el máximo nivel esperado. Las implicaciones son fundamentales en términos 
@@ -529,19 +529,19 @@ Evaluación
 
 La evaluación está centrada en el mejoramiento continuo. Es lo que en el modelo pedagógico institucional se 
 reconoce como evaluación formativa. Dicha evaluación es la más importante. La evaluación sumativa pasa a un 
-segundo plano, es una consecuencia orgánica de centrar el modelo en una evaluación auténtica y formativa. La evaluación 
+segundo plano, es una consecuencia orgánica de centrar el modelo en una evaluación auténtica. La evaluación 
 sirve para mejorar, para dominar el objetivo de aprendizaje definido.
 
 La evaluación está centrada en resolver problemas más que en determinar el grado de apropiación del conocimiento. La 
-evaluación se aborda mediante procesos y productos que demuestran la solución de problema. Por tanto, evaluar 
+evaluación se aborda mediante procesos y productos que demuestran la solución de problemas. Por tanto, evaluar 
 en esta propuesta implica observar cómo se encaran (proceso) y resuelven dichos problemas.
 
 Competencias, criterios y resultados de aprendizaje
 *****************************************************
 
 Para abordar los problemas se requieren unas competencias. Por definición institucional una competencia es 
-una actuación integral para IDENTIFICAR, INTERPRETAR, ARGUMENTAR y RESOLVER PROBLEMAS del contexto integrando 
-conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
+una actuación integral para ``identificar``, ``interpretar``, ``argumentar`` y ``resolver problemas`` del contexto integrando 
+``conceptos`` y teorías, ``actitudes`` y valores, y ``habilidades`` procedimentales y técnicas.
 
 Las competencias se desagregan en criterios de competencia. Esto criterios deberán responder por los tres 
 componentes de una competencia, es decir, se deberán definir criterios de competencia relacionados con los 
@@ -554,5 +554,33 @@ En la institución los niveles son receptivo, resolutivo, autónomo y estratégi
 En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen competencias, es decir, 
 las experiencias de aprendizaje deben permitir que el estudiante despliegue la o las competencias a observar. 
 Estas competencias serán las necesarias para poder abordar el problema. El reto del estudiante y el docente es 
-poder observar en el contexto de la solución del problema si un criterio de competencia está fallando. Es allí 
+poder observar en el proceso de solución del problema si un criterio de competencia está fallando. Es allí 
 donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
+
+
+Plan de estudios
+*****************
+
+El plan de estudios de ingeniería del aprendizaje es centrado en problemas, no en cursos. Por tanto, el plan 
+de estudios no define cursos. El estudiante matricula problemas o situaciones problemáticas donde el problema 
+no necesariamente está bien definido. La facultad ofertará los problemas que podrán 
+ser propuestos por docentes, estudiantes, empresas, entes gubernamentales, entre otros. Los problemas que el estudiante 
+matriculará irán aumentando en complejidad e incertidumbre. Se podría decir que el plan de estudios es basado 
+en problemas; sin embargo, a medida que el estudiante avanza en el programa los problemas se irán convirtiendo 
+en ``retos``.
+
+
+
+
+Metodología del programa
+**************************
+
+Las experiencias de aprendizaje en el programa se diseñarán observando tres posibles estrategias. Aprendizaje 
+basado en proyectos, aprendizaje basado en problemas y aprendizaje basado en retos. La diferencias entre estas 
+tres aproximaciones se pueden consultar en `este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ 
+(:cite:t:`2015:tec`) documento del Tecnológico de Monterrey y más recientemente en 
+`este <https://transferencia.tec.mx/english/outstanding/do-you-know-what-challenge-based-learning-is/>`__ (:cite:t:`2021:Membrillo`) 
+artículo.
+
+Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la Universidad 
+ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`).
