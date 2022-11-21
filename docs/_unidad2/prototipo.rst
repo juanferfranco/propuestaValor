@@ -400,8 +400,8 @@ Por ejemplo, las dos capas más internas se verían así:
 
    Tomado de :cite:t:`2022:MIT-medium`.
 
-En la figura se observa un primer lazo de control cerrado al realizar una actividad y luego un control cerrado 
-más externo para seleccionar la siguiente actividad.
+En la figura se observa un primer lazo de control cerrado al realizar una actividad y luego otro lazo cerrado 
+más externo para seleccionar la siguiente actividad de la lección.
 
 :cite:t:`2022:godell` explica que en control una ``función de transferencia`` permite describir matemáticamente 
 la relación entre las entradas y las salidas de un sistema. Esta información es usada por el controlador para 
