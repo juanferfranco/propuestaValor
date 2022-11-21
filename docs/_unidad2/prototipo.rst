@@ -569,8 +569,10 @@ matriculará irán aumentando en complejidad e incertidumbre. Se podría decir q
 en problemas; sin embargo, a medida que el estudiante avanza en el programa los problemas se irán convirtiendo 
 en ``retos``.
 
-
-
+El referente más cercano que nos permitirá analizar cómo se podría implementar en nuestro contexto un plan de estudios 
+centrado en problemas es London Interdisciplinary School con el programa Interdisciplinary Problems and Methods BASc. 
+El prospecto para el año 2023 se puede descargar de 
+`aquí <https://github.com/juanferfranco/propuestaValor/blob/master/docs/_static/Undergraduate-Prospectus-2023-entry.pdf>`__.
 
 Metodología del programa
 **************************
