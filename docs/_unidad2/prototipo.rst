@@ -280,18 +280,111 @@ de la ingeniería del aprendizaje es APLICAR esta información para construir ``
 
    Tomado de :cite:t:`2022:MIT-medium`.
 
-.. note:: EL GRAN RETO
+.. note:: EL RETO
 
     Las soluciones que desarrolla la ingeniería del aprendizaje NO SON soluciones para la media. Las soluciones 
     se adaptan y personalizan la experiencia de aprendizaje para optimizar los resultados de aprendizaje individuales.
 
 Para lograr un aprendizaje productivo se requiere que las actividades de aprendizaje sean continuas y con el nivel justo 
-de dificultad. Si las tareas propuesta son muy difíciles serán frustrantes y no se conectarán con el conocimiento previo. 
+de dificultad. Si las tareas propuestas son muy difíciles serán frustrantes y no se conectarán con el conocimiento previo. 
 Si las tareas son muy fáciles y no ofrecen un reto serán aburridas. En la mitad de estos extremos está lo que las ciencias 
-cognitivas llaman las ``dificultades deseables`` (:cite:t:`2011:bjorkmaking`). El reto de la ingeniería del aprendizaje es proponer soluciones 
-escalables y personalizadas que mantengan a los aprendices en sus ``zonas de desarrollo proximal``. En otras palabras, 
-para personalizar una experiencia de aprendizaje es necesario entregar las dificultades deseables en la medida justa 
-para provocar esfuerzo sin frustración.
+cognitivas llaman las ``dificultades deseables`` (:cite:t:`2011:bjorkmaking`). El reto de la ingeniería del aprendizaje es 
+proponer soluciones escalables y personalizadas que mantengan a los aprendices en sus ``zonas de desarrollo proximal``. 
+En otras palabras, para personalizar una experiencia de aprendizaje es necesario entregar las dificultades 
+deseables en la medida justa para provocar esfuerzo sin frustración.
+
+Las ciencias del aprendizaje son la base de la ingeniería del aprendizaje; sin embargo, se deben entender como el punto 
+de partida de una solución, es decir, como la primera iteración que permite que la solución converja más rápidamente o en menos 
+iteraciones. Según :cite:t:`2022:godell` los esfuerzos para diseñar una solución de aprendizaje efectiva no deben basarse 
+únicamente en teorías del aprendizaje validadas porque los avances teóricos suelen ser demasiado lentos y definidos en 
+condiciones ideales. La ingeniería del aprendizaje usa métodos iterativos de diseño, implementación, evaluación y re-diseño 
+permitiendo encontrar soluciones de manera más ágil.
+
+Acercamiento a las competencias desde los métodos de diseño de ingeniería centrados en el humano
+***************************************************************************************************
+
+Según :cite:t:`2015:ideo` el diseño centrado en el humano requiere al menos la realización de las siguientes 
+seis actividades:
+
+#. Observación para entender a los usuarios objetivo y su entorno.
+#. Ideación para generar opciones para abordar los retos.
+#. Prototipado rápido para materializar las decisiones de diseño y poder recibir retroalimentación rápida 
+   de los usuarios.
+#. Pruebas de usuario en torno a prototipos para recopilar preferencia y datos de usabilidad de los usuarios finales.
+#. Re-diseño de las ideas y los prototipos usando los datos de la actividad anterior.
+#. Iteración para ir refinando el prototipo hasta la solución final.
+
+
+Uno de los grandes desafíos de la ingeniería del aprendizaje es el diseño para la variabilidad porque todas 
+las personas aprenden a diferentes ritmos y parten de modelos mentales distintos. La ingeniería del aprendizaje 
+toma entonces métodos y prácticas del design thinking, el diseño participativo y el diseño justo para afrontar 
+dicha variabilidad.
+
+Además de estar centrada en el humano o el usuario, la ingeniería del aprendizaje debe enfocarse en el aprendizaje, 
+es decir, aprendices que aprenden más que en usuarios que usan un diseño. Según :cite:t:`1994:Soloway` las interacciones 
+informáticas más utilizables no siempre son las mejores formas de aprender los conceptos y las 
+habilidades específicas. Por tanto, un diseño centrado en el aprendizaje debe incluir tanto la usabilidad como 
+los resultados de aprendizaje. Es así como además de los acercamientos que se usan para afrontar el diseño para la 
+variabilidad, es necesario usar métodos y prácticas para abordar el aprendizaje como el diseño universal para 
+el aprendizaje (universal design for learning), el diseño de experiencias de aprendizaje (learning experience design o 
+LxD) y la investigación basada en el diseño (design-based design). 
+
+Acercamiento a las competencias desde la ingeniería
+*****************************************************
+
+Para la ingeniería del aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
+herramienta para resolver problemas. Esto plantea las siguientes preguntas: ¿Qué ciencia básica debe estudiar 
+un ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
+esa discusión en este punto dejo mi opinión al respecto. Considerando que la práctica de la ingeniería del 
+aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas se 
+sugiere que el estudio de las mismas se haga justo a necesidad del problema a resolver. Se nos dice 
+constantemente que un ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
+básica no es saberla como un requisito más para obtener el título de ingeniero, sino más bien aplicarla como 
+una herramienta que permita abordar problemas cada vez más complejos. En ese sentido considero que la ciencia 
+básica debería ir de menos a más en la formación del ingeniero del aprendizaje, es decir, problemas más complejos 
+demandarán ciencia básica más compleja. Es por ello que un plan de estudios centrado en problemas y no en cursos 
+deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al ingeniero del 
+aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
+
+La ingeniería del aprendizaje como toda ingeniería debe aborda compromisos (trade-offs) y debe navegar las 
+restricciones para alcanzar resultados prácticos. La ingeniería del aprendizaje debe ir más allá de la ciencia haciendo 
+sus propios experimentos y realizando sus propios compromisos porque un ingeniero del aprendizaje busca solucionar 
+problemas pero siempre tendrá que realizar compromisos para alcanzar el nivel de optimización deseado.
+
+Según :cite:t:`2022:godell` además de la matemática la ingeniería del aprendizaje requiere de otras ciencias 
+para resolver problemas como por ejemplo las ciencias cognitivas, las socioculturales, las comportamentales 
+y las motivacionales. 
+
+En la ingeniería del aprendizaje se busca construir soluciones escalables y personalizadas. Por tanto, se 
+aplica la teoría de control para el aprendizaje personalizado:
+
+.. figure:: ../_static/LE-feedback.png
+   :alt: control aplicado al aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Tomado de :cite:t:`2022:MIT-medium`.
+
+En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en la ingeniería del aprendizaje:
+
+* La ciencia tiene como objetivo descubrir verdades sobre el mundo. La ingeniería busca crear soluciones escalables 
+  a problemas que funcionen dentro de un rango de condiciones. La ingeniería es un proceso sistemática para 
+  solucionar problemas.
+* Las restricciones y los compromisos son centrales a la ingeniería.
+* La ingeniería del aprendizaje adopta la mentalidad de la ingeniería, incluyendo el pensamiento sistémico, la capacidad 
+  de imaginar el futuro y el enfoque científico.
+* Los sistemas se diseñan usando modelos de varios grados de fidelidad.
+* La escalabilidad de los sistemas complejos se aborda mediante estrategias modulares, es decir, partir el sistema 
+  en módulos con interfaces estándares entre ellos para favorecer la interoperabilidad.
+* La teoría del control ofrece ideas acerca del uso de ciclos de retroalimentación aplicados al aprendizaje. Se reconoce 
+  El aprendizaje humano funciona mejor con múltiples lazos de retroalimentación.
+* Las ciencias del aprendizaje no se están aplicando a escala. Por tanto, la ingeniería del aprendizaje se presenta 
+  como una nueva profesión que ayude a producir soluciones de aprendizaje a escala.
+
+Acercamiento a las competencias desde la instrumentación de los datos y la analítica
+**************************************************************************************
+
 
 
 
