@@ -474,7 +474,85 @@ En :cite:t:`2022:MIT-medium` se resume el papel de los datos en el proceso de la
 
    Tomado de :cite:t:`2022:MIT-medium`.
 
-Propuesta de implementación
------------------------------
+Propuesta de implementación del programa ingeniería del aprendizaje
+--------------------------------------------------------------------
 
+La propuesta de implementación se entrega para el programa interdisciplinario ingeniería del aprendizaje; sin embargo, 
+esta propuesta no se reduce solo al programa en cuestión sino que pretender mostrar cómo podrían implementarse 
+una familia de programas de naturaleza interdisciplinarios.
 
+Principios
+*************
+
+La propuesta está fundamentada en dos principios:
+
+#. El respeto por la diferencia 
+#. El mastery learning (:cite:t:`2022:wiki-master`)
+
+El respeto por la diferencia. Todos tenemos ritmos y tiempos de aprendizaje diferentes. Todos nuestros estudiantes 
+deberían tener la oportunidad de alcanzar el máximo nivel esperado. Las implicaciones son fundamentales en términos 
+del potencial para cambiar la mentalidad de las estudiantes.
+
+El mastery learning. Se propone un sistema de ``TIEMPO VARIABLE pero CALIDAD CONSTANTE``. Quiere decir, que el estudiante 
+debe poder llegar a dominar el objetivo de aprendizaje aunque le tome más o menos tiempo hacerlo.
+
+Características de la propuesta a la luz del modelo pedagógico institucional
+******************************************************************************
+
+La propuesta está en completa armonía con el modelo pedagógico institucional que busca privilegiar el aprendizaje, la 
+posición activa del estudiante, el papel mediador del profesor, la relación profesor-estudiante basada en el diálogo 
+y el respeto, el reconocimiento de la dignidad del otro como persona, la investigación sin descartar el método 
+expositivo, el trabajo experimental, la práctica y las actividades independientes debidamente acompañadas. Lo anterior 
+busca superar el modelo pedagógico tradicional centrado en la enseñanza, el papel receptor del estudiante y de 
+transmisor del conocimiento asumido por el profesor.
+
+Se propone:
+
+* El aprendizaje personalizado que reconoce las condiciones cognitivas de cada estudiante.
+* La posición de autonomía del estudiante, observada por el docente. La motivación es intrínseca.
+* El docente y el estudiante proponen caminos, pero es el estudiante quien toma las decisiones.
+* El diálogo es la esencia misma de los encuentros presenciales entre docentes y estudiantes.
+* Se reconoce la dignidad del otro como la oportunidad de desarrollarse al 100%.
+* La investigación como el proceso mismo. La formación del espíritu científico, en tanto se reconocen constantemente 
+  los problemas, hipótesis, alternativas de solución y se hacen reportes de los avances y las dificultades.
+* Se aborda la metacognición del proceso.
+* El acompañamiento está determinado por la necesidades del estudiante e incluye las dimensiones de desarrollo 
+  personal, profesional y académicas.
+
+.. note:: LA GRAN PROPUESTA
+
+   En este modelo de implementación el docente escucha al estudiante casi todo el tiempo versus el modelo 
+   tradicional en el cual los estudiantes escuchan al docente casi todo el tiempo.
+
+Evaluación
+************
+
+La evaluación está centrada en el mejoramiento continuo. Es lo que en el modelo pedagógico institucional se 
+reconoce como evaluación formativa. Dicha evaluación es la más importante. La evaluación sumativa pasa a un 
+segundo plano, es una consecuencia orgánica de centrar el modelo en una evaluación auténtica y formativa. La evaluación 
+sirve para mejorar, para dominar el objetivo de aprendizaje definido.
+
+La evaluación está centrada en resolver problemas más que en determinar el grado de apropiación del conocimiento. La 
+evaluación se aborda mediante procesos y productos que demuestran la solución de problema. Por tanto, evaluar 
+en esta propuesta implica observar cómo se encaran (proceso) y resuelven dichos problemas.
+
+Competencias, criterios y resultados de aprendizaje
+*****************************************************
+
+Para abordar los problemas se requieren unas competencias. Por definición institucional una competencia es 
+una actuación integral para IDENTIFICAR, INTERPRETAR, ARGUMENTAR y RESOLVER PROBLEMAS del contexto integrando 
+conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
+
+Las competencias se desagregan en criterios de competencia. Esto criterios deberán responder por los tres 
+componentes de una competencia, es decir, se deberán definir criterios de competencia relacionados con los 
+conceptos y teorías, con las actitudes y valores y con las habilidades procedimentales y técnicas. Esto se debe 
+hacer por cada competencia definida.
+
+Los resultados de aprendizaje están vinculados con el nivel al cual se desarrolla cada criterio de competencia. 
+En la institución los niveles son receptivo, resolutivo, autónomo y estratégico.
+
+En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen competencias, es decir, 
+las experiencias de aprendizaje deben permitir que el estudiante despliegue la o las competencias a observar. 
+Estas competencias serán las necesarias para poder abordar el problema. El reto del estudiante y el docente es 
+poder observar en el contexto de la solución del problema si un criterio de competencia está fallando. Es allí 
+donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
