@@ -635,7 +635,7 @@ del espacio soluciones que permita optimizar contra algún o algunos requisitos 
 problemas el estudiante tuvo que haberse enfrentado a un conjunto de problemas resolutivos previamente y aprender  
 , puede ser por medio de casos de estudio, la manera de seleccionar una solución para enfrentar problemas autónomos. Los problemas resolutivos 
 buscan soluciones que resuelvan problemas contra los requisitos funcionales, mientras que los problemas autónomos 
-buscan optimizar mediante la selección argumentada para optimizar un requisito no funcional.
+buscan optimizar mediante la selección argumentada para optimizar un o unos requisitos no funcionales.
 
 Los problemas estratégicos implican optimización pero son diferentes a los problemas autónomos porque demandan la combinación  
 de soluciones o la creación de nuevas soluciones para resolver el problema de optimización. Esto quiere decir que al resolver 
