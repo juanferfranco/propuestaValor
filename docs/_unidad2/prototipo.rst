@@ -641,7 +641,7 @@ Los problemas estratégicos implican optimización pero son diferentes a los pro
 de soluciones o la creación de nuevas soluciones para resolver el problema de optimización. Esto quiere decir que al resolver 
 problemas estratégicos se aumenta el espacio de soluciones.
 
-Es responsabilidad de la facultad diseñar cuidadosamente la selección de experiencias de aprendizaje que le permita al 
+Es responsabilidad de la facultad diseñar cuidadosamente la selección de experiencias de aprendizaje que le permitan al 
 estudiante navegar desde los problemas resolutivos hasta los estratégicos. Se espera también que al final del plan de estudios 
 la incertidumbre sea tan alta que los problemas transiten a retos.
 
