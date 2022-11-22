@@ -705,8 +705,8 @@ El plan de estudios centrado en problemas permite ir certificando el nivel de la
 adquiridas desde el nivel resolutivo hasta el nivel estratégico. Se podrán ir certificando competencias 
 y grupos de ellas podrán ir conformando titulaciones.
 
-Alineación con el modelo de ciclos, resultados de aprendizaje general, específicos y competencias
-***************************************************************************************************
+Alineación de la propuesta con el modelo por ciclos, resultados de aprendizaje general, específicos y competencias
+********************************************************************************************************************
 
 Los ciclos
 ^^^^^^^^^^^
@@ -745,7 +745,7 @@ problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada 
 los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica según corresponda.
 
 
-* Usa metodologías y herramientas propuesta para realizar un proceso de ingeniería del aprendizaje para generar 
+* Usa metodologías y herramientas propuestas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (resolutivo).
 * Selecciona de manera argumentada metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (autónomo).
@@ -755,7 +755,7 @@ los mismos resultados generales pero desde una perspectiva resolutiva, autónoma
 * Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
   de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
 * Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
-  de ingeniería del aprendizaje estratégico (autónomo).
+  de ingeniería del aprendizaje estratégico. (autónomo).
 * Crea los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
   de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
 
@@ -766,22 +766,54 @@ los mismos resultados generales pero desde una perspectiva resolutiva, autónoma
 * Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (autónomo).
 
-* Instrumenta el proceso y la solución 
+* Aplica la instrumentación propuesta del proceso de ingeniería del aprendizaje y de la solución resultado del proceso. (resolutivo).
+* Selecciona la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (autónomo).
+* Adapta la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (estratégica).
 
+* Aplica la analítica propuesta para el proceso de ingeniería del aprendizaje y para la solución resultado del proceso. (resolutivo).
+* Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
+* Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
 
+Competencias y resultados de aprendizaje específicos 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Aplicar metodologías de diseño de ingeniería centradas en el humano.
-- Instrumentar y analizar el proceso y la solución
+Como mencioné anteriormente, en esta propuesta no se proponen competencias, sino un acercamiento a ellas que podrán 
+agruparse (GC: grupo de competencias) así:
 
-..
-  Teniendo claridad en que el proceso formativo, en la   perspectiva de los resultados de aprendizaje, se centra
-  en el estudiante
+* GC1: competencias asociada con el proceso.
+* GC2: competencias asociadas con la práctica interdisciplinaria.
+* GC3: competencias asociadas con la aplicación de las ciencias del aprendizaje.
+* GC4: competencias asociadas con los métodos de diseño de ingeniería centradas en el humano.
+* GC5: competencias asociadas a la ingeniería.
+* GC6: competencias asociadas a la instrumentación y el análisis de los datos.
+* GC7: competencias asociadas al componente ético.
+* GC8: competencias asociadas a la comunicación efectiva.
 
+Cada competencia deberá estar compuesta por tres resultados de aprendizaje asociados con conceptos y teorías, 
+actitudes y valores, y habilidades procedimentales y técnicas.
 
-  an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
-  an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
-  an ability to communicate effectively with a range of audiences.
-  an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
-  an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
-  an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
-  an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Estándares internacionales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Actualmente la escuela de ingeniería de la institución se encuentra alineado los programas con los 
+7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ 
+de `ABET <https://www.abet.org/about-abet/>`__:
+
+* SO1: an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+* SO2: an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+* SO3: an ability to communicate effectively with a range of audiences.
+* SO4: an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+* SO5: an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+* SO6: an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+* SO7: an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+Los grupos de competencias (GC) propuestos podrán asociarse a los student outcomes de ABET así:
+
+* SO1: GC2, GC3, GC5.
+* SO2: GC1, GC4.
+* SO3: GC8, GC2.
+* SO4: GC7.
+* S05: GC1, GC2, GC8.
+* S06: GC5, GC6, GC7.
+* S07: GC1, GC2.
+
