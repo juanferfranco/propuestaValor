@@ -528,7 +528,7 @@ Evaluación
 ************
 
 La evaluación está centrada en el mejoramiento continuo. Es lo que en el modelo pedagógico institucional se 
-reconoce como evaluación formativa. Dicha evaluación es la más importante. La evaluación sumativa pasa a un 
+conoce como evaluación formativa. Dicha evaluación es la más importante. La evaluación sumativa pasa a un 
 segundo plano, es una consecuencia orgánica de centrar el modelo en una evaluación auténtica. La evaluación 
 sirve para mejorar, para dominar el objetivo de aprendizaje definido.
 
