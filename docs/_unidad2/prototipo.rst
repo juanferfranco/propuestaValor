@@ -655,8 +655,8 @@ problemas.
 .. warning:: MUY IMPORTANTE 
 
   El portafolio de problemas es la carta de presentación del estudiante, pero no se puede olvidar 
-  el ejercicio meta-cognitivo, aprender a aprender. Se deja abierto el mecanismo que se usará para 
-  evidenciar este proceso.
+  el ejercicio meta-cognitivo para aprender a aprender y fomentar el pensamiento crítico. Se deja abierto el 
+  mecanismo que se usará para evidenciar este proceso.
 
 Mentoría
 *************
@@ -667,7 +667,7 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
 * La dimensión de desarrollo profesional donde se acompaña al estudiante en la construcción del portafolio y la selección 
   de rutas profesionales.
 * La dimensión de desarrollo académico donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
-  meta-cognitivos que tienen como propósito aprender a aprender.
+  meta-cognitivos que tienen como propósito aprender a aprender y el pensamiento crítico.
 
 El rol del estudiante 
 ***********************
@@ -704,3 +704,84 @@ Titulaciones y certificaciones
 El plan de estudios centrado en problemas permite ir certificando el nivel de las competencias 
 adquiridas desde el nivel resolutivo hasta el nivel estratégico. Se podrán ir certificando competencias 
 y grupos de ellas podrán ir conformando titulaciones.
+
+Alineación con el modelo de ciclos, resultados de aprendizaje general, específicos y competencias
+***************************************************************************************************
+
+Los ciclos
+^^^^^^^^^^^
+
+Por definición institucional "los ciclos son una forma de organización del currículo para agrupar cursos, 
+áreas o núcleos. Aunque se muestran de manera progresiva, se integran a medida que se avanza en el plan
+de estudios. Para los pregrados se tiene: ciclo básico de formación humanista (forma en los principios y valores 
+reconocidos en la misión y visión de la institución), ciclo disciplinar (formación científica), ciclo 
+profesional (forma en los aspectos propios de la profesión) y ciclo de integración (ayuda a definir rutas 
+de especialización)."
+
+El plan de estudios de ingeniería del aprendizaje está centrado en ``problemas``, ``no en cursos``. Si 
+se requiere agrupar, de la propuesta aparece la posibilidad de agrupación por tipología de problemas, en 
+este caso problemas resolutivos, autónomos y estratégicos; sin embargo, en relación a los ciclos actuales considero 
+que lo importante es no perder de vista la intención formativa de cada ciclo. Dichas intencionalidades  
+formativas están integradas al ejercicio mismo de formación por problemas en tato que la mirada 
+interdisciplinar de los mismos para su solución invita a articularse con el interés formativo de cada ciclo: los 
+principios y valores institucionales, la formación científica, la formación interdisciplinar y la posibilidad 
+de especialización e investigación. El reto para la facultad es garantizar que esta articulación está diseñada y 
+garantizada en el proceso por lo que será fundamental estar cuestionando en cada experiencia de aprendizaje 
+diseñada por estos asuntos.
+
+Resultados de aprendizaje generales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Según el decreto 1330 de 2019 (:cite:t:`2019:minedu1330`) un resultado de aprendizaje es la declaraciones expresas de lo
+que se espera que un estudiante conozca y demuestre en el momento de culminar su programa académico.
+
+Para ingeniería del aprendizaje se proponen unos resultados de aprendizaje generales que estén explícitamente 
+alineados con la definición del programa: "Learning Engineering is a process and ``interdisciplinary practice`` 
+that applies the learning sciences using human-centered engineering design methodologies and data-informed 
+decision-making to support learners and their development."
+
+También se propone que los resultados de aprendizaje generales estén alineados con la tipología de problemas, es decir, 
+problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada tipología de problema abordará 
+los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica según corresponda.
+
+
+* Usa metodologías y herramientas propuesta para realizar un proceso de ingeniería del aprendizaje para generar 
+  soluciones que soporten al aprendiz y su desarrollo. (resolutivo).
+* Selecciona de manera argumentada metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
+  soluciones que soporten al aprendiz y su desarrollo. (autónomo).
+* Crea metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
+  soluciones que soporten al aprendiz y su desarrollo. (estratégico).
+
+* Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
+* Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
+  de ingeniería del aprendizaje estratégico (autónomo).
+* Crea los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
+  de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
+
+* Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (resolutivo). 
+* Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (autónomo). 
+* Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (autónomo).
+
+* Instrumenta el proceso y la solución 
+
+
+
+- Aplicar metodologías de diseño de ingeniería centradas en el humano.
+- Instrumentar y analizar el proceso y la solución
+
+..
+  Teniendo claridad en que el proceso formativo, en la   perspectiva de los resultados de aprendizaje, se centra
+  en el estudiante
+
+
+  an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+  an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+  an ability to communicate effectively with a range of audiences.
+  an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+  an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+  an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+  an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
