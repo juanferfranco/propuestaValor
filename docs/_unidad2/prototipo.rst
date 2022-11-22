@@ -621,9 +621,9 @@ ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`) video.
 Tipologías de problemas
 **************************
 
-Para alinear el modelo de plan de estudios centrado en problemas considerando niveles de complejidad e incertidumbre 
-incrementales se propone definir tres tipologías de problemas denominados problemas resolutivos, problemas autónomos y 
-problemas estratégicos.
+Para alinear el modelo pedagógico institucional con el de plan de estudios centrado en problemas considerando 
+niveles de complejidad e incertidumbre incrementales se propone definir tres tipologías de problemas 
+denominados problemas resolutivos, problemas autónomos y problemas estratégicos.
 
 Los problemas resolutivos son problemas que requieren que el estudiante comprenda un espacio de solución y sea capaz de 
 transferir soluciones entre problemas muy similares. La compresión de un espacio de solución implica comprender los conceptos 
