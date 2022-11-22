@@ -650,7 +650,13 @@ Portafolio de problemas o portafolio de excelencia
 
 A medida que el estudiante progresa en el plan de estudios debe ir construyendo con ayuda de la facultad su portafolio 
 de problemas. Este portafolio permitirá visibilizar las competencias adquiridas y las evidencias a la solución de 
-problemas. 
+problemas.
+
+.. warning:: MUY IMPORTANTE 
+
+  El portafolio de problemas es la carta de presentación del estudiante, pero no se puede olvidar 
+  el ejercicio meta-cognitivo, aprender a aprender. Se deja abierto el mecanismo que se usará para 
+  evidenciar este proceso.
 
 Mentoría
 *************
