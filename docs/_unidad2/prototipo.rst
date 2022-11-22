@@ -71,7 +71,7 @@ publicación en Medium realizada por MIT Open Learning.
    :align: center
    :width: 100%
    
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 La ingeniería del aprendizaje se plantea como una ingeniería y no como un diseño porque aunque usa las metodologías del diseño,  
 las combina con procesos guiados por DATOS y principios de ingeniería, tales como la teoría del control, que no son prácticas 
@@ -98,7 +98,7 @@ central de la ingeniería del aprendizaje se puede observar en la siguiente imag
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 Esta flor de conocimiento implica que el Ingeniero del aprendizaje podría desempeñarse en ámbitos 
 específicos o pétalos de la flor, compartiendo vocabulario con profesionales disciplinares y/o otros 
@@ -230,7 +230,7 @@ que se hace en cada iteración depende de los datos extraídos y analizados de l
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 
 En el proceso de la ingeniería del aprendizaje ENTENDER el reto es central. Este entendimiento incluye entender 
@@ -254,7 +254,7 @@ de ingeniería del aprendizaje:
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 Es importante anotar que la formación de un Ingeniero del aprendizaje no debería caer en el error 
 de abordar de manera aislada cada disciplina, es decir, se debería descartar de entrada la idea 
@@ -278,7 +278,7 @@ de la ingeniería del aprendizaje es APLICAR esta información para construir ``
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 .. note:: EL RETO
 
@@ -364,7 +364,7 @@ aplica la teoría de control para el aprendizaje personalizado:
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:godell`.
+   :cite:t:`2022:godell`.
 
 Según :cite:t:`2022:godell` "el sistema de educación tradicional es un sistema de control de lazo abierto. Se establecen un conjunto de objetivos 
 o recientemente resultados de aprendizaje. Esto se traslada a instrucciones en forma de libros de texto, clases magistrales 
@@ -388,7 +388,7 @@ Idealmente un sistema instruccional adaptativo necesitaría múltiples lazos de 
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 Por ejemplo, las dos capas más internas se verían así:
 
@@ -398,7 +398,7 @@ Por ejemplo, las dos capas más internas se verían así:
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 En la figura se observa un primer lazo de control cerrado al realizar una actividad y luego otro lazo cerrado 
 más externo para seleccionar la siguiente actividad de la lección.
@@ -463,7 +463,7 @@ En :cite:t:`2022:MIT-medium` se resume el papel de los datos en el proceso de la
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 
 .. figure:: ../_static/LE-dataAnalytics.png
@@ -472,7 +472,7 @@ En :cite:t:`2022:MIT-medium` se resume el papel de los datos en el proceso de la
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:MIT-medium`.
+   :cite:t:`2022:MIT-medium`.
 
 Propuesta de implementación del programa ingeniería del aprendizaje
 --------------------------------------------------------------------
@@ -582,7 +582,7 @@ para el pregrado en métodos y problemas interdisciplinarios.
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:LIS-2023`.
+   :cite:t:`2022:LIS-2023`.
 
 .. figure:: ../_static/LIS-year2.png
    :alt:   Interdisciplinary Problems and Methods BASc año 2
@@ -590,7 +590,7 @@ para el pregrado en métodos y problemas interdisciplinarios.
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:LIS-2023`.
+   :cite:t:`2022:LIS-2023`.
 
 .. figure:: ../_static/LIS-year3.png
    :alt:   Interdisciplinary Problems and Methods BASc año 3
@@ -598,7 +598,7 @@ para el pregrado en métodos y problemas interdisciplinarios.
    :align: center
    :width: 100%
 
-   Tomado de :cite:t:`2022:LIS-2023`.
+   :cite:t:`2022:LIS-2023`.
 
 Los problemas se desplegarán en el plan estudios por niveles de complejidad y de incertidumbre. 
 Desde el nivel resolutivo hasta el nivel estratégico y desde problemas bin definidos hasta retos que demandarán 
