@@ -616,7 +616,7 @@ tres aproximaciones se pueden consultar en `este <https://observatorio.tec.mx/ed
 artículo.
 
 Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la Universidad 
-ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`).
+ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`) video.
 
 Tipologías de problemas
 **************************
