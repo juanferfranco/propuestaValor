@@ -419,7 +419,7 @@ permite compensar las medidas imprecisas y las funciones de transferencia pobres
 compensar una evaluación subóptima y una teoría del aprendizaje menos que perfecta. Sin embargo, mucha retroalimentación 
 puede ser poco productiva para el aprendiz porque genera alta carga cognitiva y afecta el nivel de dificultad deseado.
 
-En :cite:t:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en la ingeniería del aprendizaje:
+En este sitio (:cite:t:`2022:MIT-medium`) se resumen los puntos claves de la ingeniería en la ingeniería del aprendizaje:
 
 * La ciencia tiene como objetivo descubrir verdades sobre el mundo. La ingeniería busca crear soluciones escalables 
   a problemas que funcionen dentro de un rango de condiciones. La ingeniería es un proceso sistemática para 
