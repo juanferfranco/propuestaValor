@@ -142,7 +142,7 @@ Críticas
 En este artículo (:cite:t:`2019:Chandler`) del primero congreso de Learning Engineering, una de las autoras,  
 Chelsea Chandler de la Universidad de Michigan, cuenta de manera anecdótica su primera impresión al escuchar en 
 la misma frase las palabras ingeniería y aprendizaje. Me pasó lo mismo. Y aunque no estoy formado en una escuela 
-de ciencias humanas, si estoy familiarizado con las formas de la ingeniería. ingeniería y aprendizaje en la misma 
+de ciencias humanas, si estoy familiarizado con las formas de la ingeniería. Ingeniería y aprendizaje en la misma 
 frase traen a la mente ideas como la escuela al servicio de la industria, la eficiencia social, expertos que 
 realizan procesos de ingeniería que maximizan el material a enseñar a la mayor cantidad de estudiantes, en el menor 
 tiempo posible. En :cite:t:`2022:godell` también se apunta a la percepción de muchas personas que ven la palabra 
