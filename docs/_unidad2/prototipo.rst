@@ -192,7 +192,7 @@ un punto de partida para el análisis propuesto como fase posterior.
 Para acercarse a una posible propuesta de competencias para el ingeniería del aprendizaje 
 es importante recordar algunas definición:
 
-* ingeniería del aprendizaje. "Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
+* Ingeniería del aprendizaje. "Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
   engineering design methodologies and data-informed decision-making to support learners and their development."
 * Competencia. Actuación integral para IDENTIFICAR, INTERPRETAR, ARGUMENTAR y RESOLVER PROBLEMAS del contexto integrando 
   conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
