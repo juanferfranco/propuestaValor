@@ -155,7 +155,7 @@ el beneficio de los civiles. Un Ingeniero del aprendizaje crea soluciones para e
 
 Más allá de las discusiones al respecto me parece que lo importante es no perder de vista que el Ingeniero 
 del aprendizaje no diseña el aprendizaje. El aprendizaje es un proceso HUMANO que ocurre en el cerebro de cada persona. 
-Más bien, como lo apunta la definición el Ingeniero del aprendizaje SOPORTA el aprendizaje de una persona y 
+Más bien, como lo apunta la definición, el Ingeniero del aprendizaje SOPORTA el aprendizaje de una persona y 
 su desarrollo.
 
 Según :cite:t:`2022:Lee`, en relación a la ciencias del aprendizaje, es escéptico ante la noción de 
