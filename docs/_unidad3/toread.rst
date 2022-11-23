@@ -62,7 +62,7 @@ Videos
 * `Day in the Life of a Minerva Student—Hyoeun <https://youtu.be/e5KhGvtPMnc>`__.
 * `The Future-fit University in a Post-pandemic Era <https://youtu.be/eVqhn8_k1Lo>`__.
 * `Shaping Learning at AUC <https://youtu.be/w2W3WqnadZg>`__.
-* `Challenge-based learning in practice (CBL) <https://youtu.be/CFCSvvsPWUA>`.
+* `Challenge-based learning in practice (CBL) <https://youtu.be/CFCSvvsPWUA>`__.
 * `University Alliances The Time Has Come <https://youtu.be/hHQKZaXx1Vg>`__.
 * `ECIU <https://www.eciu.org/>`__.
 * `ECIU University and University of Twente <https://youtu.be/JuAJIJWeRFc>`__. 
