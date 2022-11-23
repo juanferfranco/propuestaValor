@@ -310,7 +310,7 @@ seis actividades:
 #. Ideación para generar opciones para abordar los retos.
 #. Prototipado rápido para materializar las decisiones de diseño y poder recibir retroalimentación rápida 
    de los usuarios.
-#. Pruebas de usuario en torno a prototipos para recopilar preferencia y datos de usabilidad de los usuarios finales.
+#. Pruebas de usuario final usando los prototipos para recopilar sus preferencias y datos de usabilidad.
 #. Re-diseño de las ideas y los prototipos usando los datos de la actividad anterior.
 #. Iteración para ir refinando el prototipo hasta la solución final.
 
