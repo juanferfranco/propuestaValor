@@ -277,7 +277,7 @@ Personas
 * `Barbara Ann Oakley <https://barbaraoakley.com/>`__.
 * `Jim Goodell <https://www.linkedin.com/in/jimgoodell/>`__.
 * `Piotr Mitros <https://www.edx.org/es/bio/piotr-mitros-0>`__.
-* `Avron Barr <https://www.linkedin.com/in/avronbarr/>`.
+* `Avron Barr <https://www.linkedin.com/in/avronbarr/>`__.
 * `Bror Saxberg <https://www.linkedin.com/in/bror-saxberg-017790/>`__.
 * `Sebastian Thrun <https://en.wikipedia.org/wiki/Sebastian_Thrun>`__.
 * `Sal Khan <https://en.wikipedia.org/wiki/Sal_Khan>`__.
