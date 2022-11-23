@@ -710,7 +710,7 @@ Se espera que la Universidad:
 Titulaciones y certificaciones 
 ********************************
 
-Se parte de un supuesto fundamental y es que los problemas propuestos SIEMPRE abordar todas las competencias 
+Se parte de un supuesto fundamental y es que los problemas propuestos SIEMPRE abordan todas las competencias 
 de la ingeniería del aprendizaje. Lo que cambia es la tipología de los problemas. Por tanto, se podrían 
 ir certificando en el proceso los ciclos según las tipologías, es decir:
 
