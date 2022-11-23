@@ -478,22 +478,22 @@ Propuesta de implementación del programa ingeniería del aprendizaje
 --------------------------------------------------------------------
 
 La propuesta de implementación se entrega para el programa interdisciplinario ingeniería del aprendizaje; sin embargo, 
-esta propuesta no se reduce solo al programa en cuestión sino que pretender mostrar cómo podrían implementarse 
-una familia de programas de naturaleza interdisciplinarios.
+esta propuesta no se reduce solo al programa en cuestión, sino que pretender mostrar cómo podrían implementarse 
+una familia de programas de naturaleza interdisciplinaria.
 
 Principios
 *************
 
 La propuesta está fundamentada en dos principios:
 
-#. El respeto por la diferencia 
+#. El respeto por la diferencia. 
 #. El mastery learning (:cite:t:`2022:wiki-mastery`)
 
-El respeto por la diferencia. Todos tenemos ritmos y tiempos de aprendizaje diferentes. Todos nuestros estudiantes 
-deberían tener la oportunidad de alcanzar el máximo nivel esperado. Las implicaciones son fundamentales en términos 
-del potencial para cambiar la mentalidad de las estudiantes.
+El respeto por la diferencia se entiende en relación a los ritmos y tiempos de aprendizaje diferentes que tiene cada persona. 
+Todos nuestros estudiantes deberían tener la oportunidad de alcanzar el máximo nivel esperado. Las implicaciones son 
+fundamentales en términos del potencial para cambiar la mentalidad de ellos.
 
-El mastery learning. Se propone un sistema de ``TIEMPO VARIABLE pero CALIDAD CONSTANTE``. Quiere decir, que el estudiante 
+Para el mastery learning se propone un sistema de ``TIEMPO VARIABLE pero CALIDAD CONSTANTE``. Quiere decir, que el estudiante 
 debe poder llegar a dominar el objetivo de aprendizaje aunque le tome más o menos tiempo hacerlo.
 
 Características de la propuesta a la luz del modelo pedagógico institucional
@@ -548,14 +548,14 @@ componentes de una competencia, es decir, se deberán definir criterios de compe
 conceptos y teorías, con las actitudes y valores y con las habilidades procedimentales y técnicas. Esto se debe 
 hacer por cada competencia definida.
 
-Los resultados de aprendizaje están vinculados con el nivel al cual se desarrolla cada criterio de competencia. 
+Los resultados de aprendizaje específicos están vinculados con el nivel al cual se desarrolla cada criterio de competencia. 
 En la institución los niveles son receptivo, resolutivo, autónomo y estratégico.
 
-En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen competencias, es decir, 
-las experiencias de aprendizaje deben permitir que el estudiante despliegue la o las competencias a observar. 
-Estas competencias serán las necesarias para poder abordar el problema. El reto del estudiante y el docente es 
-poder observar en el proceso de solución del problema si un criterio de competencia está fallando. Es allí 
-donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
+En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen el conjunto completo de competencias, 
+es decir, las experiencias de aprendizaje deben permitir que el estudiante despliegue todas las competencias de manera 
+integrada. Estas competencias serán las necesarias para poder abordar un problema de ingeniería del aprendizaje. El reto del 
+estudiante y el docente es poder observar en el proceso de solución del problema si un criterio de competencia está fallando. 
+Es allí donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
 
 Plan de estudios
 *****************
@@ -603,20 +603,20 @@ para el pregrado en métodos y problemas interdisciplinarios.
 Los problemas se desplegarán en el plan estudios por niveles de complejidad y de incertidumbre. 
 Desde el nivel resolutivo hasta el nivel estratégico y desde problemas bin definidos hasta retos que demandarán 
 la definición del problema mismo a resolver. De esta manera las competencias transitarán el mismo camino 
-de los resolutivo a lo estratégico.
+de los problemas, es decir, de lo resolutivo a lo estratégico.
 
 Metodología del programa
 **************************
 
-Las experiencias de aprendizaje en el programa se diseñarán observando tres posibles estrategias. Aprendizaje 
-basado en proyectos, aprendizaje basado en problemas y aprendizaje basado en retos. La diferencias entre estas 
-tres aproximaciones se pueden consultar en `este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ 
+Las experiencias de aprendizaje en el programa se diseñarán mediante el aprendizaje basado en retos. 
+La diferencias entre el aprendizaje basado en proyecto, problemas y retos se pueden consultar en `este <https://observatorio.tec.mx/edu-reads/aprendizaje-basado-en-retos/>`__ 
 (:cite:t:`2015:tec`) documento del Tecnológico de Monterrey y más recientemente en 
 `este <https://transferencia.tec.mx/english/outstanding/do-you-know-what-challenge-based-learning-is/>`__ (:cite:t:`2021:Membrillo`) 
 artículo.
 
 Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la Universidad 
 ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ (:cite:t:`2021:UT`) video.
+
 
 Tipologías de problemas
 **************************
@@ -633,9 +633,9 @@ Los problemas autónomos son problemas que demandan procesos de optimización de
 Para optimizar es necesario realizar compromisos y esos compromisos implican la selección argumentada de una posible solución 
 del espacio soluciones que permita optimizar contra algún o algunos requisitos no funcionales. Para abordar este tipo de 
 problemas el estudiante tuvo que haberse enfrentado a un conjunto de problemas resolutivos previamente y aprender  
-, puede ser por medio de casos de estudio, la manera de seleccionar una solución para enfrentar problemas autónomos. Los problemas resolutivos 
-buscan soluciones que resuelvan problemas contra los requisitos funcionales, mientras que los problemas autónomos 
-buscan optimizar mediante la selección argumentada para optimizar un o unos requisitos no funcionales.
+, puede ser por medio de casos de estudio, la manera de seleccionar una solución para enfrentar problemas autónomos. 
+Los problemas resolutivos demandan soluciones que den respuesta a los requisitos funcionales, mientras que los problemas autónomos 
+demandan optimizar, mediante la selección argumentada, uno o unos requisitos no funcionales.
 
 Los problemas estratégicos implican optimización pero son diferentes a los problemas autónomos porque demandan la combinación  
 de soluciones o la creación de nuevas soluciones para resolver el problema de optimización. Esto quiere decir que al resolver 
@@ -645,28 +645,36 @@ Es responsabilidad de la facultad diseñar cuidadosamente la selección de exper
 estudiante navegar desde los problemas resolutivos hasta los estratégicos. Se espera también que al final del plan de estudios 
 la incertidumbre sea tan alta que los problemas transiten a retos.
 
+.. warning:: MUY IMPORTANTE 
+
+  Los problemas propuestos en las experiencias de aprendizaje deben permitir la realización de un proceso de ingeniería 
+  del aprendizaje. De esta manera se espera que el estudiante practique con cada experiencia el mismo conjunto 
+  de competencias. A medida que se avanza en el plan de estudios los problemas van de lo resolutivo a lo estratégico 
+  incrementando el nivel de incertidumbre.
+
 Portafolio de problemas o portafolio de excelencia
 ***************************************************
 
-A medida que el estudiante progresa en el plan de estudios debe ir construyendo con ayuda de la facultad su portafolio 
-de problemas. Este portafolio permitirá visibilizar las competencias adquiridas y las evidencias a la solución de 
+Al progresar en el plan de estudios, el estudiante debe ir construyendo, con ayuda de la facultad, su portafolio 
+de problemas. Este portafolio permitirá visibilizar las competencias adquiridas y las evidencias a la solución de los 
 problemas.
 
 .. warning:: MUY IMPORTANTE 
 
   El portafolio de problemas es la carta de presentación del estudiante, pero no se puede olvidar 
   el ejercicio meta-cognitivo para aprender a aprender y fomentar el pensamiento crítico. Se deja abierto el 
-  mecanismo que se usará para evidenciar este proceso.
+  mecanismo que se usará para evidenciar este proceso. En procesos de formación avanzada se acostumbra la 
+  escritura de un reporte final o trabajo de grado, artículos de divulgación y presentaciones orales.
 
 Mentoría
 *************
 
 Se propone que el programa acompañe al estudiante desde tres dimensiones:
 
-* La dimensión de desarrollo personal donde se le brida soporte emocional.
-* La dimensión de desarrollo profesional donde se acompaña al estudiante en la construcción del portafolio y la selección 
+* La dimensión de ``desarrollo personal`` donde se le brida soporte emocional.
+* La dimensión de ``desarrollo profesional`` donde se acompaña al estudiante en la construcción del portafolio y la selección 
   de rutas profesionales.
-* La dimensión de desarrollo académico donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
+* La dimensión de ``desarrollo académico`` donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
   meta-cognitivos que tienen como propósito aprender a aprender y el pensamiento crítico.
 
 El rol del estudiante 
@@ -674,7 +682,8 @@ El rol del estudiante
 
 * El estudiante selecciona los problemas según sus necesidades y perfil. Este proceso se realiza acompañado 
   del mentor de desarrollo profesional y el mentor de desarrollo personal.
-* El estudiante de manera autónoma aborda los problemas acompañado por el mentor de desarrollo académico.
+* El estudiante de manera autónoma aborda los problemas acompañado por el mentor de desarrollo académico. Los otros 
+  mentores siguen disponibles a necesidad del estudiante.
 * El estudiante busca los recursos que necesite para demostrar que alcanzó la solución al problema.
 
 El rol del docente 
@@ -693,17 +702,24 @@ El rol de la Universidad
 
 Se espera que la Universidad:
 
-* Provee la infraestructura necesaria para realizar los procesos de indagación e investigación autónoma propios 
+* Provea la infraestructura necesaria para realizar los procesos de indagación e investigación autónoma propios 
   del aprendizaje basado en retos tal como lo propone la Universidad ECIU `aquí <https://youtu.be/CFCSvvsPWUA>`__.
-* Provee acceso a los mentores, empresas y organizaciones que garantices el acceso y el desarrollo acompañado 
-  a los problemas.
+* Provea acceso a los mentores, empresas y organizaciones que garanticen el acceso y el desarrollo acompañado 
+  de los problemas.
 
 Titulaciones y certificaciones 
 ********************************
 
-El plan de estudios centrado en problemas permite ir certificando el nivel de las competencias 
-adquiridas desde el nivel resolutivo hasta el nivel estratégico. Se podrán ir certificando competencias 
-y grupos de ellas podrán ir conformando titulaciones.
+Se parte de un supuesto fundamental y que los problemas propuestos SIEMPRE abordar todas las competencias 
+de la ingeniería del aprendizaje. Lo que cambia es la tipología de los problemas. Por tanto, se podrían 
+ir certificando en el proceso los ciclos según las tipologías, es decir:
+
+* Ingeniero del aprendizaje nivel resolutivo.
+* Ingeniero del aprendizaje nivel autónomo.
+* Ingeniero del aprendizaje nivel estratégico.
+
+Además de las certificaciones anteriores se podrían realizar micro-credenciales como las planteadas 
+por la Universidad ECIU. Como referencia véase también EduTrend del Tec de Monterrey (:cite:t:`2019:tec`).
 
 Alineación de la propuesta con el modelo por ciclos, resultados de aprendizaje general, específicos y competencias
 ********************************************************************************************************************
@@ -718,24 +734,32 @@ reconocidos en la misión y visión de la institución), ciclo disciplinar (form
 profesional (forma en los aspectos propios de la profesión) y ciclo de integración (ayuda a definir rutas 
 de especialización)."
 
-El plan de estudios de ingeniería del aprendizaje está centrado en ``problemas``, ``no en cursos``. Si 
-se requiere agrupar, de la propuesta aparece la posibilidad de agrupación por tipología de problemas, en 
-este caso problemas resolutivos, autónomos y estratégicos; sin embargo, en relación a los ciclos actuales considero 
-que lo importante es no perder de vista la intención formativa de cada ciclo. Dichas intencionalidades  
-formativas están integradas al ejercicio mismo de formación por problemas en tato que la mirada 
+El plan de estudios de ingeniería del aprendizaje está centrado en ``problemas``, ``no en cursos``, 
+``no en áreas``, ``no en núcleos``. Si se requiere agrupar, de la propuesta aparece la posibilidad de agrupación 
+por tipología de problemas, en este caso problemas resolutivos, autónomos y estratégicos; sin embargo, en relación 
+a los ciclos actuales considero que lo importante es no perder de vista la intención formativa de cada ciclo. 
+Dichas intencionalidades formativas están integradas al ejercicio mismo de formación por problemas en tanto que la mirada 
 interdisciplinar de los mismos para su solución invita a articularse con el interés formativo de cada ciclo: los 
 principios y valores institucionales, la formación científica, la formación interdisciplinar y la posibilidad 
-de especialización e investigación. El reto para la facultad es garantizar que esta articulación está diseñada y 
-garantizada en el proceso por lo que será fundamental estar cuestionando en cada experiencia de aprendizaje 
+de especialización e investigación. El reto para la facultad es garantizar que esta articulación esté diseñada y 
+garantizada en el proceso. Por tanto, será fundamental estar cuestionando en cada experiencia de aprendizaje 
 diseñada por estos asuntos.
 
 Resultados de aprendizaje generales
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Según el decreto 1330 de 2019 (:cite:t:`2019:minedu1330`) un resultado de aprendizaje es la declaraciones expresas de lo
+Según el decreto 1330 de 2019 (:cite:t:`2019:minedu1330`) los resultados de aprendizaje son las declaraciones expresas de lo
 que se espera que un estudiante conozca y demuestre en el momento de culminar su programa académico.
 
-Para ingeniería del aprendizaje se proponen unos resultados de aprendizaje generales que estén explícitamente 
+Para la institución un resultado de aprendizaje es la declaración explícita de lo que se espera que un
+estudiante conozca y demuestre al finalizar un proceso formativo y está en relación directa con el
+perfil de egreso del programa respectivo (:cite:t:`2022:upb-raes`).
+
+Para la institución los resultados de aprendizaje generales corresponden a un concepto en el cual se explica lo que el
+programa espera reconocer en términos de desarrollo de los propósitos de formación y de las
+Capacidades Humanas y Competencias definidas en los ciclos (:cite:t:`2022:upb-raes`).
+
+Para ingeniería del aprendizaje se proponen unos resultados de aprendizaje generales que están explícitamente 
 alineados con la definición del programa: "Learning Engineering is a process and ``interdisciplinary practice`` 
 that applies the learning sciences using human-centered engineering design methodologies and data-informed 
 decision-making to support learners and their development."
@@ -743,6 +767,7 @@ decision-making to support learners and their development."
 También se propone que los resultados de aprendizaje generales estén alineados con la tipología de problemas, es decir, 
 problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada tipología de problema abordará 
 los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica según corresponda.
+
 
 Metodologías de diseño centradas en el humano:
 
@@ -770,7 +795,7 @@ Aplicación de las ciencias del aprendizaje:
 * Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (autónomo). 
 * Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
-  su desarrollo. (autónomo).
+  su desarrollo. (estratégico).
 
 Instrumentación del proceso y de la solución:
 
