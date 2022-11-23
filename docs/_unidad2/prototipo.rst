@@ -132,7 +132,7 @@ relacionados con:
 * Diseño curricular.
 * Desarrollo de tecnologías educativas.
 * Analítica del aprendizaje.
-* aprendizaje personalizado.
+* Aprendizaje personalizado.
 * Instrumentar experiencias de aprendizaje para alimentar el proceso iterativo de creación, implementación e investigación de las soluciones.
 * Instrumentar experiencias de aprendizaje para optimizar las actividades de aprendizaje y retroalimentación.
 
