@@ -744,6 +744,7 @@ También se propone que los resultados de aprendizaje generales estén alineados
 problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada tipología de problema abordará 
 los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica según corresponda.
 
+Metodologías de diseño centradas en el humano:
 
 * Usa metodologías y herramientas propuestas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (resolutivo).
@@ -752,12 +753,17 @@ los mismos resultados generales pero desde una perspectiva resolutiva, autónoma
 * Crea metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (estratégico).
 
+
+Práctica interdisciplinarias:
+
 * Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
   de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
 * Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
   de ingeniería del aprendizaje estratégico. (autónomo).
 * Crea los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
   de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
+
+Aplicación de las ciencias del aprendizaje:
 
 * Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (resolutivo). 
@@ -766,13 +772,18 @@ los mismos resultados generales pero desde una perspectiva resolutiva, autónoma
 * Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (autónomo).
 
+Instrumentación del proceso y de la solución:
+
 * Aplica la instrumentación propuesta del proceso de ingeniería del aprendizaje y de la solución resultado del proceso. (resolutivo).
 * Selecciona la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (autónomo).
 * Adapta la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (estratégica).
 
+Analítica del proceso y la solución:
+
 * Aplica la analítica propuesta para el proceso de ingeniería del aprendizaje y para la solución resultado del proceso. (resolutivo).
 * Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
 * Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
+
 
 Competencias y resultados de aprendizaje específicos 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -796,8 +807,8 @@ Estándares internacionales
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Actualmente la escuela de ingeniería de la institución se encuentra alineado los programas con los 
-7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ 
-de `ABET <https://www.abet.org/about-abet/>`__:
+7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ (:cite:t:`2022:ABET-StudentOutcomes`)
+de `ABET <https://www.abet.org/about-abet/>`__ (:cite:t:`2022:ABET-about`):
 
 * SO1: an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
 * SO2: an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
