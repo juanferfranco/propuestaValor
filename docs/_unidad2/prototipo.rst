@@ -455,7 +455,7 @@ Según :cite:t:`2022:godell` para tomar decisiones basadas en datos, la ingenier
 * Analítica. Es la parte de la ingeniería del aprendizaje responsable del análisis de los datos recolectados en la 
   instrumentación para realizar mejoras iterativas a la solución de aprendizaje.
 
-En :cite:t:`2022:MIT-medium` se resume el papel de los datos en el proceso de la ingeniería del aprendizaje:
+En este sitio (:cite:t:`2022:MIT-medium`) se resume el papel de los datos en el proceso de la ingeniería del aprendizaje:
 
 .. figure:: ../_static/LE-dataInstrumentation.png
    :alt: Instrumentación en ingeniería del aprendizaje.
