@@ -125,7 +125,7 @@ Grupos de investigación
 
 * `Mila <https://mila.quebec/en/>`__. A community of scientists and interdisciplinary teams committed to advancing artificial 
   intelligence for the benefit of all.
-* `Penn Center for Learning Analytics <https://learninganalytics.upenn.edu/>`.__
+* `Penn Center for Learning Analytics <https://learninganalytics.upenn.edu/>`__.
 * `Educational Data Mining <https://educationaldatamining.org/>`__.
 
 Congresos 
