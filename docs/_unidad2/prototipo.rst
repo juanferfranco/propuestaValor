@@ -89,7 +89,7 @@ Descripción del perfil del egresado
 -------------------------------------
 
 El perfil del egresado de ingeniería del aprendizaje es un perfil interdisciplinario. 
-Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ (cite:t:`2022:ieee-icicle-process`) la flor de conocimiento 
+Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ (:cite:t:`2022:ieee-icicle-process`) la flor de conocimiento 
 central de la ingeniería del aprendizaje se puede observar en la siguiente imagen:
 
 .. figure:: ../_static/LE-Core-Knowledge-Flower.png
