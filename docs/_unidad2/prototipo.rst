@@ -377,7 +377,7 @@ retroalimentación constante a los aprendices y adaptan la enseñanza a las nece
 adaptan su estrategia de aprendizaje en función de la retroalimentación." Ambas estrategias de adaptación requieren el uso de 
 rúbricas que permitan comparar la retroalimentación con un estándar de lo que se espera. Lo anterior es precisamente la 
 manera como funciona un sistema de control de lazo cerrado tal como lo muestra la figura anterior. Lo ideal es que esta 
-estrategia se pueda aplicar con cada aprendiz, pero la realidad es que que el costo de implementar esta idea con cada uno 
+estrategia se pueda aplicar con cada aprendiz, pero la realidad es que el costo de implementar esta idea con cada uno 
 es prohibitivo. El reto entonces de la ingeniería del aprendizaje es lograr lo anterior a escala y con costos razonables.
 
 Idealmente un sistema instruccional adaptativo necesitaría múltiples lazos de retroalmentación:
