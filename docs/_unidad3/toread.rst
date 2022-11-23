@@ -5,15 +5,29 @@ Información utilizada para construir la propuesta
 Ciencias del aprendizaje
 ---------------------------
 
+Posible curso para la comunidad de la institución: 
+`Developing Sophisticated Learners <https://cogx.info/solutions/programs-for-educators/sol-developing-sophisticated-learners/>`__
+(Contacto Rosario Bernabeu Fernandez).
+
 * `The knowledge-learning-instruction framework: bridging the science-practice chasm to enhance robust student learning <https://pubmed.ncbi.nlm.nih.gov/22486653/>`__.
 * `10 Key Insights on the Science of Learning <https://cogx.info/primer-sol/>`__.
 * `Learn Like a Pro <https://www.amazon.com/dp/1250799376/?tag=barbaraoakley-20>`__.
 * `Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn <https://www.amazon.com/dp/0593329732/?tag=barbaraoakley-20>`__.
-
+* `What is Cognitive Task Analysis? <https://www.globalcognition.org/cognitive-task-analysis/>`__.
+* `Cognitive task analysis <https://www.researchgate.net/publication/294699964_Cognitive_task_analysis>`__.
+* `What Are Cognitive Skills? <https://cogx.info/cognition-learning/what-are-cognitive-skills/>`__.
+* `COGx & MTC: [Mission Mapping] How the Science of Learning Supports Mastery <https://cogx.info/events/mission-mapping-recording/?utm_medium=email&_hsmi=231494502&_hsenc=p2ANqtz-8anDJq-e3z0WqNeeZ71yxxWjIPPVsSZmZnbwgvGhQEVkg1VR_D8NXkoj3TcFkXGGdHD8ZhGamtvg3nIdsYLaBD8uYnsw&utm_content=231494502&utm_source=hs_email>`__.
+* `Learning with Skills, Not Pills: Javier Arguello at TEDxRockCreekPark <https://youtu.be/EVcZsa5QHQ4>`__.
+* `Robert Bjork: When is Successful Learning Achieved? COGx & Yale SOM <https://youtu.be/ZRUap24nmnw>`__.
+* `How to study to maximize performance  Elizabeth Bjork & Robert Bjork  TEDxManhattanBeach <https://youtu.be/0NIXM74NwXs>`__
+* `Steve Joordens: Can educators improve their students' ability to learn?  COGx & Yale SOM <https://youtu.be/u3XnipkPfog>`__.
+* `Mary Helen Immordino Yang: Are we giving students a REASON to LEARN? COGx & Yale SOM <https://youtu.be/fRezF7gAC-M>`__.
+* `Rethinking Learning <https://youtu.be/fJoMoyoFooo>`__.
 
 Videos
 -------
 
+* `Intro to Learning Engineering Video Series <https://toolscompetition.org/learning-engineering/intro-video-series/>`__.
 * `Diseño, cambio y movimientos sociales Arturo Escobar <https://youtu.be/q4L13vaPVic>`__.
 * `With artificial intelligence: learning is useless, dangerous <https://youtu.be/uVl9H2z2hVw>`__ Nicolas Sadirac TEDxPraia.
 * `Educational Game and Intelligent Tutoring System <https://youtu.be/a1qU9gPFkBw>`__: A Classroom Study and Comparative 
@@ -80,6 +94,10 @@ Videos
 * `The Interdisciplinary School - Carl Gombrich - Full Interview <https://youtu.be/5RnjUFrdtfs>`__.
 * `Barbara Oakley - How Neuroscience Is Changing What We Know about Learning. INTED2019 Keynote Speech <https://youtu.be/m9wXxywLVtQ>`__. 
 * `Learn Like a Pro with Barbara Oakley <https://youtu.be/erJiJLQcGVg>`__.
+* `IEEE Standards on Learning Technology <https://youtu.be/Q0Za3hwt_ds>`__.
+* `Learning Engineering at 50 <https://youtu.be/kn_T9ON_iQQ>`__.
+* `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
+
 
 Libros 
 --------
@@ -98,6 +116,9 @@ Cursos
 * `21st century learning design <https://learn.microsoft.com/en-us/training/paths/21st-century-learning-design/>`__.
 * `Learning How to Learn: Powerful mental tools to help you master tough subjects <https://www.coursera.org/learn/learning-how-to-learn>`__.
 * `Masters of Educational Technology and Applied Learning Science (METALS) <https://metals.hcii.cmu.edu/>`__.
+* `METALS CMU <https://metals.hcii.cmu.edu/curriculum/>`__.
+* `Master of Arts in Learning engineering Boston Collage <https://www.bc.edu/bc-web/schools/lynch-school/academics/departments/dfe/ma-learning-engineering.html>`__.
+* `Interdisciplinary Problems and Methods (BASc in LIS) <https://www.lis.ac.uk/undergraduate-degree/>`__.
 
 Grupos de investigación 
 ------------------------
@@ -105,6 +126,7 @@ Grupos de investigación
 * `Mila <https://mila.quebec/en/>`__. A community of scientists and interdisciplinary teams committed to advancing artificial 
   intelligence for the benefit of all.
 * `Penn Center for Learning Analytics <https://learninganalytics.upenn.edu/>`.__
+* `Educational Data Mining <https://educationaldatamining.org/>`__.
 
 Congresos 
 ----------
@@ -117,6 +139,8 @@ Empresas
 * `SanaLabs <https://www.sanalabs.com/>`__. 
 * `Carnegie Learning <https://www.carnegielearning.com/>`__.
 * `Cohere <https://cohere.io/>`__. Support automation that's actually intelligent
+* `Squirrel Ai Learning <http://squirrelai.com/>`__.
+
 
 Instituciones educativas 
 -------------------------
@@ -125,10 +149,13 @@ Instituciones educativas
 * `The American University in Cairo <https://www.aucegypt.edu/about/mission-and-vision>`__.
 * `London Interdisciplinary School <https://www.lis.ac.uk/about/>`__.
 * `01-edu <https://01-edu.org/>`__.
+* `The Simon Initiative <https://www.cmu.edu/simon/>`__. 
+
 
 Artículos 
 -----------
 
+* `Why do we need interdisciplinary learning in schools? <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__.
 * `A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions <https://arxiv.org/pdf/2203.03724.pdf>`__ sobre un ITS llamado Korbit.
 * `An Interaction Design for Machine Teaching to Develop AI Tutors <https://dl.acm.org/doi/abs/10.1145/3313831.3376226>`__.
 * `International Conference on Intelligent Tutoring Systems <https://link.springer.com/conference/its>`__.
@@ -158,6 +185,9 @@ Artículos
 * `The History of the Future of the Learning Engineer <http://hackeducation.com/2019/07/12/learning-engineers>`__.
 * `Learning sciences and learning engineering: A natural or artificial distinction? <https://www.tandfonline.com/doi/full/10.1080/10508406.2022.2100705>`__.
 * `Are You Doing Learning Engineering—Or Instructional Design? <https://learningsolutionsmag.com/articles/are-you-doing-learning-engineering-or-instructional-design>`__.
+* IEEE IC INDUSTRY CONSORTIUM ON LEARNING ENGINEERING 
+  `Proceedings of the 2019 Conference <https://sagroups.ieee.org/icicle/wp-content/uploads/sites/148/2020/07/ICICLE_Proceedings_Learning-Engineering.pdf>`__ on Learning Engineering.
+* `High-Leverage Opportunities for Learning Engineering <https://learninganalytics.upenn.edu/Learning_Engineering_recommendations.pdf>`__.
 
 
 Sitios Web 
@@ -166,6 +196,7 @@ Sitios Web
 `Recurso fundamental de la IEEE/ICICLE <https://sagroups.ieee.org/icicle/resources/>`__.
 
 
+* `2022 LEARNING ENGINEERING TOOLS COMPETITION <https://toolscompetition.org/competition-overview-2022/>`__. 
 * `Intelligent tutoring systems (ITS) <https://en.wikipedia.org/wiki/Intelligent_tutoring_system>`__
 * Uno de los ITS probados en el proceso, `Korbit <https://www.korbit.ai/>`__.
 * `ODS 4 <https://sdgs.un.org/goals/goal4>`__ sobre educación.
@@ -220,6 +251,15 @@ Sitios Web
 * `Are You Putting Learners First? Here are 8 Ways to Check Yourself <https://www.gettingsmart.com/2021/05/25/are-you-putting-learners-first-here-are-8-ways-to-check-yourself/>`__.
 * `The Future of Education: How A.I. and Immersive Tech Will Reshape Learning Forever <https://medium.com/futurepi/a-vision-for-education-and-its-immersive-a-i-driven-future-b5a9d34ce26d>`__.
 * `Customizing GPT-3 for Your Application <https://openai.com/blog/customized-gpt-3/>`__.
+* `EdMatrix Directory of Learning Data and Content Standards <https://www.edmatrix.org/matrix>`__.
+* AIS consortium `Technical Library <https://aisconsortium.com/resources/technical-library/>`__.
+* `Centro Imaginar futuros de EAFIT <https://www.eafit.edu.co/imaginarfuturos>`__.
+* `Light sailed <https://lightsailed.com/>`__.
+* `Haryana Becomes The 1st State to Adopt Tablet-based Personalized and Adaptive Learning <https://www.indianweb2.com/2022/05/haryana-becomes-1st-state-to-adopt.html>`__ 
+* `Incorporan aprendizaje adaptativo como modalidad educativa en la UCR <https://www.cu.ucr.ac.cr/inicio/noticias/noticia/Articulo/incorporan-aprendizaje-adaptativo-como-modalidad-educativa-en-la-ucr.html>`__.
+* `Onebillion <https://onebillion.org/>`__ one app that delivers reading, writing and numeracy.
+* `The Student Cognition Toolbox (SCT) <https://www.unh.edu/professional-success/ceitl/resources/student-cognition-toolbox-sct>`__.
+
 
 Relación con conceptos institucionales
 ---------------------------------------
@@ -233,7 +273,17 @@ Personas
   fundador de Korbit.
 * `Ken Koedinger <https://learnlab.org/ken-koedinger/>`__ profesor de Carnegie Mellon y uno de los líderes de IEEE-ICICLE.
 * `Nicolas Sadirac <https://01-edu.org/nicolas>`__ 01edu, 42.
-
+* `Aaron Kessler <https://www.linkedin.com/in/aaron-kessler-01819377/>`__.
+* `Barbara Ann Oakley <https://barbaraoakley.com/>`__.
+* `Jim Goodell <https://www.linkedin.com/in/jimgoodell/>`__.
+* `Piotr Mitros <https://www.edx.org/es/bio/piotr-mitros-0>`__.
+* `Avron Barr <https://www.linkedin.com/in/avronbarr/>`.
+* `Bror Saxberg <https://www.linkedin.com/in/bror-saxberg-017790/>`__.
+* `Sebastian Thrun <https://en.wikipedia.org/wiki/Sebastian_Thrun>`__.
+* `Sal Khan <https://en.wikipedia.org/wiki/Sal_Khan>`__.
+* `Peter Norvig <https://en.wikipedia.org/wiki/Peter_Norvig>`__.
+* `Ryan Baker <https://learninganalytics.upenn.edu/ryanbaker/>`__.
+* `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
 
 
 Referencias
