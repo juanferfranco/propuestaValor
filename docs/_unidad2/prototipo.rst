@@ -243,7 +243,7 @@ y es porque con cada iteración se comprende mejor el reto y de esta manera la s
 Acercamiento a las competencias desde la práctica INTERDISCIPLINARIA
 *******************************************************************************
 
-Para resolver un problema de la ingeniería del aprendizaje :cite:t:`2022:godell` propone la necesidad 
+Para resolver un problema de la ingeniería del aprendizaje :cite:t:`2022:godell` proponen la necesidad 
 de un abordaje interdisciplinario. La comunidad de IEEE ICICLE ha definido una flor cuyos 
 pétalos representan los campos disciplinares o profesionales que pueden llegar a ser parte de una solución 
 de ingeniería del aprendizaje:
