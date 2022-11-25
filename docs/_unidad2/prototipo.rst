@@ -817,7 +817,7 @@ abordará los mismos resultados generales pero desde una perspectiva resolutiva,
 según corresponda.
 
 
-Para las competencia C1 (solución de problemas).  
+Para la competencia C1 (solución de problemas).  
 
 Aplicación de las ciencias del aprendizaje:
 
