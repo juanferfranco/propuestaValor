@@ -817,7 +817,7 @@ abordará los mismos resultados generales pero desde una perspectiva resolutiva,
 según corresponda.
 
 
-Para las competencias C1 (solución de problemas).  
+Para las competencia C1 (solución de problemas).  
 
 Aplicación de las ciencias del aprendizaje:
 
@@ -829,7 +829,7 @@ Aplicación de las ciencias del aprendizaje:
   su desarrollo. (estratégico).
 
 
-Para la competencias C2 (diseño)
+Para la competencia C2 (diseño)
 
 Metodologías de diseño centradas en el humano:
 
@@ -841,7 +841,7 @@ Metodologías de diseño centradas en el humano:
   soluciones que soporten al aprendiz y su desarrollo. (estratégico).
 
 
-Para la competencias C3 (comunicación)
+Para la competencia C3 (comunicación)
 
 * Comunica los temas profesionales a todos los actores involucrados en una solución y 
   proceso de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
@@ -853,7 +853,7 @@ Para la competencias C3 (comunicación)
   para conseguir los recursos necesarios que permitan realizar la solución. (estratégico).
 
 
-Para la competencias C4 (ética)
+Para la competencia C4 (ética)
 
 * Toma decisiones éticas siguiendo los códigos de conducta establecidos para la solución y el 
   proceso de ingeniería del aprendizaje. (resolutivo).
@@ -861,7 +861,7 @@ Para la competencias C4 (ética)
 * Argumenta asuntos éticos ambiguos para la solución y el proceso de ingeniería del aprendizaje. (estratégico).
 
 
-Para la competencias C5 (trabajo en equipo)
+Para la competencia C5 (trabajo en equipo)
 
 * Participa en equipos de ingeniería del aprendizaje en el rol asignado para aportar 
   a la solución de problemas que soporten al aprendiz y su desarrollo. (resolutivo).
@@ -870,7 +870,7 @@ Para la competencias C5 (trabajo en equipo)
 * Lidera un equipo de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
   al aprendiz y su desarrollo. (estratégico).
 
-Para la competencias C6 (Experimentación)
+Para la competencia C6 (Experimentación)
 
 Instrumentación del proceso y de la solución:
 
@@ -884,7 +884,7 @@ Analítica del proceso y la solución:
 * Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
 * Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
 
-Para la competencias C7 (aprendizaje)
+Para la competencia C7 (aprendizaje)
 
 Práctica interdisciplinarias:
 
