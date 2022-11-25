@@ -784,8 +784,8 @@ Práctica interdisciplinarias:
 * Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
   de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
 * Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
-  de ingeniería del aprendizaje estratégico. (autónomo).
-* Crea los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (autónomo).
+* Propone relaciones complejas entre los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
   de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
 
 Aplicación de las ciencias del aprendizaje:
@@ -808,7 +808,6 @@ Analítica del proceso y la solución:
 * Aplica la analítica propuesta para el proceso de ingeniería del aprendizaje y para la solución resultado del proceso. (resolutivo).
 * Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
 * Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
-
 
 Competencias y resultados de aprendizaje específicos 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

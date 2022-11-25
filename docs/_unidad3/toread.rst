@@ -9,6 +9,8 @@ Posible curso para la comunidad de la institución:
 `Developing Sophisticated Learners <https://cogx.info/solutions/programs-for-educators/sol-developing-sophisticated-learners/>`__
 (Contacto Rosario Bernabeu Fernandez).
 
+* `Teaching the science of learning <https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y>`__.
+* `Strengthening the Student Toolbox: Study Strategies to Boost Learning <https://eric.ed.gov/?id=EJ1021069>`__.
 * `The knowledge-learning-instruction framework: bridging the science-practice chasm to enhance robust student learning <https://pubmed.ncbi.nlm.nih.gov/22486653/>`__.
 * `10 Key Insights on the Science of Learning <https://cogx.info/primer-sol/>`__.
 * `Learn Like a Pro <https://www.amazon.com/dp/1250799376/?tag=barbaraoakley-20>`__.
@@ -155,6 +157,7 @@ Instituciones educativas
 Artículos 
 -----------
 
+* `Why Spaced Repetition (SRS)? <https://www.srsoterica.com/articles/why_learn_via_spaced_repetition>`__.
 * `Why do we need interdisciplinary learning in schools? <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__.
 * `A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions <https://arxiv.org/pdf/2203.03724.pdf>`__ sobre un ITS llamado Korbit.
 * `An Interaction Design for Machine Teaching to Develop AI Tutors <https://dl.acm.org/doi/abs/10.1145/3313831.3376226>`__.
