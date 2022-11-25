@@ -734,8 +734,8 @@ ir certificando en el proceso los ciclos según las tipologías, es decir:
 Además de las certificaciones anteriores se podrían realizar micro-credenciales como las planteadas 
 por la Universidad ECIU. Como referencia véase también EduTrend del Tec de Monterrey (:cite:t:`2019:tec`).
 
-Alineación de la propuesta con el pedagógico institucional
-********************************************************************************************************************
+Alineación de la propuesta con el modelo pedagógico institucional
+*******************************************************************
 
 Los ciclos
 ^^^^^^^^^^^
