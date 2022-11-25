@@ -675,7 +675,7 @@ problemas.
 .. warning:: MUY IMPORTANTE 
 
   El portafolio de problemas es la carta de presentación del estudiante, pero no se puede olvidar 
-  el ejercicio meta-cognitivo para aprender a aprender y fomentar el pensamiento crítico. Se deja abierto el 
+  el ejercicio metacognitivo para aprender a aprender y fomentar el pensamiento crítico. Se deja abierto el 
   mecanismo que se usará para evidenciar este proceso. En procesos de formación avanzada se acostumbra la 
   escritura de un reporte final o trabajo de grado, artículos de divulgación y presentaciones orales.
 
@@ -688,7 +688,7 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
 * La dimensión de ``desarrollo profesional`` donde se acompaña al estudiante en la construcción del portafolio y la selección 
   de rutas profesionales.
 * La dimensión de ``desarrollo académico`` donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
-  meta-cognitivos que tienen como propósito aprender a aprender y el pensamiento crítico.
+  metacognitivos que tienen como propósito aprender a aprender y el pensamiento crítico.
 
 El rol del estudiante 
 ***********************
