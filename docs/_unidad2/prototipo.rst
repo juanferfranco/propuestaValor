@@ -474,7 +474,7 @@ En este sitio (:cite:t:`2022:MIT-medium`) se resume el papel de los datos en el 
 
    :cite:t:`2022:MIT-medium`.
 
-Acercamiento a las competencias desde la ética
+Acercamiento a las competencias desde la ÉTICA
 ************************************************
 
 En :cite:t:`2022:godell` se aborda detalladamente los asuntos asociados a la ética 
