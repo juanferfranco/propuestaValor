@@ -88,6 +88,11 @@ que permita solucionar un problema del aprendizaje.
 Descripción del perfil del egresado 
 -------------------------------------
 
+El egresado del programa ingeniería del aprendizaje es un profesional capaz de realizar un proceso y 
+una práctica interdisciplinaria que aplica las ciencias del aprendizaje usando metodologías de diseño de 
+ingeniería centradas en el humano y toma decisiones basadas en datos para soportar los aprendices y 
+su desarrollo.
+
 El perfil del egresado de ingeniería del aprendizaje es un perfil interdisciplinario. 
 Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ (:cite:t:`2022:ieee-icicle-process`) la flor de conocimiento 
 central de la ingeniería del aprendizaje se puede observar en la siguiente imagen:
