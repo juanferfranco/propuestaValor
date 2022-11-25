@@ -189,11 +189,6 @@ proyecto de ingeniería del aprendizaje? Basado en la definición de ingeniería
 Acercamiento a las competencias del programa  
 ----------------------------------------------
 
-En esta parte del documento no se propondrán las competencias del programa, esta tarea se dejará para una fase 
-posterior en la cual un grupo de personas de la institución las construya siguiendo un proceso de análisis 
-interdisciplinario; sin embargo, se propondrá un marco desde el cual se pretende dejar 
-un punto de partida para el análisis propuesto como fase posterior.
-
 Para acercarse a una posible propuesta de competencias para el ingeniería del aprendizaje 
 es importante recordar algunas definición:
 
@@ -271,7 +266,7 @@ problema. Considero que el enfoque formativo debería estar orientado a la forma
 establecer puentes de comunicación entre las disciplinas mediante un lenguaje común y para indagar y tomar de estas 
 lo que se requiere para aplicarlo a la solución del problema. 
 
-Acercamiento a las competencias desde las ciencias del aprendizaje
+Acercamiento a las competencias desde las CIENCIAS DEL APRENDIZAJE
 ********************************************************************
 
 Las ciencias del aprendizaje proveen la perspectiva de cómo funciona el cerebro y cómo aprenden las personas. El trabajo 
@@ -305,7 +300,7 @@ iteraciones. Según :cite:t:`2022:godell` los esfuerzos para diseñar una soluci
 condiciones ideales. La ingeniería del aprendizaje usa métodos iterativos de diseño, implementación, evaluación y re-diseño 
 permitiendo encontrar soluciones de manera más ágil.
 
-Acercamiento a las competencias desde los métodos de diseño de ingeniería centrados en el humano
+Acercamiento a las competencias desde los métodos de DISEÑO de ingeniería CENTRADO EN EL HUMANO
 ***************************************************************************************************
 
 Según :cite:t:`2015:ideo` el diseño centrado en el humano requiere al menos la realización de las siguientes 
@@ -334,7 +329,7 @@ variabilidad, es necesario usar métodos y prácticas para abordar el aprendizaj
 el aprendizaje (universal design for learning), el diseño de experiencias de aprendizaje (learning experience design o 
 LxD) y la investigación basada en el diseño (design-based design). 
 
-Acercamiento a las competencias desde la ingeniería
+Acercamiento a las competencias desde la INGENIERÍA
 *****************************************************
 
 Para la ingeniería del aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
@@ -440,7 +435,7 @@ En este sitio (:cite:t:`2022:MIT-medium`) se resumen los puntos claves de la ing
 * Las ciencias del aprendizaje no se están aplicando a escala. Por tanto, la ingeniería del aprendizaje se presenta 
   como una nueva profesión que ayude a producir soluciones de aprendizaje a escala.
 
-Acercamiento a las competencias desde la captura de datos y la analítica 
+Acercamiento a las competencias desde la captura de DATOS y la ANALÍTICA 
 *************************************************************************
 
 El proceso de ingeniería del aprendizaje es altamente dependiente de los datos. Los datos se usan para tomar 
@@ -478,6 +473,19 @@ En este sitio (:cite:t:`2022:MIT-medium`) se resume el papel de los datos en el 
    :width: 100%
 
    :cite:t:`2022:MIT-medium`.
+
+Acercamiento a las competencias desde la ética
+************************************************
+
+En :cite:t:`2022:godell` se aborda detalladamente los asuntos asociados a la ética 
+en ingeniería del aprendizaje. Este asunto es de suma importancia para la ingeniería 
+del aprendizaje porque las soluciones y el proceso mismo involucran PERSONAS y datos 
+sensibles de estas. En cada paso del proceso de ingeniería del aprendizaje es necesario 
+la toma de decisiones éticas, por ejemplo, en la selección de contenidos, lenguaje, 
+acercamiento pedagógico, acercamiento metodológico, evaluación, diseño experimental, entre 
+otros. Por tanto, la reflexión constante en un proceso de ingeniería del aprendizaje 
+ES OBLIGATORIA y no podría concebirse este proceso sin una observación cuidadosa de este 
+aspecto.
 
 Propuesta de implementación del programa ingeniería del aprendizaje
 --------------------------------------------------------------------
@@ -541,7 +549,7 @@ La evaluación está centrada en resolver problemas más que en determinar el gr
 evaluación se aborda mediante procesos y productos que demuestran la solución de problemas. Por tanto, evaluar 
 en esta propuesta implica observar cómo se encaran (proceso) y resuelven dichos problemas.
 
-Competencias, criterios y resultados de aprendizaje
+Competencias y resultados de aprendizaje
 *****************************************************
 
 Para abordar los problemas se requieren unas competencias. Por definición institucional una competencia es 
@@ -726,7 +734,7 @@ ir certificando en el proceso los ciclos según las tipologías, es decir:
 Además de las certificaciones anteriores se podrían realizar micro-credenciales como las planteadas 
 por la Universidad ECIU. Como referencia véase también EduTrend del Tec de Monterrey (:cite:t:`2019:tec`).
 
-Alineación de la propuesta con el modelo por ciclos, resultados de aprendizaje general, específicos y competencias
+Alineación de la propuesta con el pedagógico institucional
 ********************************************************************************************************************
 
 Los ciclos
@@ -750,18 +758,52 @@ de especialización e investigación. El reto para la facultad es garantizar que
 garantizada en el proceso. Por tanto, será fundamental estar cuestionando en cada experiencia de aprendizaje 
 diseñada por estos asuntos.
 
-Resultados de aprendizaje generales
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Según el decreto 1330 de 2019 (:cite:t:`2019:minedu1330`) los resultados de aprendizaje son las declaraciones expresas de lo
-que se espera que un estudiante conozca y demuestre en el momento de culminar su programa académico.
+Perfil del egresado 
+^^^^^^^^^^^^^^^^^^^^^^
+
+El egresado del programa ingeniería del aprendizaje es un profesional capaz de realizar un proceso y 
+una práctica interdisciplinaria que aplica las ciencias del aprendizaje usando metodologías de diseño de 
+ingeniería centradas en el humano y toma decisiones basadas en datos para soportar los aprendices y 
+su desarrollo.
+
+Competencias  
+^^^^^^^^^^^^^^^^
+
+Actualmente la escuela de ingeniería de la institución se encuentra alineado los programas con los 
+7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ (:cite:t:`2022:ABET-StudentOutcomes`)
+de `ABET <https://www.abet.org/about-abet/>`__ (:cite:t:`2022:ABET-about`). Se propone 
+entonces alinear las competencias con esos student outcomes. Para el programa ingeniería del 
+aprendizaje se proponen las siguientes competencias:
+
+* C1: Identifica, formula y soluciona problemas complejos de ingeniería aplicando principios de ingeniería, 
+  ciencia y matemáticas para soportar las soluciones y los procesos de ingeniería del aprendizaje.
+* C2: Aplica el diseño de ingeniería para producir soluciones que satisfagan necesidades específicas teniendo 
+  en cuenta la salud pública, la seguridad y el bienestar, así como factores globales, culturales, sociales, 
+  ambientales y económicos.
+* C3: Comunica temas profesionales a un rango de audiencias con efectividad.
+* C4: Reconoce responsabilidades éticas y profesionales en situaciones de ingeniería para hacer juicios 
+  informados que deben considerar el impacto de las soluciones de ingeniería en contextos globales, 
+  económicos, ambientales y sociales.
+* C5: Trabaja en un equipo cuyos miembros en conjunto proveen liderazgo, crean un ambiente colaborativo e 
+  incluyente, establecen metas, planes de trabajo y logran objetivos con efectividad.
+* C6: Desarrolla y efectúa experimentación apropiada, analiza e interpreta los datos y usa criterio de 
+  ingeniería para obtener conclusiones.
+* C7: Adquiere y aplica nuevo conocimiento según lo requiera, utilizando estrategias de aprendizaje adecuadas.
+
+Resultados de aprendizaje generales o de programa 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Según el decreto 1330 de 2019 (:cite:t:`2019:minedu1330`) los resultados de aprendizaje son las declaraciones 
+expresas de lo que se espera que un estudiante conozca y demuestre en el momento de culminar su programa 
+académico.
 
 Para la institución un resultado de aprendizaje es la declaración explícita de lo que se espera que un
 estudiante conozca y demuestre al finalizar un proceso formativo y está en relación directa con el
 perfil de egreso del programa respectivo (:cite:t:`2022:upb-raes`).
 
-Para la institución los resultados de aprendizaje generales corresponden a un concepto en el cual se explica lo que el
-programa espera reconocer en términos de desarrollo de los propósitos de formación y de las
+Para la institución los resultados de aprendizaje generales corresponden a un concepto en el cual se 
+explica lo que el programa espera reconocer en términos de desarrollo de los propósitos de formación y de las
 Capacidades Humanas y Competencias definidas en los ciclos (:cite:t:`2022:upb-raes`).
 
 Para ingeniería del aprendizaje se proponen unos resultados de aprendizaje generales que están explícitamente 
@@ -769,10 +811,25 @@ alineados con la definición del programa: "Learning Engineering is a process an
 that applies the learning sciences using human-centered engineering design methodologies and data-informed 
 decision-making to support learners and their development."
 
-También se propone que los resultados de aprendizaje generales estén alineados con la tipología de problemas, es decir, 
-problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada tipología de problema abordará 
-los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica según corresponda.
+También se propone que los resultados de aprendizaje generales estén alineados con la tipología de problemas, 
+es decir, problemas de tipo resolutivos, autónomos y estratégicos. De esta manera, cada tipología de problema 
+abordará los mismos resultados generales pero desde una perspectiva resolutiva, autónoma o estratégica 
+según corresponda.
 
+
+Para las competencias C1 (solución de problemas).  
+
+Aplicación de las ciencias del aprendizaje:
+
+* Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (resolutivo). 
+* Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (autónomo). 
+* Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
+  su desarrollo. (estratégico).
+
+
+Para la competencias C2 (diseño)
 
 Metodologías de diseño centradas en el humano:
 
@@ -784,23 +841,36 @@ Metodologías de diseño centradas en el humano:
   soluciones que soporten al aprendiz y su desarrollo. (estratégico).
 
 
-Práctica interdisciplinarias:
+Para la competencias C3 (comunicación)
 
-* Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
-  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
-* Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
-  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (autónomo).
-* Propone relaciones complejas entre los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
-  de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
+* Comunica los temas profesionales a todos los actores involucrados en una solución y 
+  proceso de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
+  al aprendiz y su desarrollo. (resolutivo).
+* Argumenta los temas profesionales a todos los actores involucrados en una solución y 
+  proceso de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
+  al aprendiz y su desarrollo. (autónomo).
+* Convence a los actores involucrados en una solución y proceso de ingeniería del aprendizaje 
+  para conseguir los recursos necesarios que permitan realizar la solución. (estratégico).
 
-Aplicación de las ciencias del aprendizaje:
 
-* Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
-  su desarrollo. (resolutivo). 
-* Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
-  su desarrollo. (autónomo). 
-* Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
-  su desarrollo. (estratégico).
+Para la competencias C4 (ética)
+
+* Toma decisiones éticas siguiendo los códigos de conducta establecidos para la solución y el 
+  proceso de ingeniería del aprendizaje. (resolutivo).
+* Argumenta asuntos éticos para la solución y el proceso de ingeniería del aprendizaje. (autónomo).
+* Argumenta asuntos éticos ambiguos para la solución y el proceso de ingeniería del aprendizaje. (estratégico).
+
+
+Para la competencias C5 (trabajo en equipo)
+
+* Participa en equipos de ingeniería del aprendizaje en el rol asignado para aportar 
+  a la solución de problemas que soporten al aprendiz y su desarrollo. (resolutivo).
+* Propone el rol desde el cuál puede aportar a un equipo de ingeniería del aprendizaje 
+  para aportar a la solución de problemas que soporten al aprendiz y su desarrollo. (autónomo).
+* Lidera un equipo de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
+  al aprendiz y su desarrollo. (estratégico).
+
+Para la competencias C6 (Experimentación)
 
 Instrumentación del proceso y de la solución:
 
@@ -814,46 +884,13 @@ Analítica del proceso y la solución:
 * Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
 * Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
 
-Competencias y resultados de aprendizaje específicos 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Para la competencias C7 (aprendizaje)
 
-Como mencioné anteriormente, en esta propuesta no se proponen competencias, sino un acercamiento a ellas que podrán 
-agruparse (GC: grupo de competencias) así:
+Práctica interdisciplinarias:
 
-* GC1: competencias asociada con el proceso.
-* GC2: competencias asociadas con la práctica interdisciplinaria.
-* GC3: competencias asociadas con la aplicación de las ciencias del aprendizaje.
-* GC4: competencias asociadas con los métodos de diseño de ingeniería centradas en el humano.
-* GC5: competencias asociadas a la ingeniería.
-* GC6: competencias asociadas a la instrumentación y el análisis de los datos.
-* GC7: competencias asociadas al componente ético.
-* GC8: competencias asociadas a la comunicación efectiva.
-
-Cada competencia deberá estar compuesta por tres resultados de aprendizaje asociados con conceptos y teorías, 
-actitudes y valores, y habilidades procedimentales y técnicas.
-
-Estándares internacionales
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Actualmente la escuela de ingeniería de la institución se encuentra alineado los programas con los 
-7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ (:cite:t:`2022:ABET-StudentOutcomes`)
-de `ABET <https://www.abet.org/about-abet/>`__ (:cite:t:`2022:ABET-about`):
-
-* SO1: an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
-* SO2: an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
-* SO3: an ability to communicate effectively with a range of audiences.
-* SO4: an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
-* SO5: an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
-* SO6: an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
-* SO7: an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
-
-Los grupos de competencias (GC) propuestos podrán asociarse a los student outcomes de ABET así:
-
-* SO1: GC2, GC3, GC5.
-* SO2: GC1, GC4.
-* SO3: GC8, GC2.
-* SO4: GC7.
-* S05: GC1, GC2, GC8.
-* S06: GC5, GC6, GC7.
-* S07: GC1, GC2.
-
+* Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
+* Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (autónomo).
+* Propone relaciones complejas entre los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
+  de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
