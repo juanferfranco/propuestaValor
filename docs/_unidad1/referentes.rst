@@ -80,7 +80,7 @@ va a su propio ritmo de aprendizaje. En FRE cada estudiante llega al nivel de ex
 a algunos estudiantes les tomará más o menos tiempo que a otros.
 
 Esta propuesta está basada en el mismo principio de tiempo variable, pero calidad constante. Realmente se privilegia 
-el aprendizaje vinculándolo con el conceptos de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__ (:cite:t:`2022:wiki-mastery`).  
+el aprendizaje vinculándolo con el concepto de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__ (:cite:t:`2022:wiki-mastery`).  
 
 `Este <https://youtu.be/-MTRxRO5SRA>`__ (:cite:t:`2016:Ted-Sal`) video TED de Salman khan lo explica muy bien.
 
@@ -115,7 +115,7 @@ la innovación, la creatividad y el impacto social, impulsando el desarrollo de 
 
 La `Universidad ECIU <https://www.eciu.org/>`__ (:cite:t:`2022:ECIU`) es una universidad europea financiada por la UE que creará un modelo educativo 
 completamente nuevo a escala europea. La Universidad ECIU reúne a estudiantes, 
-profesores e investigadores para cooperar con ciudades y empresas y resolver desafíos de la vida real.
+profesores e investigadores para cooperar con ciudades y empresas y resolver retos de la vida real.
 
 `Este <https://vimeo.com/321068392>`__ (:cite:t:`2019:eciu-eu`) video explica la iniciativa.
 
@@ -125,33 +125,33 @@ Propuesta de valor
 La Universidad ECIU propone un nuevo modelo pedagógico basado en ``RETOS``. En la primera fase se han enfocado en el 
 `objetivo de desarrollo sostenible número 11 <https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/>`__ (:cite:t:`2022:GG11`): 
 Ciudades y comunidades sostenibles. Los retos los puede proponer cualquiera. Para abordar los retos se conforman equipos 
-con personas de la industria, la sociedad y las universidades para trabajar de manera REMOTA en los retos. Si en el proceso 
+con personas de la industria, la sociedad y las universidades para trabajar de manera REMOTA en ellos. Si en el proceso 
 de solución del reto se detectan carencias en algunos conocimientos o habilidades, los participantes pueden realizar 
 MICRO CREDENCIALES que son ofrecidas por las universidades del consorcio. Estas micro credenciales se documentan en 
 el pasaporte de aprendizaje europeo. 
 
 Según la `Universidad ECIU <https://www.eciu.org/>`__ los estudiantes pueden:
 
-* Participar en los desafíos y contribuir a generar un impacto real en la comunidad, ciudad o región.
+* Participar en los retos y contribuir a generar un impacto real en la comunidad, ciudad o región.
 * Trabajar en equipos multidisciplinarios e internacionales que permiten adquirir habilidades y conocimientos profesionales.
-* Experimentar una forma nueva e innovadora de aprender y, al hacerlo, ayude a co-crear la Universidad ECIU.
+* Experimentar una forma nueva e innovadora de aprender y, al hacerlo, ayudar a co-crear la Universidad ECIU.
 
 Los docentes de las Universidades pueden:
 
 * Resolver los problemas sociales y económicos más relevantes de la actualidad.
-* Ser pioneros en conceptos educativos de vanguardia: aprendizaje basado en desafíos y microcredenciales.
+* Ser pioneros en conceptos educativos de vanguardia: aprendizaje basado en retos y microcredenciales.
 * Co-crear con otros colegas la Universidad Europea.
 
 La sociedad y las empresas pueden:
 
-* Proponer desafíos para que los equipos de ECIU busquen respuestas.
+* Proponer retos para que los equipos de ECIU busquen respuestas.
 * Trabajar con y conectarse con los estudiantes actuales y los posibles empleados.
 * Unirse a los socios estratégicos de ECIU University co-creando las innovaciones educativas en Europa.
 
 Los investigadores pueden:
 
 * Explorar la estrategia de investigación conjunta a largo plazo de la Universidad ECIU y 
-  y las áreas de investigación compartidas.
+  las áreas de investigación compartidas.
 * Descubrir las oportunidades del Fondo de Movilidad de Investigadores de ECIU.
 * Obtener más información sobre el programa de red RUNIN y el proyecto TEFCE.
 * Obtener más información sobre el Instituto de Investigación de la Universidad ECIU para Regiones 
@@ -218,7 +218,7 @@ que la inteligencia artificial expanda nuestra humanidad.
 * Está completamente ludificada. Por medio de la ludificación se busca que una persona alcance todo 
   su potencial mediante el goce porque según Sadirac la creatividad y el pensamiento positivo florecen en 
   presencia del gozo. 
-* El proceso es 100% `peer-to-peer`. la ausencia de jerarquía promueve la confrontación entre los 
+* El proceso es 100% `peer-to-peer`. La ausencia de jerarquía promueve la confrontación entre los 
   estudiantes lo cual crea complejidad y relativización del conocimiento. Esto abre a los estudiantes a la 
   innovación.
 * Una comunidad solidaria sin profesores. Por medio de la empatía crea autonomía. Los estudiantes 
@@ -234,7 +234,7 @@ En `este <https://youtu.be/zi706-NrypY>`__ (:cite:t:`2019:01-edu-siderac`) video
 transmitir conocimiento, pero esto hace que las personas se vuelvan más pasivas y menos creativas en el proceso. 
 Cuando no existe la figura de profesor transmisor de conocimiento el estudiante se ve obligado a producir ideas, 
 generar hipótesis, probar las hipótesis y discutir con otros si la idea funciona o no. Por tanto, el 
-proceso de educativo se convierte más en un asunto de AUTO DESARROLLO que en un ejercicio de adquisición 
+proceso educativo se convierte más en un asunto de AUTO DESARROLLO que en un ejercicio de adquisición 
 de conocimiento.
 
 Propuesta de valor
@@ -283,8 +283,8 @@ London Interdisciplinary School
 
 `London Interdisciplinario School <https://www.lis.ac.uk/about/>`__ (:cite:t:`2022:lis-home`) o LIS, es una nueva Universidad ubicada en Whitechapel al oriente de Londres. 
 LIS es la primera Universidad en recibir el poder para otorgar títulos de naturaleza interdisciplinaria en el 
-reino unido. El programa interdisciplinario que ofrece LIS se dedica a abordar problemas del mundo real 
-como la crisis climática, el COVID-19, inteligencia artificial y ética, la malaria, entre otros.
+Reino Unido. El programa interdisciplinario que ofrece LIS se dedica a abordar problemas del mundo real 
+como la crisis climática, el COVID-19, la inteligencia artificial y ética, la malaria, entre otros.
 
 
   Siguiendo un proceso riguroso, LIS puede ofrecer sus propios títulos y es el primero en obtener nuevos poderes para otorgar títulos desde el principio en más de 50 años.
@@ -335,10 +335,10 @@ El plan de estudios de LIS está basado en el estudio de los conceptos y la teor
 disciplinas. La idea de LIS es permitirle al estudiante entender y abordar un PROBLEMA COMPLEJO desde varios puntos de 
 vista. Para LIS los problemas más complejos son interdisciplinarios y por tanto el currículo debería serlo también.
 
-`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__ (cite:t:`2022:lis-why`), crear y programar 
-un plan de estudios unidades interdisciplinarias no es fácil, pero dan 3 razones para hacerlo:
+`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__ (:cite:t:`2022:lis-why`), crear y programar 
+un plan de estudios en unidades interdisciplinarias no es fácil, pero dan 3 razones para hacerlo:
 
-* La especialización temprana limita la exploración de carrera.
+* La especialización temprana limita la exploración de la carrera.
 * Integrar el conocimiento genera mejores resultados.
 * Los problemas son interdisciplinarios, por lo que los planes de estudio también deberían serlo.
 
@@ -358,3 +358,7 @@ y para la propuesta que vendrá en la próxima sección.
 
 LIS es una institución que tendríamos que estar observando y valdría la pena acercarnos cuando la formulación 
 del programa interdisciplinario que se propondrá en este documente esté en un estado más avanzado.
+
+Uno de los miembros fundadores de la facultad de docentes en LIS es una Colombiana. 
+Se llama María Angélica Madero. `Aquí <https://www.linkedin.com/in/mariangelicamadero/>`__ está el LinkedIn de ella y 
+`aquí <https://www.lis.ac.uk/about/team/founding-faculty/maria-angelica-madero/>`__ su página en LIS.
