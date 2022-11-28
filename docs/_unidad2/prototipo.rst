@@ -440,7 +440,7 @@ Acercamiento a las competencias desde la captura de DATOS y la ANALÍTICA
 *************************************************************************
 
 El proceso de ingeniería del aprendizaje es altamente dependiente de los datos. Los datos se usan para tomar 
-decisiones en el proceso relativas a la experiencia y al proceso mismo. Ambas cosas se ajustan iterativamente 
+decisiones en el proceso relativas a la solución y al proceso mismo. Ambas cosas se ajustan iterativamente 
 gracias al uso de los datos. 
 
 .. warning:: MUY IMPORTANTE 
