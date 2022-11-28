@@ -288,6 +288,12 @@ Personas
 * `Ryan Baker <https://learninganalytics.upenn.edu/ryanbaker/>`__.
 * `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
 
+Presentaciones
+----------------
+
+* `Avance del prototipo <https://docs.google.com/presentation/d/1UIy0JdFwiprMAe_8tTZBUyk9-rmUYAspp-dLWETQzYc/edit?usp=share_link>`__.
+* `Aprender en el metaverso <https://juanferfranco.github.io/expoIng2022/>`__.
+
 
 Referencias
 --------------
