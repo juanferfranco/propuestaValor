@@ -866,7 +866,7 @@ Para la competencia C5 (trabajo en equipo)
 
 * Participa en equipos de ingeniería del aprendizaje en el rol asignado para aportar 
   a la solución de problemas que soporten al aprendiz y su desarrollo. (resolutivo).
-* Propone el rol desde el cuál puede aportar a un equipo de ingeniería del aprendizaje 
+* Propone el rol desde el cuál puede apoyar a un equipo de ingeniería del aprendizaje 
   para aportar a la solución de problemas que soporten al aprendiz y su desarrollo. (autónomo).
 * Lidera un equipo de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
   al aprendiz y su desarrollo. (estratégico).
