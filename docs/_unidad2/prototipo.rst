@@ -409,7 +409,7 @@ la relación entre las entradas y las salidas de un sistema. Esta información e
 poder anticipar qué entrada será necesaria para lograr una salida específica. En la ingeniería del aprendizaje 
 según :cite:t:`2022:godell` la función de transferencia es una ``teoría del aprendizaje``. Esta teoría permite 
 seleccionar la actividad que le permitirá al estudiante aprender. Debido a la variabilidad de las personas cada 
-una tendrá su PROPIA FUNCIÓN DE TRANSFERENCIA que además será variable en el tiempo. Es por ellos que los sistemas 
+una tendrá su propia función de transferencia que además será variable en el tiempo. Es por ellos que los sistemas 
 que proponga la ingeniería del aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
 adaptarse en el tiempo a esa variabilidad. 
 
