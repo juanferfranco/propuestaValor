@@ -480,12 +480,12 @@ Acercamiento a las competencias desde la ÉTICA
 
 En :cite:t:`2022:godell` se aborda detalladamente los asuntos asociados a la ética 
 en ingeniería del aprendizaje. Este asunto es de suma importancia para la ingeniería 
-del aprendizaje porque las soluciones y el proceso mismo involucran PERSONAS y datos 
+del aprendizaje porque las soluciones y el proceso mismo involucran personas y datos 
 sensibles de estas. En cada paso del proceso de ingeniería del aprendizaje es necesario 
 la toma de decisiones éticas, por ejemplo, en la selección de contenidos, lenguaje, 
 acercamiento pedagógico, acercamiento metodológico, evaluación, diseño experimental, entre 
 otros. Por tanto, la reflexión constante en un proceso de ingeniería del aprendizaje 
-ES OBLIGATORIA y no podría concebirse este proceso sin una observación cuidadosa de este 
+es obligatoria y no podría concebirse este proceso sin una observación cuidadosa de este 
 aspecto.
 
 Propuesta de implementación del programa ingeniería del aprendizaje
