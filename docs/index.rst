@@ -10,7 +10,7 @@ Contribuciones: Andres Ochoa Duque, Jully Paulina Gomez Zapata, Karol Marcela Vi
 Programa: proyecto creación de valor 2022-20
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: SECCIONES
 
    Introducción <_intro/intro>
