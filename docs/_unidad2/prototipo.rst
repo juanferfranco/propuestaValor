@@ -70,7 +70,7 @@ publicación en Medium realizada por MIT Open Learning.
    :alt: Poster Learning Engineering at a Glance
    :class: with-shadow
    :align: center
-   :width: 100%
+   :width: 90%
    
    :cite:t:`2022:MIT-medium`.
 
