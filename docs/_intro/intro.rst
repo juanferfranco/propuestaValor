@@ -8,13 +8,18 @@ de naturaleza similar.
 
 El programa propuesto apunta al objetivo de desarrollo sostenible número 4 de las Naciones Unidas.
 
+
 .. figure:: ../_static/ODSs.png
    :alt: Objetivos de desarrollo sostenible
    :class: with-shadow
    :align: center
    :width: 100%
-   
-   :cite:t:`2022:UN`
+
+   Objetivos de desarrollo sostenible
+
+   Figura tomada de :cite:p:`2022:UN`
+
+|
 
 La naturaleza del programa es interdisciplinaria y se espera que a futuro puedan formularse 
 otros programas que con la misma vocación aborden otros objetivos de desarrollo sostenible.
