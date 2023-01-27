@@ -670,7 +670,7 @@ para el pregrado en métodos y problemas interdisciplinarios.
 |
 
 Los problemas se desplegarán en el plan estudios por niveles de complejidad y de incertidumbre. 
-Desde el nivel resolutivo hasta el nivel estratégico y desde problemas bin definidos hasta retos que demandarán 
+Desde el nivel resolutivo hasta el nivel estratégico y desde problemas bien definidos hasta retos que demandarán 
 la definición del problema mismo a resolver. De esta manera las competencias transitarán el mismo camino 
 de los problemas, es decir, de lo resolutivo a lo estratégico.
 
