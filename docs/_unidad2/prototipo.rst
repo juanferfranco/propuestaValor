@@ -357,7 +357,7 @@ Para la ingeniería del aprendizaje las ciencias del aprendizaje no son un fin e
 herramienta para resolver problemas. Esto plantea las siguientes preguntas: ¿Qué ciencia básica debe estudiar 
 un ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
 esa discusión en este punto dejo mi opinión al respecto. Considerando que la práctica de la ingeniería del 
-aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas se 
+aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas, se 
 sugiere que el estudio de las mismas se haga justo a necesidad del problema a resolver. Se nos dice 
 constantemente que un ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
 básica no es saberla como un requisito más para obtener el título de ingeniero, sino más bien aplicarla como 
