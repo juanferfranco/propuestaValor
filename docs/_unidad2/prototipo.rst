@@ -30,7 +30,7 @@ Denominación del programa
 De este punto en adelante el nuevo programa propuesto será denominado como ``ingeniería del aprendizaje`` o ``learning`` 
 ``engineering``. Claramente esta denominación tendrá que discutirse profundamente; sin embargo, será acogida en este 
 documento porque es la denominación utilizada por el Consorcio Industrial en ``ingeniería del aprendizaje`` de la IEEE 
-IEEE ICICLE por sus siglas en inglés. En principio, todo el fundamento teórico del programa usará los documentos 
+ICICLE por sus siglas en inglés. En principio, todo el fundamento teórico del programa usará los documentos 
 publicados y en discusión de la IEEE ICICLE. Será una tarea posterior de la institución definir que tan alineado estará 
 el programa a las definiciones de IEEE ICICLE.
 
