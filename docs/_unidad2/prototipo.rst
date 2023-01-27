@@ -372,7 +372,7 @@ restricciones para alcanzar resultados prácticos. La ingeniería del aprendizaj
 sus propios experimentos y realizando sus propios compromisos porque un ingeniero del aprendizaje busca solucionar 
 problemas pero siempre tendrá que realizar compromisos para alcanzar el nivel de optimización deseado.
 
-Según :cite:p:`2022:godell` además de la matemática la ingeniería del aprendizaje requiere de otras ciencias 
+Según :cite:p:`2022:godell`, además de la matemática, la ingeniería del aprendizaje requiere de otras ciencias 
 para resolver problemas como por ejemplo las ciencias cognitivas, las socioculturales, las comportamentales 
 y las motivacionales. 
 
