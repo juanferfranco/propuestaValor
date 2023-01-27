@@ -97,7 +97,7 @@ Es muy importante anotar que FRE tiene más estudiantes en colegios
 públicos que en colegios privados. En la página web `learning1to1 <https://www.learning1to1.net/>`__  se puede evidenciar 
 que FRE no es solo una iniciativa privada. El sistema se ha implementado en un gran número de colegios públicos y en algunas 
 Universidades. En el año 2020 tuve la oportunidad de hablar con John Jairo Parra Herrera, rector de 
-la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ :cite:p:`2022:isolda` de Itagui, 
+la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ :cite:p:`2022:isolda` de Itagüi, 
 acerca de la implementación del sistema en este colegio público. El diálogo, inicialmente con Julio Fontán, y luego 
 con John Jairo Parra me hace pensar que si el sistema público Colombiano pudo adaptarse a un cambio como el propuesto 
 por FRE entonces la institución para la cual trabajo también podría hacerlo.
