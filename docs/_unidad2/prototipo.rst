@@ -142,7 +142,7 @@ relacionados con:
 * Construir productos educativos que puedan emplearse como SOLUCIONES ESCALABLES.
 * Diseñar experiencias de aprendizaje.
 * Afronta las condiciones ambientales o externas, es decir, las condiciones que conducen a un aprendizaje óptimo. Por 
-  ejemplo la arquitectura de un ambiente físico o virtual de aprendizaje, las estructuras sociales, la mentalidad de los aprendices, 
+  ejemplo, la arquitectura de un ambiente físico o virtual de aprendizaje, las estructuras sociales, la mentalidad de los aprendices, 
   hábitos y prácticas de los aprendices.
 * Diseño curricular.
 * Desarrollo de tecnologías educativas.
