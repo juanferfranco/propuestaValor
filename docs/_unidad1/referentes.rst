@@ -18,7 +18,7 @@ de mi labor docente encontré en el aprendizaje basado en proyectos una herramie
 muy útil para implementar los principio que el modelo pedagógico sugería. En el año 
 2020 adicioné a mi repertorio docente las ideas del aula invertida como metodología 
 para adaptarse a los retos de la pandemia por COVID-19 y descubrí a 
-`John Biggs <https://www.johnbi2019ggs.com.au/>`__ :cite:p:`2022:Biggs` y el 
+`John Biggs <https://www.johnbiggs.com.au>`__ :cite:p:`2022:Biggs` y el 
 `constructive alignment <https://www.johnbiggs.com.au/academic/constructive-alignment/>`__ :cite:p:`2022-2:Biggs`.
 
 La pandemia me hizo repensar todos los cursos que impartía y considerando el aprendizaje 
