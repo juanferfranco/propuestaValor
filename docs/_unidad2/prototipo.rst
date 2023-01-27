@@ -278,8 +278,8 @@ de abordar de manera aislada cada disciplina, es decir, se debería descartar de
 de construir un plan de estudios donde cada pétalo sea un área de estudio separada. Dada la naturaleza interdisciplinaria 
 del programa sería más coherente abordar los pétalos de manera integrada. Para lograrlo se sugiere estructurar 
 el plan de estudio no por cursos, si no por problemas. Las necesidades de cada problema irán mostrando 
-qué disciplinas en términos de conceptos, procesos y actitudes tendrán que consultarse para abordar el 
-problema. Considero que el enfoque formativo debería estar orientado a la formación en competencias que permitan 
+qué disciplinas en términos de conceptos, procesos y actitudes tendrán que consultarse para abordarlo. 
+Considero que el enfoque formativo debería estar orientado a la formación en competencias que permitan 
 establecer puentes de comunicación entre las disciplinas mediante un lenguaje común y para indagar y tomar de estas 
 lo que se requiere para aplicarlo a la solución del problema. 
 
