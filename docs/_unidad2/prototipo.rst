@@ -390,16 +390,20 @@ aplica la teoría de control para el aprendizaje personalizado:
    Figura tomada de :cite:p:`2022:godell`
 
 |
+  
+  "El sistema de educación tradicional es un sistema de control de lazo abierto. Se establecen un conjunto de objetivos 
+  o recientemente resultados de aprendizaje. Esto se traslada a instrucciones en forma de libros de texto, clases magistrales 
+  y ejercicios. Estas actividades se entregan a los aprendices dando como resultado las habilidades o competencias esperadas. 
+  En el sistema tradicional, a todos los aprendices se les entregan las mismas actividades. Los sistemas de lazo abierto 
+  requieren sistemas muy precisos y un gran margen de error aceptable. Los alumnos llegan a un curso con personalidad, 
+  talentos, preferencias y antecedentes diferentes. El resultado de aplicar un sistema de control en lazo abierto en estas 
+  circunstancias producirá como resultado un margen de error muy amplio. Los buenos profesores y diseños curriculares proveen 
+  retroalimentación constante a los aprendices y adaptan la enseñanza a las necesidades de estos. Los buenos aprendices a su vez 
+  adaptan su estrategia de aprendizaje en función de la retroalimentación." 
 
-Según :cite:p:`2022:godell` "el sistema de educación tradicional es un sistema de control de lazo abierto. Se establecen un conjunto de objetivos 
-o recientemente resultados de aprendizaje. Esto se traslada a instrucciones en forma de libros de texto, clases magistrales 
-y ejercicios. Estas actividades se entregan a los aprendices dando como resultado las habilidades o competencias esperadas. 
-En el sistema tradicional, a todos los aprendices se les entregan las mismas actividades. Los sistemas de lazo abierto 
-requieren sistemas muy precisos y un gran margen de error aceptable. Los alumnos llegan a un curso con personalidad, 
-talentos, preferencias y antecedentes diferentes. El resultado de aplicar un sistema de control en lazo abierto en estas 
-circunstancias producirá como resultado un margen de error muy amplio. Los buenos profesores y diseños curriculares proveen 
-retroalimentación constante a los aprendices y adaptan la enseñanza a las necesidades de estos. Los buenos aprendices a su vez 
-adaptan su estrategia de aprendizaje en función de la retroalimentación." Ambas estrategias de adaptación requieren el uso de 
+  -- Según :cite:p:`2022:godell` 
+
+Ambas estrategias de adaptación (lazo abierto y retroalimentado) requieren el uso de 
 rúbricas que permitan comparar la retroalimentación con un estándar de lo que se espera. Lo anterior es precisamente la 
 manera como funciona un sistema de control de lazo cerrado tal como lo muestra la figura anterior. Lo ideal es que esta 
 estrategia se pueda aplicar con cada aprendiz, pero la realidad es que el costo de implementar esta idea con cada uno 
