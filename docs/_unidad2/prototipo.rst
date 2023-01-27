@@ -700,7 +700,7 @@ y aplicarlos a la solución de problemas mediante procedimientos y valores.
 
 Los problemas autónomos son problemas que demandan procesos de optimización de la solución por parte del estudiante. 
 Para optimizar es necesario realizar compromisos y esos compromisos implican la selección argumentada de una posible solución 
-del espacio soluciones que permita optimizar contra algún o algunos requisitos no funcionales. Para abordar este tipo de 
+del espacio de soluciones que permita optimizar contra algún o algunos requisitos no funcionales. Para abordar este tipo de 
 problemas el estudiante tuvo que haberse enfrentado a un conjunto de problemas resolutivos previamente y aprender  
 , puede ser por medio de casos de estudio, la manera de seleccionar una solución para enfrentar problemas autónomos. 
 Los problemas resolutivos demandan soluciones que den respuesta a los requisitos funcionales, mientras que los problemas autónomos 
