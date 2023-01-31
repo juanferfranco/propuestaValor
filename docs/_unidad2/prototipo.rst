@@ -752,6 +752,11 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
   de trabajo para el aprendizaje socio emocional que puede servir como referente para el trabajo 
   en la dimensión de desarrollo personal de los aprendices.
 
+  Otro referente para revisar es la aplicación de la psicología positiva en el 
+  contexto educativo. `Aquí <https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/250>`__ 
+  se puede revisar un marco de aplicación de la educación positiva en un contexto 
+  educativo.  
+
 El rol del estudiante 
 ***********************
 
