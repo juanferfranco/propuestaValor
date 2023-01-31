@@ -746,6 +746,12 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
 * La dimensión de ``desarrollo académico`` donde se acompaña al estudiante en el abordaje de los problemas y en los ejercicios 
   metacognitivos que tienen como propósito aprender a aprender y el pensamiento crítico.
 
+.. note:: Para explorar en la dimensión de desarrollo personal
+
+  La organización CASEL :cite:p:`2023:SEL` propone un `MARCO <https://casel.org/fundamentals-of-sel/>`__ 
+  de trabajo para el aprendizaje socio emocional que puede servir como referente para el trabajo 
+  en la dimensión de desarrollo personal de los aprendices.
+
 El rol del estudiante 
 ***********************
 
