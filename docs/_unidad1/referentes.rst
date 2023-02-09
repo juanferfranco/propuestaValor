@@ -78,9 +78,8 @@ de decisiones en su proceso educativo permitiendo el aprendizaje autónomo.
 FRE es un sistema de TIEMPO VARIABLE pero de CALIDAD CONSTANTE. Esto quiere decir que cada estudiante 
 va a su propio ritmo de aprendizaje. En FRE cada estudiante llega al nivel de excelencia esperado, simplemente, 
 a algunos estudiantes les tomará más o menos tiempo que a otros. Realmente se privilegia 
-el aprendizaje vinculándolo con el concepto de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__ :cite:p:`2022:wiki-mastery`.
-
-`Este <https://youtu.be/-MTRxRO5SRA>`__ :cite:p:`2016:Ted-Sal` video TED de Salman khan lo explica muy bien.
+el aprendizaje vinculándolo con el concepto de `MASTERY LEARNING <https://en.wikipedia.org/wiki/Mastery_learning>`__ :cite:p:`2022:wiki-mastery`, 
+explicado por Salman khan en `este <https://youtu.be/-MTRxRO5SRA>`__ :cite:p:`2016:Ted-Sal` video TED.
 
 ¿Por qué es importante el mastery learning para esta propuesta? Porque está vinculado con el respecto por la diferencia, 
 es un asunto de dignidad humana. Todos los estudiantes deberían tener la oportunidad de desarrollar el nivel 
