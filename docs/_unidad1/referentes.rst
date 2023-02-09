@@ -64,6 +64,7 @@ Ventura y Emilia Fontán. Es propuesto por uno de sus hijos, Julio Fontán.
 
 Propuesta de valor
 ***************************
+
 El modelo se propone el desarrollo de hábitos de autonomía de aprendizaje con los estudiantes 
 en tan solo 8 semanas. Propone un sistema que permita superar el sistema educativo actual inspirado, 
 `según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__ :cite:p:`2022:fre-2`, en los sistemas industrializados de la revolución industrial.
