@@ -89,10 +89,11 @@ que requieren de mayor repaso y concentración. Ciertamente desde esta perspecti
 ritmo, no obstante se posibilitará que lleguen al mejor nivel posible de acuerdo con las características propias 
 de cada estudiante.
 
-¿Por qué es importante el mastery learning para esta propuesta? Porque está vinculado con el respecto por la diferencia, 
-es un asunto de dignidad humana. Todos los estudiantes deberían tener la oportunidad de desarrollar el nivel 
-del criterio de competencia esperado al 100% independiente del tiempo que les tome. ¿Por qué? Porque esto permite que 
-una persona pueda avanzar en su proceso de formación con bases firmes y fortalecer su mentalidad. 
+¿Por qué es importante el mastery learning para esta propuesta? Porque está vinculado con el respecto por 
+la diferencia que es un asunto de dignidad humana. Todos los estudiantes deberían tener la oportunidad 
+de desarrollar el nivel del criterio de competencia esperado al 100% independiente del tiempo que les 
+tome porque esto permite que una persona pueda avanzar en su proceso de formación con bases firmes 
+y fortalecer su mentalidad.
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
