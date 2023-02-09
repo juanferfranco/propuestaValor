@@ -98,7 +98,6 @@ y fortalecer su mentalidad.
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
 
-El modelo FRE inspiró el proyecto Delfín que a su vez inspiró esta propuesta. 
 Es muy importante anotar que FRE tiene más estudiantes en colegios 
 públicos que en colegios privados. En la página web `learning1to1 <https://www.learning1to1.net/>`__  se puede evidenciar 
 que FRE no es solo una iniciativa privada. El sistema se ha implementado en un gran número de colegios públicos y en algunas 
