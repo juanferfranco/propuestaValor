@@ -119,9 +119,10 @@ La Universidad ECIU
 ECIU es el consorcio internacional líder de universidades intensivas en investigación, con énfasis colectivo en 
 la innovación, la creatividad y el impacto social, impulsando el desarrollo de una economía basada en el conocimiento.
 
-La `Universidad ECIU <https://www.eciu.org/>`__ :cite:p:`2022:ECIU` es una universidad europea financiada por la UE que creará un modelo educativo 
-completamente nuevo a escala europea. La Universidad ECIU reúne a estudiantes, 
-profesores e investigadores para cooperar con ciudades y empresas y resolver retos de la vida real.
+La `Universidad ECIU <https://www.eciu.org/>`__ :cite:p:`2022:ECIU` es una universidad europea financiada por 
+la Unión Europea que creará un modelo educativo completamente nuevo a escala continental. La Universidad 
+ECIU reúne a estudiantes, profesores e investigadores para cooperar con ciudades y empresas y resolver 
+retos de la vida real.
 
 `Este <https://vimeo.com/321068392>`__ :cite:p:`2019:eciu-eu` video explica la iniciativa.
 
