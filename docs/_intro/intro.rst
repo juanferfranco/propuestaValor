@@ -31,7 +31,7 @@ La siguiente imagen muestra un resumen de dichos objetivos:
 |
 
 La naturaleza del programa es interdisciplinaria y se espera que a futuro puedan formularse 
-otros programas que con la misma vocación aborden otros objetivos de desarrollo sostenible.
+otros programas que, con la misma vocación, aborden otros objetivos de desarrollo sostenible.
 
 El documento está estructurado en tres secciones. En la primer sección se presentarán iniciativas 
 de innovación educativa alrededor del mundo que han servido de inspiración para elaborar esta propuesta. En 
