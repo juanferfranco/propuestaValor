@@ -3,8 +3,8 @@ Referentes
 
 En esta sección se analizan algunos referentes que han servido de inspiración 
 para la propuesta que se presentará en la siguiente sección del documento; sin embargo, 
-antes de entrar en materia, voy a narrar las motivaciones y reflexiones que terminan, 
-hasta ahora, en este documento.
+antes de entrar en materia, voy a narrar las motivaciones y reflexiones previas 
+que han motivado la construcción de esta propuesta.
 
 El camino recorrido hasta ahora
 ---------------------------------
