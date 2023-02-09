@@ -2,9 +2,10 @@ Introducción
 =================
 
 Esta documentación es el resultado de un proceso de reflexión personal, de búsqueda y 
-análisis para proponer un prototipo de un nuevo programa educativo disruptivo e innovador. 
-El programa propuesto pretende convertirse en un modelo para la construcción de nuevos programas 
-de naturaleza similar.
+análisis para proponer un prototipo de un nuevo programa educativo disruptivo e innovador 
+porque posee una organización curricular diferenciada que se constituye en una forma de 
+abordar los problemas reales. El programa propuesto pretende convertirse en un modelo para 
+la construcción de nuevos programas de naturaleza similar.
 
 El programa propuesto apunta específicamente al objetivo de desarrollo sostenible número 4
 porque se presenta una oferta educativa de acuerdo con las tendencias formativas y con las 
