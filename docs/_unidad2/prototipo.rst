@@ -4,12 +4,15 @@ Prototipo de un programa disruptivo e innovador
 Motivación 
 ---------------
 
-El programa que se presenta a continuación busca formar nuevos profesionales que tengan las competencias 
-interdisciplinarias que permitan repensar y crear la capacidad institucional para formular nuevos programas 
-interdisciplinarios y para acompañar los procesos de formación, los cuales desde mi opinión requieren un 
-nuevo tipo de profesor, un teamcher, un mentor, un líder. Profesores con habilidades para abordar las 
-capacidades diversas y apoyar los procesos desarrollo personal de los estudiantes. A mi modo de ver, este 
-tipo de profesores aún no existen.
+El programa que se presenta a continuación busca formar nuevos profesionales con competencias 
+interdisciplinarias que permitan, a su vez, repensar y crear la capacidad institucional de la UPB para 
+formular nuevos programas interdisciplinarios y para acompañar los procesos educativos. Asimismo, esta 
+renovación deberá propiciar, desde mi opinión, un nuevo tipo de profesor un teamcher, un mentor, un líder. 
+Profesores con habilidades para abordar las capacidades diversas y apoyar los procesos desarrollo 
+personal de los estudiantes. A mi modo de ver, este tipo de profesores aún no existen, no obstante, 
+se podrían consolidar equipos de líderes interdisciplinares de tal modo que, a la par que se renuevan 
+los programas, se perfilen nuevas formas de ejercer la docencia y de configurar la relación estudiante y 
+profesor.
 
 En mayo del 2020 el vicerrector académico en `este <https://www.youtube.com/watch?v=0BFDVVuu7Ow>`__ :cite:p:`2020:upb`
 video señaló que:
