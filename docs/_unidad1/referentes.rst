@@ -307,47 +307,19 @@ como la crisis climática, el COVID-19, la inteligencia artificial y ética, la 
 Propuesta de valor
 ***************************
 
-`Según LIS <https://www.lis.ac.uk/about/>`__: 
+De acuerdo con la propuesta de LIS los líderes en los diversos campos y disciplinas requieren de 
+competencias y habilidades que les posibiliten enfrentar los retos de un mundo cambiante y complejo. 
+En este orden de ideas, resulta imprescindible la articulación de los saberes a fin de poder analizar, 
+reflexionar y proponer alternativas y soluciones a problemas reales. La universidad debe entonces 
+plantear sinergias entre grupos diversos (académicos, empresarios y educadores) que posibiliten centrar 
+su interés en la enseñanza más que en la investigación como lo propone este modelo.
 
-  Los eventos globales muestran que el mundo es complejo. Los líderes políticos, empresariales y académicos 
-  necesitan conocimientos que vayan más allá de la naturaleza aislada de nuestro actual sistema de educación superior. 
-  Estamos construyendo una nueva universidad que brindará a los estudiantes el conocimiento y las habilidades necesarias 
-  para abordar los problemas sociales y globales en un mundo cada vez más interconectado.
-
-  --LIS 
-
-  Los problemas que enfrenta la humanidad son más complejos, interconectados y urgentes que nunca. 
-  El lugar de trabajo moderno necesita personas que puedan abordar este tipo de problemas y tener un impacto real en 
-  el mundo. El sistema universitario actual no puede evolucionar lo suficientemente rápido, por lo que necesitamos una 
-  nueva solución.
-
-  --LIS
-
-  Le damos más importancia a la enseñanza que a la investigación. Hemos reunido a un grupo diverso y destacado de académicos, 
-  empresarios y educadores. El equipo de LIS incluye filósofos, epidemiólogos, artistas, periodistas, científicos del 
-  comportamiento y matemáticos, así como empresarios y profesionales.
-
-  --LIS 
-
-  La magia de la `inteligencia colectiva` es la clave para desbloquear la interdisciplinariedad. El intercambio de modelos 
-  mentales a través de los límites de la experiencia puede crear modos nuevos y relevantes de comprender y 
-  experimentar el mundo. Los interdisciplinarios unen fuerzas para lograr más juntos de lo que las mentes desconectadas 
-  pueden lograr por sí solas. El futuro es interdisciplinario (ID). Estará a la vanguardia del movimiento de 
-  identificación, desafiando lo que es posible, siendo capaz de traspasar los límites disciplinarios, 
-  establecer nuevas conexiones y encontrar nuevas soluciones.
-
-  --LIS
-
-El plan de estudios de LIS está basado en el estudio de los conceptos y la teorías RELACIONADOS desde múltiples 
-disciplinas. La idea de LIS es permitirle al estudiante entender y abordar un PROBLEMA COMPLEJO desde varios puntos de 
-vista. Para LIS los problemas más complejos son interdisciplinarios y por tanto el currículo debería serlo también.
-
-`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__ :cite:p:`2022:lis-why`, crear y programar 
-un plan de estudios en unidades interdisciplinarias no es fácil, pero dan 3 razones para hacerlo:
-
-* La especialización temprana limita la exploración de la carrera.
-* Integrar el conocimiento genera mejores resultados.
-* Los problemas son interdisciplinarios, por lo que los planes de estudio también deberían serlo.
+"El equipo de LIS incluye filósofos, epidemiólogos, artistas, periodistas, científicos del comportamiento 
+y matemáticos, así como empresarios y profesionales". Esto posibilita que la inteligencia colectiva deje 
+de ser un marco organizativo teórico a un campo real de realización en donde se hace palpable la 
+interdisciplinariedad. Desde LIS consideran que estos diálogos posibiliten nuevas formas de comprender y 
+experimentar en el mundo, puesto que se superan las fronteras y se desarrollan conexiones para encontrar 
+alternativas.
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
