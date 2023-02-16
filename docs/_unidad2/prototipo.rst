@@ -145,15 +145,17 @@ relacionados con:
 * Optimizar experiencia de aprendizaje.
 * Construir productos educativos que puedan emplearse como SOLUCIONES ESCALABLES.
 * Diseñar experiencias de aprendizaje.
-* Afronta las condiciones ambientales o externas, es decir, las condiciones que conducen a un aprendizaje óptimo. Por 
-  ejemplo, la arquitectura de un ambiente físico o virtual de aprendizaje, las estructuras sociales, la mentalidad de los aprendices, 
-  hábitos y prácticas de los aprendices.
-* Diseño curricular.
-* Desarrollo de tecnologías educativas.
-* Analítica del aprendizaje.
-* Aprendizaje personalizado.
-* Instrumentar experiencias de aprendizaje para alimentar el proceso iterativo de creación, implementación e investigación de las soluciones.
-* Instrumentar experiencias de aprendizaje para optimizar las actividades de aprendizaje y retroalimentación.
+* Afrontar las condiciones ambientales o externas, es decir, las condiciones que conducen a un aprendizaje 
+  óptimo. Por ejemplo, la arquitectura de un ambiente físico o virtual de aprendizaje, las estructuras 
+  sociales, la mentalidad de los aprendices, hábitos y prácticas de los aprendices.
+* Realizar propuestas que posibiliten la transformación en el diseño curricular.
+* Desarrollar tecnologías educativas para afrontar retos concretos.
+* Posibilitar la analítica del aprendizaje para el mejoramiento continuo de los procesos.
+* Implementar procesos y prácticas que posibiliten el aprendizaje personalizado.
+* Definir estrategias para la medición de las experiencias de aprendizaje para alimentar 
+  el proceso iterativo de creación, implementación e investigación de las soluciones.
+* Definir estrategias para la medición de las experiencias de aprendizaje para optimizar las 
+  actividades de aprendizaje y retroalimentación.
 
 Críticas 
 -----------
