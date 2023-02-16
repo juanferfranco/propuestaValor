@@ -321,6 +321,18 @@ interdisciplinariedad. Desde LIS consideran que estos diálogos posibiliten nuev
 experimentar en el mundo, puesto que se superan las fronteras y se desarrollan conexiones para encontrar 
 alternativas.
 
+El plan de estudios de LIS está basado en el estudio de los conceptos y la teorías relacioandas 
+desde múltiples disciplinas. La idea de LIS es permitirle al estudiante entender y abordar un 
+problema complejo desde varios puntos de vista. Para LIS los problemas más complejos son interdisciplinarios 
+y por tanto el currículo debería serlo también.
+
+`Según LIS <https://www.lis.ac.uk/news/why-do-we-need-interdisciplinary-learning-in-schools/>`__ :cite:p:`2022:lis-why`, crear y programar 
+un plan de estudios en unidades interdisciplinarias no es fácil, pero dan 3 razones para hacerlo:
+
+* La especialización temprana limita la exploración de la carrera.
+* Integrar el conocimiento genera mejores resultados.
+* Los planes de estudio deberían basarse en problemas de naturaleza interdisciplinaria.
+
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
 
