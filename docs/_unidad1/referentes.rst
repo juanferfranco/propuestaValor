@@ -338,7 +338,7 @@ un plan de estudios en unidades interdisciplinarias no es fácil, pero dan 3 raz
 
 Actualmente trabajo en uno de los programas interdisciplinarios de la institución: ingeniería en 
 diseño de entretenimiento digital. Algunos de los principios que propone LIS he tenido la fortuna de vivirlos 
-en entretenimiento digital; sin embargo, el diseño original del programa no se llevo a la práctica debido a 
+en entretenimiento digital; sin embargo, el diseño original del programa no se llevó a la práctica debido a 
 las restricciones del sistema en el que está inscrito. El plan de estudios aborda varias disciplinas, pero 
 la integración de estas no es tan fluido como podría desearse. Por tanto, la forma de implementar un programa 
 interdisciplinario como la propuesta por LIS puede inspirarnos para la transformación de programas actuales 
