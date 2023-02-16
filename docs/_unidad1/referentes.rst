@@ -279,7 +279,7 @@ para favorecer el crecimiento personal COLECTIVO desde las actividades de soluci
 Con el modelo pedagógico de la institución se busca superar el modelo pedagógico tradicional centrado en la 
 enseñanza, el papel de receptor del estudiante y el de transmisor del conocimiento asumido por el profesor. 
 01-edu debería servirnos como caso de estudio que nos permita observar una manera de llevar a la práctica 
-los principios que propone el modelo pedagógico. 01-edu propone un cambio radical en la relación profesor 
+los principios que propone el modelo pedagógico. 01-edu plantea un cambio radical en la relación profesor 
 estudiante y es el análisis de esa propuesta lo que nos podría invitar a PENSAR de MANERA CRÍTICA en las 
 ideas a las que estamos anclados, pero desde una perspectiva CENTRADA EN EL ESTUDIANTE. Un modelo pedagógico 
 que privilegie el aprendizaje y el desarrollo personal. Un compromiso tan firme con estos principios que 
