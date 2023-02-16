@@ -22,10 +22,11 @@ video señaló que:
 
   --Vicerrector Académico.
 
-Mi hipótesis es que nos cuesta profundamente hacer algunas renuncias a formas tradicionales de hacer las cosas y 
-además no contamos con una masa crítica de personas con una mentalidad y unas competencias interdisciplinarias que 
-inspiren y empujen con fuerza estrategias de cambio radicales. La implementación misma del modelo pedagógico es un 
-problemas muy complejo que requiere ser abordado desde un óptica interdisciplinaria. 
+Mi hipótesis es que nos cuesta profundamente realizar renuncias cuando se trata de las formas tradicionales 
+de hacer las cosas y, además, no contamos con una masa crítica de personas que posean una mentalidad y unas 
+competencias interdisciplinarias que inspiren y empujen con fuerza estrategias de cambio radicales. La 
+implementación misma del modelo pedagógico es un problema muy complejo que requiere ser abordado desde 
+una óptica interdisciplinaria.
 
 Denominación del programa
 ---------------------------
