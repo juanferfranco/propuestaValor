@@ -256,7 +256,7 @@ En el proceso de la Ingeniería del Aprendizaje entender el reto es central. Est
 los objetivos del aprendizaje, a los aprendices y las condiciones que dificultan o ayudan al aprendiz a lograr los 
 objetivos. Como en cualquier otra actividad de diseño o ingeniería la clave del proceso es entender profundamente el 
 reto antes de buscar cualquier solución. Es por esta razón que el proceso de la Ingeniería del Aprendizaje es iterativo 
-y es porque con cada iteración se comprende mejor el reto y de esta manera la solución es más ajustada al objetivo.  
+y es porque con cada reiteración se comprende mejor el reto y de esta manera la solución es más ajustada al objetivo.  
 
 
 Acercamiento a las competencias desde la práctica INTERDISCIPLINARIA
