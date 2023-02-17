@@ -235,7 +235,7 @@ la oportunidad para mejorar el aprendizaje o las condiciones para que este se de
 aquello que rodea al reto. Incluye a las personas (el aprendiz, el equipo de Ingeniería del Aprendizaje, profesores, tutores, 
 administrativos), el ambiente físico o virtual, los antecedentes y el conocimiento previo del aprendiz, las normas 
 culturales del aprendiz (hogar, comunidad y comunidad de aprendizaje), todo sobre el grupo poblacional del aprendiz y las 
-posible condiciones de aprendizaje que puedan ayudar o dificultar el aprendizaje. El contexto incluirá 
+posibles condiciones que puedan ayudar o dificultar el aprendizaje. El contexto incluirá 
 las normas, las expectativas, las prestaciones y las limitaciones que tendrán que ser tenidas en cuenta para afrontar 
 el reto. Luego de esto, el proceso incluye ciclos de creación, implementación e investigación que se desarrollan de manera 
 iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos. El proceso es iterativo y lo 
