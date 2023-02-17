@@ -238,8 +238,8 @@ culturales del aprendiz (hogar, comunidad y comunidad de aprendizaje), todo sobr
 posibles condiciones que puedan ayudar o dificultar el aprendizaje. El contexto incluirá 
 las normas, las expectativas, las prestaciones y las limitaciones que tendrán que ser tenidas en cuenta para afrontar 
 el reto. Luego de esto, el proceso incluye ciclos de creación, implementación e investigación que se desarrollan de manera 
-iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos. El proceso es iterativo y lo 
-que se hace en cada iteración depende de los datos extraídos y analizados de la iteración anterior.
+iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos. El proceso es iterativo y 
+lo que se hace en cada reiteración depende de los datos extraídos y analizados de la repetición anterior.
 
 .. figure:: ../_static/LEprocess.png
    :alt: El proceso de la Ingeniería del Aprendizaje
