@@ -1,9 +1,8 @@
 # PROYECTO PROPUESTA DE VALOR
 
 La documentación en este repositorio discute la propuesta de un nuevo tipo 
-de programas interdisciplinarios para la UPB; sin embargo, la reflexión 
-se particulariza para un programa que puede ser generalizable a programas 
-de naturaleza similar al descrito.
+de programa profesional interdisciplinario que sirva como marco para la contrucción 
+de otros similares.
 
 Los archivos fuente de la documentación están en la carpeta docs. La documentación 
 generada está en el directorio 
