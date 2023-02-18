@@ -119,17 +119,17 @@ central de la Ingeniería del Aprendizaje se puede observar en la siguiente imag
 
 |
 
-Esta flor de conocimiento implica que el ingeniero del aprendizaje podría desempeñarse en ámbitos 
+Esta flor de conocimiento implica que el Ingeniero del aprendizaje podría desempeñarse en ámbitos 
 específicos o pétalos de la flor, compartiendo vocabulario con profesionales disciplinares y/o otros 
-ingenieros del aprendizaje enfocados en otros pétalos.
+Ingenieros del aprendizaje enfocados en otros pétalos.
 
-Según :cite:p:`2022:godell` los roles típicos de un ingeniero del aprendizaje son:
+Según :cite:p:`2022:godell` los roles típicos de un Ingeniero del aprendizaje son:
 
 * Trabajar como consultor haciendo equipo con un instructor.
 * Trabajar como miembro de un equipo diseñando experiencias de aprendizaje, plataformas, 
-  recursos u otras soluciones como colaborador o como ingeniero del aprendizaje líder que coordina 
+  recursos u otras soluciones como colaborador o como Ingeniero del aprendizaje líder que coordina 
   varios especialistas y fija la dirección del trabajo a realizarse.
-* Trabajando con varios ingenieros del aprendizaje con una base de competencias y vocabulario compartido común 
+* Trabajando con varios Ingenieros del aprendizaje con una base de competencias y vocabulario compartido común 
   para practicar actividades de Ingeniería del Aprendizaje desempeñando diferentes roles y en diferentes áreas de 
   especialización.
 
@@ -138,7 +138,7 @@ Problemas abordados por el programa
 
 Aprender es un proceso que ocurre en casi todos los ámbitos de la vida tales como la familia, los colegios, las universidades, 
 las empresas, entre otros. Cada uno de estos ámbitos produce problemas que dificultan el proceso de desarrollo y aprendizaje 
-del aprendiz. Según :cite:p:`2022:godell` un ingeniero del aprendizaje participa en equipos interdisciplinarios que abordan los problemas
+del aprendiz. Según :cite:p:`2022:godell` un Ingeniero del aprendizaje participa en equipos interdisciplinarios que abordan los problemas
 relacionados con:
 
 * Crear las condiciones para un aprendizaje óptimo.
@@ -168,15 +168,15 @@ frase traen a la mente ideas como la escuela al servicio de la industria, la efi
 realizan procesos de ingeniería que maximizan el material a enseñar a la mayor cantidad de estudiantes, en el menor 
 tiempo posible. En :cite:p:`2022:godell` también se apunta a la percepción de muchas personas que ven la palabra 
 ingeniería como algo mecánico o industrial. En :cite:p:`2019:Chandler` aclaran que la idea de la ingeniería 
-del aprendizaje no es sacar del proceso a los profesores, más bien plantea a un profesor como un ingeniero que 
+del aprendizaje no es sacar del proceso a los profesores, más bien plantea a un profesor como un Ingeniero que 
 diseña, construye e implementa soluciones a problemas complejos situados en ambientes con variables dinámicas. 
-:cite:p:`2022:godell` dicen que los ingenieros del aprendizaje no diseñan el aprendizaje más de lo que los 
-ingenieros civiles diseñan a los civiles. Un ingeniero civil crea y mantiene la infraestructura física para 
-el beneficio de los civiles. Un ingeniero del aprendizaje crea soluciones para el beneficio de los aprendices.
+:cite:p:`2022:godell` dicen que los Ingenieros del aprendizaje no diseñan el aprendizaje más de lo que los 
+Ingenieros civiles diseñan a los civiles. Un Ingeniero civil crea y mantiene la infraestructura física para 
+el beneficio de los civiles. Un Ingeniero del aprendizaje crea soluciones para el beneficio de los aprendices.
 
-Más allá de las discusiones al respecto me parece que lo importante es no perder de vista que el ingeniero 
+Más allá de las discusiones al respecto me parece que lo importante es no perder de vista que el Ingeniero 
 del aprendizaje no diseña el aprendizaje. El aprendizaje es un proceso humano que ocurre en el cerebro de cada persona. 
-Más bien, como lo apunta la definición, el ingeniero del aprendizaje soporta el aprendizaje de una persona y 
+Más bien, como lo apunta la definición, el Ingeniero del aprendizaje soporta el aprendizaje de una persona y 
 su desarrollo.
 
 Según :cite:p:`2022:Lee`, en relación a la ciencias del aprendizaje, es escéptico ante la noción de 
@@ -279,7 +279,7 @@ de Ingeniería del Aprendizaje:
 
 |
 
-Es importante anotar que la formación de un ingeniero del aprendizaje no debería caer en el error 
+Es importante anotar que la formación de un Ingeniero del aprendizaje no debería caer en el error 
 de abordar de manera aislada cada disciplina, es decir, se debería descartar de entrada la idea 
 de construir un plan de estudios donde cada pétalo sea un área de estudio separada. Dada la naturaleza interdisciplinaria 
 del programa sería más coherente abordar los pétalos de manera integrada. Para lograrlo se sugiere estructurar 
@@ -361,31 +361,51 @@ Acercamiento a las competencias desde la INGENIERÍA
 
 Para la Ingeniería del Aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
 herramienta para resolver problemas. Esto plantea las siguientes preguntas: ¿Qué ciencia básica debe estudiar 
-un ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
+un Ingeniero del Aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
 esa discusión en este punto dejo mi opinión al respecto. Considerando que la práctica de la ingeniería del 
 aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas, se 
 sugiere que el estudio de las mismas se haga justo a necesidad del problema a resolver. Se nos dice 
-constantemente que un ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
-básica no es saberla como un requisito más para obtener el título de ingeniero, sino más bien aplicarla como 
+constantemente que un Ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
+básica no es saberla como un requisito más para obtener el título de Ingeniero, sino más bien aplicarla como 
 una herramienta que permita abordar problemas cada vez más complejos. En ese sentido considero que la ciencia 
-básica debería ir de menos a más en la formación del ingeniero del aprendizaje, es decir, problemas más complejos 
+básica debería ir de menos a más en la formación del Ingeniero del Aprendizaje, es decir, problemas más complejos 
 demandarán ciencia básica más compleja. Es por ello que un plan de estudios centrado en problemas y no en cursos 
-deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al ingeniero del 
-aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
+deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al futuro Ingeniero del 
+Aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
 
 La Ingeniería del Aprendizaje como toda ingeniería debe aborda compromisos (trade-offs) y debe navegar las 
 restricciones para alcanzar resultados prácticos. La Ingeniería del Aprendizaje debe ir más allá de la ciencia haciendo 
-sus propios experimentos y realizando sus propios compromisos porque un ingeniero del aprendizaje busca solucionar 
+sus propios experimentos y realizando sus propios compromisos porque un Ingeniero del aprendizaje busca solucionar 
 problemas pero siempre tendrá que realizar compromisos para alcanzar el nivel de optimización deseado.
 
 Según :cite:p:`2022:godell`, además de la matemática, la Ingeniería del Aprendizaje requiere de otras ciencias 
 para resolver problemas como por ejemplo las ciencias cognitivas, las socioculturales, las comportamentales 
 y las motivacionales. 
 
-En la Ingeniería del Aprendizaje se busca construir soluciones escalables y personalizadas. Por tanto, se 
-aplica la teoría de control para el aprendizaje personalizado:
+En la Ingeniería del Aprendizaje se busca construir soluciones escalables y personalizadas aplicando la 
+teoría de control para lograrlo. Gracias a esta teoría se pueden construir sistemas que controlen 
+el comportamiento de otros sistemas. En la siguiente figura se ilustra el funcionamiento de un sistema 
+de control de lazo cerrado:
 
-.. figure:: ../_static/LE-control.png
+.. figure:: ../_static/LE-control-1.png
+   :alt: control aplicado al aprendizaje.
+   :class: with-shadow
+   :align: center
+   :width: 100%
+
+   Sistemas de control de lazo cerrado
+
+   Figura tomada de :cite:p:`2022:godell`
+
+|
+
+El objetivo de este sistema es lograr que la salida, output, sea igual a la referencia, reference. 
+Para lograr lo anterior, un controlador, identificado como controller, medirá la salida producida por 
+el sistema, feedback, y ajustará su entrada, input, buscando que la diferencia entre la referencia y 
+la salida sea mínima. Esta estrategia podría emplearse para la construcción de sistemas de aprendizaje 
+adaptativos como muestra la siguiente figura:
+
+.. figure:: ../_static/LE-control-2.png
    :alt: control aplicado al aprendizaje.
    :class: with-shadow
    :align: center
@@ -396,26 +416,41 @@ aplica la teoría de control para el aprendizaje personalizado:
    Figura tomada de :cite:p:`2022:godell`
 
 |
-  
-  "El sistema de educación tradicional es un sistema de control de lazo abierto. Se establecen un conjunto de objetivos 
-  o recientemente resultados de aprendizaje. Esto se traslada a instrucciones en forma de libros de texto, clases magistrales 
-  y ejercicios. Estas actividades se entregan a los aprendices dando como resultado las habilidades o competencias esperadas. 
-  En el sistema tradicional, a todos los aprendices se les entregan las mismas actividades. Los sistemas de lazo abierto 
-  requieren sistemas muy precisos y un gran margen de error aceptable. Los alumnos llegan a un curso con personalidad, 
-  talentos, preferencias y antecedentes diferentes. El resultado de aplicar un sistema de control en lazo abierto en estas 
-  circunstancias producirá como resultado un margen de error muy amplio. Los buenos profesores y diseños curriculares proveen 
-  retroalimentación constante a los aprendices y adaptan la enseñanza a las necesidades de estos. Los buenos aprendices a su vez 
-  adaptan su estrategia de aprendizaje en función de la retroalimentación." 
 
-  -- Según :cite:p:`2022:godell` 
+En este caso, el objetivo del sistema será lograr que el estudiante, student, demuestre unas habilidades, skills, 
+definidas por unos estándares, standards. Para ello, se observarán las habilidades actuales 
+del estudiante y se compararán con los estándares deseados. En función de la comparación 
+anterior, se variará la instrucción o actividades propuestas al estudiante hasta que este alcance
+los estándares deseados.
 
-Ambas estrategias de adaptación (lazo abierto y retroalimentado) requieren el uso de 
-rúbricas que permitan comparar la retroalimentación con un estándar de lo que se espera. Lo anterior es precisamente la 
-manera como funciona un sistema de control de lazo cerrado tal como lo muestra la figura anterior. Lo ideal es que esta 
-estrategia se pueda aplicar con cada aprendiz, pero la realidad es que el costo de implementar esta idea con cada uno 
-es prohibitivo. El reto entonces de la Ingeniería del Aprendizaje es lograr lo anterior a escala y con costos razonables.
+A diferencia del sistema de aprendizaje adaptativo mostrado anteriormente, :cite:p:`2022:godell` dice que 
+el sistema de educación tradicional es un sistema de control de lazo abierto. En este tipo de sistema 
+de control, no se mide la salida para tomar acciones que acerquen el sistema a la referencia. Se asume 
+que la entrada aplicada al sistema producirá la salida esperada. En el caso del sistema educativo tradicional, 
+a todos los estudiantes se les entregan las mismas instrucciones o actividades, esperando que todos 
+alcancen las habilidades al nivel deseado; sin embargo, la realidad no es esa. Cada estudiante llegará 
+al nivel que pueda. Por tanto, según :cite:p:`2022:godell`, el sistema de educación tradicional presenta 
+un margen de error muy grande. :cite:p:`2022:godell` explica que la razón de este margen de error es 
+la variabilidad entre los estudiantes, entendiendo a esta, como las diferencias de personalidad, talentos, 
+preferencias y antecedentes de cada estudiante. 
 
-Idealmente un sistema instruccional adaptativo necesitaría múltiples lazos de retroalmentación:
+Dice :cite:p:`2022:godell` que los buenos profesores y diseños curriculares proveen retroalimentación 
+constante a los aprendices y adaptan la enseñanza a las necesidades de estos. A su vez, los buenos aprendices 
+adaptan su estrategia de aprendizaje en función de la retroalimentación; sin embargo, la realidad es 
+que en la práctica lo anterior no ocurre porque el costo de implementación de dicha retroalimentación 
+constante y con cada estudiante es prohibitivo. El reto entonces de la Ingeniería del Aprendizaje es 
+lograr lo anterior a escala y con costos razonables mediante la implementación de sistemas 
+de aprendizaje adaptativos. El reto es complejo porque idealmente un sistema de aprendizaje 
+adaptativo necesita múltiples lazos de realimentación como muestra la siguiente figura:
+
+Según :cite:p:`2022:godell` los profesores y currículos eficientes proporcionan retroalimentación 
+continua a los estudiantes y alinean la enseñanza con sus necesidades. De igual manera, los buenos 
+estudiantes adaptan su estrategia de aprendizaje de acuerdo con la retroalimentación; sin embargo, en 
+la práctica esto no sucede debido a los altos costos para implementar dicha retroalimentación para 
+cada estudiante. El desafío de la Ingeniería de Aprendizaje, entonces, es lograr esto a escala y a un 
+costo razonable mediante la implementación de sistemas de aprendizaje adaptativos. Esto es complicado, 
+pues un sistema de aprendizaje adaptativo requiere idealmente múltiples lazos de retroalimentación, 
+como se muestra en la siguiente figura:
 
 .. figure:: ../_static/LE-multiFeedback.png
    :alt: control aplicado al aprendizaje.
@@ -429,7 +464,8 @@ Idealmente un sistema instruccional adaptativo necesitaría múltiples lazos de 
 
 |
 
-Por ejemplo, las dos capas más internas se verían así:
+Por ejemplo, en la siguiente figura se observa en mayor detalle  las dos capas más internas que serán dos lazos de control 
+cerrados: uno al realizar una actividad y otro para seleccionar la siguiente actividad de la lección:
 
 .. figure:: ../_static/LE-feedback.png
    :alt: control aplicado al aprendizaje.
@@ -437,23 +473,23 @@ Por ejemplo, las dos capas más internas se verían así:
    :align: center
    :width: 100%
 
-   Teoría del control aplicada al aprendizaje
+   
+   El aprendizaje centrado en el aprendiz reconoce, según la Ingeniería del aprendizaje,
+   la necesidad de retroalimentar al aprendiz en múltiples niveles. 
 
    Figura tomada de :cite:p:`2022:MIT-medium`
 
 |
 
-En la figura se observa un primer lazo de control cerrado al realizar una actividad y luego otro lazo cerrado 
-más externo para seleccionar la siguiente actividad de la lección.
-
+Otro aspecto a considerar según :cite:p:`2022:godell` es el asunto de las funciones de transferencia. 
 :cite:p:`2022:godell` explica que en control una ``función de transferencia`` permite describir matemáticamente 
 la relación entre las entradas y las salidas de un sistema. Esta información es usada por el controlador para 
 poder anticipar qué entrada será necesaria para lograr una salida específica. En la Ingeniería del Aprendizaje 
-según :cite:p:`2022:godell` la función de transferencia es una ``teoría del aprendizaje``. Esta teoría permite 
-seleccionar la actividad que le permitirá al estudiante aprender. Debido a la variabilidad de las personas cada 
-una tendrá su propia función de transferencia que además será variable en el tiempo. Es por ellos que los sistemas 
+la función de transferencia es una ``teoría del aprendizaje``. Esta teoría permite seleccionar la actividad 
+que le permitirá al estudiante aprender. Debido a la variabilidad de las personas, cada una de ellas tendrá su 
+propia función de transferencia, que además, será variable en el tiempo. Es por ellos que los sistemas 
 que proponga la Ingeniería del Aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
-adaptarse en el tiempo a esa variabilidad. 
+adaptarse en el tiempo a esa variabilidad.
 
 En :cite:p:`2022:godell` se discuten otros asuntos importantes que deberían consultarse posteriormente como son 
 la velocidad de la retroalimentación para minimizar los tiempos de propagación y la frecuencia y la riqueza de la 
@@ -462,7 +498,8 @@ permite compensar las medidas imprecisas y las funciones de transferencia pobres
 compensar una evaluación subóptima y una teoría del aprendizaje menos que perfecta. Sin embargo, mucha retroalimentación 
 puede ser poco productiva para el aprendiz porque genera alta carga cognitiva y afecta el nivel de dificultad deseado.
 
-En este sitio :cite:p:`2022:MIT-medium` se resumen los puntos claves de la ingeniería en la Ingeniería del Aprendizaje:
+Para cerrar esta sección de acercamiento a las competencias desde la ingeniería, se propone el resumen 
+que se plantea en este sitio :cite:p:`2022:MIT-medium`:
 
 * La ciencia tiene como objetivo descubrir verdades sobre el mundo. La ingeniería busca crear soluciones escalables 
   a problemas que funcionen dentro de un rango de condiciones. La ingeniería es un proceso sistemática para 
