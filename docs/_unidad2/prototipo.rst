@@ -31,9 +31,9 @@ una óptica interdisciplinaria.
 Denominación del programa
 ---------------------------
 
-De este punto en adelante el nuevo programa propuesto será denominado como ``Ingeniería del Aprendizaje`` o ``learning`` 
+De este punto en adelante el nuevo programa propuesto será denominado como ``ingeniería del aprendizaje`` o ``learning`` 
 ``engineering``. Claramente esta denominación tendrá que discutirse profundamente; sin embargo, será acogida en este 
-documento porque es la denominación utilizada por el Consorcio Industrial en ``Ingeniería del Aprendizaje`` de la IEEE 
+documento porque es la denominación utilizada por el Consorcio Industrial en ``ingeniería del aprendizaje`` de la IEEE 
 ICICLE por sus siglas en inglés. En principio, todo el fundamento teórico del programa usará los documentos 
 publicados y en discusión de la IEEE ICICLE. Será una tarea posterior de la institución definir que tan alineado estará 
 el programa a las definiciones de IEEE ICICLE.
@@ -42,7 +42,7 @@ el programa a las definiciones de IEEE ICICLE.
 Descripción del programa
 ------------------------
 
-¿Qué es Ingeniería del Aprendizaje? 
+¿Qué es ingeniería del aprendizaje? 
 
 Según `ICICLE <https://sagroups.ieee.org/icicle/>`__ :cite:p:`2022:ieee-icicle`:
 
@@ -51,7 +51,7 @@ Según `ICICLE <https://sagroups.ieee.org/icicle/>`__ :cite:p:`2022:ieee-icicle`
 
   --IEEE ICICLE
 
-  La Ingeniería del Aprendizaje es un proceso y una práctica que aplica las ciencias del aprendizaje 
+  La ingeniería del aprendizaje es un proceso y una práctica que aplica las ciencias del aprendizaje 
   usando métodos de diseño de ingeniería centrados en el humano y toma de decisiones basadas en datos 
   para soportar a los aprendices y a sus procesos de desarrollo.
 
@@ -83,29 +83,29 @@ publicación en Medium realizada por MIT Open Learning.
 
 |   
 
-La Ingeniería del Aprendizaje se plantea como una ingeniería y no como un diseño porque aunque usa las 
+La ingeniería del aprendizaje se plantea como una ingeniería y no como un diseño porque aunque usa las 
 metodologías del diseño, las combina con procesos guiados por datos y principios de ingeniería, tales como la teoría del control, que no son prácticas 
-tradicionales del diseño. Esta combinación hace que la Ingeniería del Aprendizaje se acerque a una solución de mejor ajuste 
-mediante la iteración. La Ingeniería del Aprendizaje puede confundirse con el diseño porque es centrada en el usuario; sin embargo, 
-esta es una idea fundamental porque para proponer una solución la Ingeniería del Aprendizaje debe entender profundamente a 
+tradicionales del diseño. Esta combinación hace que la ingeniería del aprendizaje se acerque a una solución de mejor ajuste 
+mediante la iteración. La ingeniería del aprendizaje puede confundirse con el diseño porque es centrada en el usuario; sin embargo, 
+esta es una idea fundamental porque para proponer una solución la ingeniería del aprendizaje debe entender profundamente a 
 las personas que la usarán o se beneficiarán de ella.
 
-La Ingeniería del Aprendizaje no solo se trata de producir productos tecnológicos o plataformas educativas. Una solución de 
-la Ingeniería del Aprendizaje puede ser un recurso educativo simple, la mejora a un proceso, la mejora de un espacio físico 
+La ingeniería del aprendizaje no solo se trata de producir productos tecnológicos o plataformas educativas. Una solución de 
+la ingeniería del aprendizaje puede ser un recurso educativo simple, la mejora a un proceso, la mejora de un espacio físico 
 o en general cualquier solución que soporte los procesos de aprendizaje y desarrollo del aprendiz, es decir, cualquier cosa 
 que permita solucionar un problema del aprendizaje. 
 
 Descripción del perfil del egresado 
 -------------------------------------
 
-El egresado del programa Ingeniería del Aprendizaje es un profesional capaz de realizar un proceso y 
+El egresado del programa ingeniería del aprendizaje es un profesional capaz de realizar un proceso y 
 una práctica interdisciplinaria que aplica las ciencias del aprendizaje usando metodologías de diseño de 
 ingeniería centradas en el humano y toma decisiones basadas en datos para soportar los aprendices y 
 su desarrollo.
 
-El perfil del egresado de Ingeniería del Aprendizaje es un perfil interdisciplinario. 
+El perfil del egresado de ingeniería del aprendizaje es un perfil interdisciplinario. 
 Según `IEEE ICICLE <https://sagroups.ieee.org/icicle/learning-engineering-process/>`__ :cite:p:`2022:ieee-icicle-process` la flor de conocimiento 
-central de la Ingeniería del Aprendizaje se puede observar en la siguiente imagen:
+central de la ingeniería del aprendizaje se puede observar en la siguiente imagen:
 
 .. figure:: ../_static/LE-Core-Knowledge-Flower.png
    :alt: Learning Engineering Core Knowledge Flower
@@ -130,7 +130,7 @@ Según :cite:p:`2022:godell` los roles típicos de un Ingeniero del aprendizaje 
   recursos u otras soluciones como colaborador o como Ingeniero del aprendizaje líder que coordina 
   varios especialistas y fija la dirección del trabajo a realizarse.
 * Trabajando con varios Ingenieros del aprendizaje con una base de competencias y vocabulario compartido común 
-  para practicar actividades de Ingeniería del Aprendizaje desempeñando diferentes roles y en diferentes áreas de 
+  para practicar actividades de ingeniería del aprendizaje desempeñando diferentes roles y en diferentes áreas de 
   especialización.
 
 Problemas abordados por el programa
@@ -163,7 +163,7 @@ Críticas
 En este artículo :cite:p:`2019:Chandler` del primero congreso de Learning Engineering, una de las autoras,  
 Chelsea Chandler de la Universidad de Michigan, cuenta de manera anecdótica su primera impresión al escuchar en 
 la misma frase las palabras ingeniería y aprendizaje. Me pasó lo mismo. Y aunque no estoy formado en una escuela 
-de ciencias humanas, si estoy familiarizado con las formas de la ingeniería. Ingeniería y aprendizaje en la misma 
+de ciencias humanas, si estoy familiarizado con las formas de la ingeniería. ingeniería y aprendizaje en la misma 
 frase traen a la mente ideas como la escuela al servicio de la industria, la eficiencia social, expertos que 
 realizan procesos de ingeniería que maximizan el material a enseñar a la mayor cantidad de estudiantes, en el menor 
 tiempo posible. En :cite:p:`2022:godell` también se apunta a la percepción de muchas personas que ven la palabra 
@@ -180,8 +180,8 @@ Más bien, como lo apunta la definición, el Ingeniero del aprendizaje soporta e
 su desarrollo.
 
 Según :cite:p:`2022:Lee`, en relación a la ciencias del aprendizaje, es escéptico ante la noción de 
-la Ingeniería del Aprendizaje como una nueva disciplina o como ciencias del aprendizaje aplicadas. En ese sentido concuerdo 
-con lo que señala :cite:p:`2022:godell`, la Ingeniería del Aprendizaje parte de ideas informadas de las ciencias 
+la ingeniería del aprendizaje como una nueva disciplina o como ciencias del aprendizaje aplicadas. En ese sentido concuerdo 
+con lo que señala :cite:p:`2022:godell`, la ingeniería del aprendizaje parte de ideas informadas de las ciencias 
 del aprendizaje y desde ahí refina sus soluciones de manera iterativa usando datos y analítica para la toma de decisiones 
 acerca de la dirección y la próxima iteración de la solución en construcción. Concuerdo también con lo que plantea 
 :cite:p:`2022:godell` como los objetivos de la ciencia y la ingeniería. El objetivo de la ciencia es descubrir la verdad 
@@ -195,7 +195,7 @@ del aprendizaje es simplemente un cambio de marca, una forma de renombrar sus pr
 de acción más amplio y lucrativo como lo es la ingeniería. Al respecto en :cite:p:`2019:godell` plantea la pregunta 
 ``Are You Doing Learning Engineering—Or Instructional Design?`` Concuerdo con la acercamiento del autor a esta 
 cuestión y se trata de reflexionar en esta otra pregunta ¿El proyecto de diseño instruccional actual es un 
-proyecto de Ingeniería del Aprendizaje? Basado en la definición de Ingeniería del Aprendizaje la respuesta a esta 
+proyecto de ingeniería del aprendizaje? Basado en la definición de ingeniería del aprendizaje la respuesta a esta 
 última pregunta sería afirmativa si:
 
 * Se aplican las ciencias del aprendizaje ``Y``
@@ -205,10 +205,10 @@ proyecto de Ingeniería del Aprendizaje? Basado en la definición de Ingeniería
 Acercamiento a las competencias del programa  
 ----------------------------------------------
 
-Para acercarse a una posible propuesta de competencias para el programa Ingeniería del Aprendizaje 
+Para acercarse a una posible propuesta de competencias para el programa ingeniería del aprendizaje 
 es importante recordar algunas definición:
 
-* Ingeniería del Aprendizaje. Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
+* ingeniería del aprendizaje. Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
   engineering design methodologies and data-informed decision-making to support learners and their development."
 * Competencia. Actuación integral para identificar, interpretar, argumentar y resolver problemas del contexto integrando 
   conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
@@ -220,19 +220,19 @@ De estas definiciones se proponen estas consideraciones:
   mediante algún procedimiento y actitud para resolver un problema entonces diremos que no es competente aún. Dicho de otra 
   manera, el aprendiz exhibirá una competencia cuando sea posible observar de manera integrada el despliegue de los 
   tres elementos en una situación problemática.
-* Para encontrar las competencias de Ingeniería del Aprendizaje se partirá de la definición y se deberán identificar competencias 
+* Para encontrar las competencias de ingeniería del aprendizaje se partirá de la definición y se deberán identificar competencias 
   necesarias para: seguir el proceso, practicar desde varias disciplinas, aplicar las ciencias del aprendizaje, usar metodologías de diseño de ingeniería centradas en 
   el humano, instrumentar el proceso y la experiencia de aprendizaje, analizar el proceso y la experiencia usando datos 
   para la toma de decisiones y actuar con ética.
 * Para poder observar y de esa manera evaluar las competencias se deben proponer problemas de contexto. De esta manera la 
   evaluación es centrada en resolver problemas más que en determinar el grado de apropiación de los contenidos.
 
-Acercamiento a las competencias para el PROCESO de Ingeniería del Aprendizaje
+Acercamiento a las competencias para el PROCESO de ingeniería del aprendizaje
 *******************************************************************************
 
-Según :cite:p:`2022:godell` el proceso de la Ingeniería del Aprendizaje inicia con un reto. El reto consiste en entender 
+Según :cite:p:`2022:godell` el proceso de la ingeniería del aprendizaje inicia con un reto. El reto consiste en entender 
 la oportunidad para mejorar el aprendizaje o las condiciones para que este se de en un contexto. El contexto es todo 
-aquello que rodea al reto. Incluye a las personas (el aprendiz, el equipo de Ingeniería del Aprendizaje, profesores, tutores, 
+aquello que rodea al reto. Incluye a las personas (el aprendiz, el equipo de ingeniería del aprendizaje, profesores, tutores, 
 administrativos), el ambiente físico o virtual, los antecedentes y el conocimiento previo del aprendiz, las normas 
 culturales del aprendiz (hogar, comunidad y comunidad de aprendizaje), todo sobre el grupo poblacional del aprendiz y las 
 posibles condiciones que puedan ayudar o dificultar el aprendizaje. El contexto incluirá 
@@ -242,30 +242,30 @@ iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos.
 lo que se hace en cada reiteración depende de los datos extraídos y analizados de la repetición anterior.
 
 .. figure:: ../_static/LEprocess.png
-   :alt: El proceso de la Ingeniería del Aprendizaje
+   :alt: El proceso de la ingeniería del aprendizaje
    :align: center
    :width: 100%
 
-   El proceso de la Ingeniería del Aprendizaje
+   El proceso de la ingeniería del aprendizaje
 
    Figura tomada de :cite:p:`2022:MIT-medium`
 
 |
 
-En el proceso de la Ingeniería del Aprendizaje entender el reto es central. Este entendimiento incluye entender 
+En el proceso de la ingeniería del aprendizaje entender el reto es central. Este entendimiento incluye entender 
 los objetivos del aprendizaje, a los aprendices y las condiciones que dificultan o ayudan al aprendiz a lograr los 
 objetivos. Como en cualquier otra actividad de diseño o ingeniería la clave del proceso es entender profundamente el 
-reto antes de buscar cualquier solución. Es por esta razón que el proceso de la Ingeniería del Aprendizaje es iterativo 
+reto antes de buscar cualquier solución. Es por esta razón que el proceso de la ingeniería del aprendizaje es iterativo 
 y es porque con cada reiteración se comprende mejor el reto y de esta manera la solución es más ajustada al objetivo.  
 
 
 Acercamiento a las competencias desde la práctica INTERDISCIPLINARIA
 *******************************************************************************
 
-Para resolver un problema de la Ingeniería del Aprendizaje :cite:p:`2022:godell` proponen la necesidad 
+Para resolver un problema de la ingeniería del aprendizaje :cite:p:`2022:godell` proponen la necesidad 
 de un abordaje interdisciplinario. La comunidad de IEEE ICICLE ha definido una flor cuyos 
 pétalos representan los campos disciplinares o profesionales que pueden llegar a ser parte de una solución 
-de Ingeniería del Aprendizaje:
+de ingeniería del aprendizaje:
 
 .. figure:: ../_static/LE-Core-Knowledge-Flower.png
    :alt: Learning Engineering Core Knowledge Flower
@@ -289,11 +289,11 @@ Considero que el enfoque formativo debería estar orientado a la formación en c
 establecer puentes de comunicación entre las disciplinas mediante un lenguaje común y para indagar y tomar de estas 
 lo que se requiere para aplicarlo a la solución del problema. 
 
-Acercamiento a las competencias desde las CIENCIAS DEL APRENDIZAJE
+Acercamiento a las competencias desde las CIENCIAS DEL aprendizaje
 ********************************************************************
 
 Las ciencias del aprendizaje proveen la perspectiva de cómo funciona el cerebro y cómo aprenden las personas. El trabajo 
-de la Ingeniería del Aprendizaje es aplicar esta información para construir ``soluciones escalables``. 
+de la ingeniería del aprendizaje es aplicar esta información para construir ``soluciones escalables``. 
 
 .. figure:: ../_static/LE-LearningSciences.png
    :alt: Ciencias del aprendizaje en learning engineering
@@ -309,22 +309,22 @@ de la Ingeniería del Aprendizaje es aplicar esta información para construir ``
 
 .. note:: El reto
 
-    Las soluciones que desarrolla la Ingeniería del Aprendizaje no son soluciones para la media. Las soluciones 
+    Las soluciones que desarrolla la ingeniería del aprendizaje no son soluciones para la media. Las soluciones 
     se adaptan y personalizan la experiencia de aprendizaje para optimizar los resultados de aprendizaje individuales.
 
 Para lograr un aprendizaje productivo se requiere que las actividades de aprendizaje sean continuas y con el nivel justo 
 de dificultad. Si las tareas propuestas son muy difíciles serán frustrantes y no se conectarán con el conocimiento previo. 
 Si las tareas son muy fáciles y no ofrecen un reto serán aburridas. En la mitad de estos extremos está lo que las ciencias 
-cognitivas llaman las ``dificultades deseables`` :cite:p:`2011:bjorkmaking`. El reto de la Ingeniería del Aprendizaje es 
+cognitivas llaman las ``dificultades deseables`` :cite:p:`2011:bjorkmaking`. El reto de la ingeniería del aprendizaje es 
 proponer soluciones escalables y personalizadas que mantengan a los aprendices en sus ``zonas de desarrollo proximal``. 
 En otras palabras, para personalizar una experiencia de aprendizaje es necesario entregar las dificultades 
 deseables en la medida justa para provocar esfuerzo sin frustración.
 
-Las ciencias del aprendizaje son la base de la Ingeniería del Aprendizaje; sin embargo, se deben entender como el punto 
+Las ciencias del aprendizaje son la base de la ingeniería del aprendizaje; sin embargo, se deben entender como el punto 
 de partida de una solución, es decir, como la primera iteración que permite que la solución converja más rápidamente o en menos 
 iteraciones. Según :cite:p:`2022:godell` los esfuerzos para diseñar una solución de aprendizaje efectiva no deben basarse 
 únicamente en teorías del aprendizaje validadas porque los avances teóricos suelen ser demasiado lentos y definidos en 
-condiciones ideales. La Ingeniería del Aprendizaje usa métodos iterativos de diseño, implementación, evaluación y re-diseño 
+condiciones ideales. La ingeniería del aprendizaje usa métodos iterativos de diseño, implementación, evaluación y re-diseño 
 permitiendo encontrar soluciones de manera más ágil.
 
 Acercamiento a las competencias desde los métodos de DISEÑO de ingeniería CENTRADO EN EL HUMANO
@@ -342,12 +342,12 @@ seis actividades:
 #. Iteración para ir refinando el prototipo hasta la solución final.
 
 
-Uno de los grandes desafíos de la Ingeniería del Aprendizaje es el diseño para la variabilidad porque todas 
-las personas aprenden a diferentes ritmos y parten de modelos mentales distintos. La Ingeniería del Aprendizaje 
+Uno de los grandes desafíos de la ingeniería del aprendizaje es el diseño para la variabilidad porque todas 
+las personas aprenden a diferentes ritmos y parten de modelos mentales distintos. La ingeniería del aprendizaje 
 toma entonces métodos y prácticas del design thinking, el diseño participativo y el diseño justo para afrontar 
 dicha variabilidad.
 
-Además de estar centrada en el humano o el usuario, la Ingeniería del Aprendizaje debe enfocarse en el aprendizaje, 
+Además de estar centrada en el humano o el usuario, la ingeniería del aprendizaje debe enfocarse en el aprendizaje, 
 es decir, aprendices que aprenden más que en usuarios que usan un diseño. Según :cite:p:`1994:Soloway` las interacciones 
 informáticas más utilizables no siempre son las mejores formas de aprender los conceptos y las 
 habilidades específicas. Por tanto, un diseño centrado en el aprendizaje debe incluir tanto la usabilidad como 
@@ -356,33 +356,33 @@ variabilidad, es necesario usar métodos y prácticas para abordar el aprendizaj
 el aprendizaje (universal design for learning), el diseño de experiencias de aprendizaje (learning experience design o 
 LxD) y la investigación basada en el diseño (design-based design). 
 
-Acercamiento a las competencias desde la INGENIERÍA
+Acercamiento a las competencias desde la ingeniería
 *****************************************************
 
-Para la Ingeniería del Aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
+Para la ingeniería del aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
 herramienta para resolver problemas. Esto plantea las siguientes preguntas: ¿Qué ciencia básica debe estudiar 
-un Ingeniero del Aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
+un Ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
 esa discusión en este punto dejo mi opinión al respecto. Considerando que la práctica de la ingeniería del 
 aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas, se 
 sugiere que el estudio de las mismas se haga justo a necesidad del problema a resolver. Se nos dice 
 constantemente que un Ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
 básica no es saberla como un requisito más para obtener el título de Ingeniero, sino más bien aplicarla como 
 una herramienta que permita abordar problemas cada vez más complejos. En ese sentido considero que la ciencia 
-básica debería ir de menos a más en la formación del Ingeniero del Aprendizaje, es decir, problemas más complejos 
+básica debería ir de menos a más en la formación del Ingeniero del aprendizaje, es decir, problemas más complejos 
 demandarán ciencia básica más compleja. Es por ello que un plan de estudios centrado en problemas y no en cursos 
 deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al futuro Ingeniero del 
-Aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
+aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
 
-La Ingeniería del Aprendizaje como toda ingeniería debe aborda compromisos (trade-offs) y debe navegar las 
-restricciones para alcanzar resultados prácticos. La Ingeniería del Aprendizaje debe ir más allá de la ciencia haciendo 
+La ingeniería del aprendizaje como toda ingeniería debe aborda compromisos (trade-offs) y debe navegar las 
+restricciones para alcanzar resultados prácticos. La ingeniería del aprendizaje debe ir más allá de la ciencia haciendo 
 sus propios experimentos y realizando sus propios compromisos porque un Ingeniero del aprendizaje busca solucionar 
 problemas pero siempre tendrá que realizar compromisos para alcanzar el nivel de optimización deseado.
 
-Según :cite:p:`2022:godell`, además de la matemática, la Ingeniería del Aprendizaje requiere de otras ciencias 
+Según :cite:p:`2022:godell`, además de la matemática, la ingeniería del aprendizaje requiere de otras ciencias 
 para resolver problemas como por ejemplo las ciencias cognitivas, las socioculturales, las comportamentales 
 y las motivacionales. 
 
-En la Ingeniería del Aprendizaje se busca construir soluciones escalables y personalizadas aplicando la 
+En la ingeniería del aprendizaje se busca construir soluciones escalables y personalizadas aplicando la 
 teoría de control para lograrlo. Gracias a esta teoría se pueden construir sistemas que controlen 
 el comportamiento de otros sistemas. En la siguiente figura se ilustra el funcionamiento de un sistema 
 de control de lazo cerrado:
@@ -438,7 +438,7 @@ Dice :cite:p:`2022:godell` que los buenos profesores y diseños curriculares pro
 constante a los aprendices y adaptan la enseñanza a las necesidades de estos. A su vez, los buenos aprendices 
 adaptan su estrategia de aprendizaje en función de la retroalimentación; sin embargo, la realidad es 
 que en la práctica lo anterior no ocurre porque el costo de implementación de dicha retroalimentación 
-constante y con cada estudiante es prohibitivo. El reto entonces de la Ingeniería del Aprendizaje es 
+constante y con cada estudiante es prohibitivo. El reto entonces de la ingeniería del aprendizaje es 
 lograr lo anterior a escala y con costos razonables mediante la implementación de sistemas 
 de aprendizaje adaptativos. El reto es complejo porque idealmente un sistema de aprendizaje 
 adaptativo necesita múltiples lazos de realimentación como muestra la siguiente figura:
@@ -447,7 +447,7 @@ Según :cite:p:`2022:godell` los profesores y currículos eficientes proporciona
 continua a los estudiantes y alinean la enseñanza con sus necesidades. De igual manera, los buenos 
 estudiantes adaptan su estrategia de aprendizaje de acuerdo con la retroalimentación; sin embargo, en 
 la práctica esto no sucede debido a los altos costos para implementar dicha retroalimentación para 
-cada estudiante. El desafío de la Ingeniería de Aprendizaje, entonces, es lograr esto a escala y a un 
+cada estudiante. El desafío de la ingeniería de aprendizaje, entonces, es lograr esto a escala y a un 
 costo razonable mediante la implementación de sistemas de aprendizaje adaptativos. Esto es complicado, 
 pues un sistema de aprendizaje adaptativo requiere idealmente múltiples lazos de retroalimentación, 
 como se muestra en la siguiente figura:
@@ -474,7 +474,7 @@ cerrados: uno al realizar una actividad y otro para seleccionar la siguiente act
    :width: 100%
 
    
-   El aprendizaje centrado en el aprendiz reconoce, según la Ingeniería del aprendizaje,
+   El aprendizaje centrado en el aprendiz reconoce, según la ingeniería del aprendizaje,
    la necesidad de retroalimentar al aprendiz en múltiples niveles. 
 
    Figura tomada de :cite:p:`2022:MIT-medium`
@@ -484,11 +484,11 @@ cerrados: uno al realizar una actividad y otro para seleccionar la siguiente act
 Otro aspecto a considerar según :cite:p:`2022:godell` es el asunto de las funciones de transferencia. 
 :cite:p:`2022:godell` explica que en control una ``función de transferencia`` permite describir matemáticamente 
 la relación entre las entradas y las salidas de un sistema. Esta información es usada por el controlador para 
-poder anticipar qué entrada será necesaria para lograr una salida específica. En la Ingeniería del Aprendizaje 
+poder anticipar qué entrada será necesaria para lograr una salida específica. En la ingeniería del aprendizaje 
 la función de transferencia es una ``teoría del aprendizaje``. Esta teoría permite seleccionar la actividad 
 que le permitirá al estudiante aprender. Debido a la variabilidad de las personas, cada una de ellas tendrá su 
 propia función de transferencia, que además, será variable en el tiempo. Es por ellos que los sistemas 
-que proponga la Ingeniería del Aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
+que proponga la ingeniería del aprendizaje tendrán que actualizar esa función de transferencia por aprendiz y 
 adaptarse en el tiempo a esa variabilidad.
 
 En :cite:p:`2022:godell` se discuten otros asuntos importantes que deberían consultarse posteriormente como son 
@@ -505,57 +505,57 @@ que se plantea en este sitio :cite:p:`2022:MIT-medium`:
   a problemas que funcionen dentro de un rango de condiciones. La ingeniería es un proceso sistemática para 
   solucionar problemas.
 * Las restricciones y los compromisos son centrales a la ingeniería.
-* La Ingeniería del Aprendizaje adopta la mentalidad de la ingeniería, incluyendo el pensamiento sistémico, la capacidad 
+* La ingeniería del aprendizaje adopta la mentalidad de la ingeniería, incluyendo el pensamiento sistémico, la capacidad 
   de imaginar el futuro y el enfoque científico.
 * Los sistemas se diseñan usando modelos de varios grados de fidelidad.
 * La escalabilidad de los sistemas complejos se aborda mediante estrategias modulares, es decir, partir el sistema 
   en módulos con interfaces estándares entre ellos para favorecer la interoperabilidad.
 * La teoría del control ofrece ideas acerca del uso de ciclos de retroalimentación aplicados al aprendizaje. El aprendizaje 
   humano funciona mejor con múltiples lazos de retroalimentación.
-* Las ciencias del aprendizaje no se están aplicando a escala. Por tanto, la Ingeniería del Aprendizaje se presenta 
+* Las ciencias del aprendizaje no se están aplicando a escala. Por tanto, la ingeniería del aprendizaje se presenta 
   como una nueva profesión que ayude a producir soluciones de aprendizaje a escala.
 
 Acercamiento a las competencias desde la captura de DATOS y la ANALÍTICA 
 *************************************************************************
 
-El proceso de Ingeniería del Aprendizaje es altamente dependiente de los datos. Los datos se usan para tomar 
+El proceso de ingeniería del aprendizaje es altamente dependiente de los datos. Los datos se usan para tomar 
 decisiones en el proceso relativas a la solución y al proceso mismo. Ambas cosas se ajustan iterativamente 
 gracias al uso de los datos. 
 
 .. warning:: MUY IMPORTANTE 
 
   Si en un proceso de diseño e implementación de una experiencia de aprendizaje no se recolectan  
-  datos y no se analizan entonces no se está haciendo Ingeniería del Aprendizaje.
+  datos y no se analizan entonces no se está haciendo ingeniería del aprendizaje.
 
-Según :cite:p:`2022:godell` para tomar decisiones basadas en datos, la Ingeniería del Aprendizaje necesita hacer dos cosas:
+Según :cite:p:`2022:godell` para tomar decisiones basadas en datos, la ingeniería del aprendizaje necesita hacer dos cosas:
 
-* Instrumentación. Es la parte de la Ingeniería del Aprendizaje encargada del diseño, desarrollo e implementación 
+* Instrumentación. Es la parte de la ingeniería del aprendizaje encargada del diseño, desarrollo e implementación 
   de la recolección de datos en una solución de aprendizaje indispensable para realizar mejoras a esta en 
   cada iteración.
-* Analítica. Es la parte de la Ingeniería del Aprendizaje responsable del análisis de los datos recolectados en la 
+* Analítica. Es la parte de la ingeniería del aprendizaje responsable del análisis de los datos recolectados en la 
   instrumentación para realizar mejoras iterativas a la solución de aprendizaje.
 
-En este sitio :cite:p:`2022:MIT-medium` se resume el papel de los datos en el proceso de la Ingeniería del Aprendizaje:
+En este sitio :cite:p:`2022:MIT-medium` se resume el papel de los datos en el proceso de la ingeniería del aprendizaje:
 
 .. figure:: ../_static/LE-dataInstrumentation.png
-   :alt: Instrumentación en Ingeniería del Aprendizaje.
+   :alt: Instrumentación en ingeniería del aprendizaje.
    :class: with-shadow
    :align: center
    :width: 100%
 
-   Instrumentación en Ingeniería del Aprendizaje
+   Instrumentación en ingeniería del aprendizaje
 
    Figura tomada de :cite:p:`2022:MIT-medium`
 
 |
 
 .. figure:: ../_static/LE-dataAnalytics.png
-   :alt: Analítica Ingeniería del Aprendizaje.
+   :alt: Analítica ingeniería del aprendizaje.
    :class: with-shadow
    :align: center
    :width: 100%
 
-   Analítica en Ingeniería del Aprendizaje
+   Analítica en ingeniería del aprendizaje
 
    Figura tomada de :cite:p:`2022:MIT-medium`
 
@@ -565,19 +565,19 @@ Acercamiento a las competencias desde la ÉTICA
 ************************************************
 
 En :cite:p:`2022:godell` se aborda detalladamente los asuntos asociados a la ética 
-en Ingeniería del Aprendizaje. Este asunto es de suma importancia para la ingeniería 
+en ingeniería del aprendizaje. Este asunto es de suma importancia para la ingeniería 
 del aprendizaje porque las soluciones y el proceso mismo involucran personas y datos 
-sensibles de estas. En cada paso del proceso de Ingeniería del Aprendizaje es necesario 
+sensibles de estas. En cada paso del proceso de ingeniería del aprendizaje es necesario 
 la toma de decisiones éticas, por ejemplo, en la selección de contenidos, lenguaje, 
 acercamiento pedagógico, acercamiento metodológico, evaluación, diseño experimental, entre 
-otros. Por tanto, la reflexión constante en un proceso de Ingeniería del Aprendizaje 
+otros. Por tanto, la reflexión constante en un proceso de ingeniería del aprendizaje 
 es obligatoria y no podría concebirse este proceso sin una observación cuidadosa de este 
 aspecto.
 
-Propuesta de implementación del programa Ingeniería del Aprendizaje
+Propuesta de implementación del programa ingeniería del aprendizaje
 --------------------------------------------------------------------
 
-La propuesta de implementación se entrega para el programa interdisciplinario Ingeniería del Aprendizaje; sin embargo, 
+La propuesta de implementación se entrega para el programa interdisciplinario ingeniería del aprendizaje; sin embargo, 
 esta propuesta no se reduce solo al programa en cuestión, sino que pretender mostrar cómo podrían implementarse 
 una familia de programas de naturaleza interdisciplinaria.
 
@@ -653,14 +653,14 @@ En la institución los niveles son receptivo, resolutivo, autónomo y estratégi
 
 En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen el conjunto completo de competencias, 
 es decir, las experiencias de aprendizaje deben permitir que el estudiante despliegue todas las competencias de manera 
-integrada. Estas competencias serán las necesarias para poder abordar un problema de Ingeniería del Aprendizaje. El reto del 
+integrada. Estas competencias serán las necesarias para poder abordar un problema de ingeniería del aprendizaje. El reto del 
 estudiante y el docente es poder observar en el proceso de solución del problema si un criterio de competencia está fallando. 
 Es allí donde se interviene mediante ejercicios conjuntos de evaluación formativa con retroalimentación y metacognición.
 
 Plan de estudios
 *****************
 
-El plan de estudios de Ingeniería del Aprendizaje es centrado en problemas, no en cursos. Por tanto, el plan 
+El plan de estudios de ingeniería del aprendizaje es centrado en problemas, no en cursos. Por tanto, el plan 
 de estudios no define cursos. El estudiante matricula problemas o situaciones problemáticas donde el problema 
 no necesariamente está bien definido. La facultad ofertará los problemas que podrán 
 ser propuestos por docentes, estudiantes, empresas, entes gubernamentales, entre otros. Los problemas que el estudiante 
@@ -813,10 +813,10 @@ El rol del docente
 ***********************
 
 * Los docentes podrán acompañar desde las tres dimensiones de mentoría propuestas. Es decir, el docente no solo 
-  debe ser un experto en procesos de Ingeniería del Aprendizaje sino también en mentoría desde las tres dimensiones 
+  debe ser un experto en procesos de ingeniería del aprendizaje sino también en mentoría desde las tres dimensiones 
   propuestas.
 * Los docentes acompañarán los procesos de evaluación auténtica y avalarán los portafolios de problemas de los estudiantes.
-* Los docentes realizarán en paralelo a sus labores de mentoría procesos de Ingeniería del Aprendizaje en el propio 
+* Los docentes realizarán en paralelo a sus labores de mentoría procesos de ingeniería del aprendizaje en el propio 
   programa, otros programas de la institución o proyectos externos a la misma que permitan enriquecer el programa, 
   las redes de contacto y la experiencia del propio docente.
 
@@ -834,7 +834,7 @@ Titulaciones y certificaciones
 ********************************
 
 Se parte de un supuesto fundamental y es que los problemas propuestos siempre abordan todas las competencias 
-de la Ingeniería del Aprendizaje. Lo que cambia es la tipología de los problemas. Por tanto, se podrían 
+de la ingeniería del aprendizaje. Lo que cambia es la tipología de los problemas. Por tanto, se podrían 
 ir certificando en el proceso los ciclos según las tipologías, es decir:
 
 * Ingeniero del aprendizaje nivel resolutivo.
@@ -857,7 +857,7 @@ reconocidos en la misión y visión de la institución), ciclo disciplinar (form
 profesional (forma en los aspectos propios de la profesión) y ciclo de integración (ayuda a definir rutas 
 de especialización)."
 
-El plan de estudios de Ingeniería del Aprendizaje está centrado en ``problemas``, ``no en cursos``, 
+El plan de estudios de ingeniería del aprendizaje está centrado en ``problemas``, ``no en cursos``, 
 ``no en áreas``, ``no en núcleos``. Si se requiere agrupar, de la propuesta aparece la posibilidad de agrupación 
 por tipología de problemas, en este caso problemas resolutivos, autónomos y estratégicos; sin embargo, en relación 
 a los ciclos actuales considero que lo importante es no perder de vista la intención formativa de cada ciclo. 
@@ -872,7 +872,7 @@ diseñada por estos asuntos.
 Perfil del egresado 
 ^^^^^^^^^^^^^^^^^^^^^^
 
-El egresado del programa Ingeniería del Aprendizaje es un profesional capaz de realizar un proceso y 
+El egresado del programa ingeniería del aprendizaje es un profesional capaz de realizar un proceso y 
 una práctica interdisciplinaria que aplica las ciencias del aprendizaje usando metodologías de diseño de 
 ingeniería centradas en el humano y toma decisiones basadas en datos para soportar los aprendices y 
 su desarrollo.
@@ -887,7 +887,7 @@ entonces alinear las competencias con esos student outcomes. Para el programa in
 aprendizaje se proponen las siguientes competencias:
 
 * C1: Identifica, formula y soluciona problemas complejos de ingeniería aplicando principios de ingeniería, 
-  ciencia y matemáticas para soportar las soluciones y los procesos de Ingeniería del Aprendizaje.
+  ciencia y matemáticas para soportar las soluciones y los procesos de ingeniería del aprendizaje.
 * C2: Aplica el diseño de ingeniería para producir soluciones que satisfagan necesidades específicas teniendo 
   en cuenta la salud pública, la seguridad y el bienestar, así como factores globales, culturales, sociales, 
   ambientales y económicos.
@@ -916,7 +916,7 @@ Para la institución los resultados de aprendizaje generales corresponden a un c
 explica lo que el programa espera reconocer en términos de desarrollo de los propósitos de formación y de las
 Capacidades Humanas y Competencias definidas en los ciclos :cite:p:`2022:upb-raes`.
 
-Para Ingeniería del Aprendizaje se proponen unos resultados de aprendizaje generales que están explícitamente 
+Para ingeniería del aprendizaje se proponen unos resultados de aprendizaje generales que están explícitamente 
 alineados con la definición del programa: "Learning Engineering is a process and ``interdisciplinary practice`` 
 that applies the learning sciences using human-centered engineering design methodologies and data-informed 
 decision-making to support learners and their development."
@@ -931,11 +931,11 @@ Para la competencia C1 (solución de problemas).
 
 Aplicación de las ciencias del aprendizaje:
 
-* Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de Ingeniería del Aprendizaje que soporten al aprendiz y 
+* Aplica las ciencias del aprendizaje propuestas para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (resolutivo). 
-* Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de Ingeniería del Aprendizaje que soporten al aprendiz y 
+* Selecciona las ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (autónomo). 
-* Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de Ingeniería del Aprendizaje que soporten al aprendiz y 
+* Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (estratégico).
 
 
@@ -943,64 +943,64 @@ Para la competencia C2 (diseño)
 
 Metodologías de diseño centradas en el humano:
 
-* Usa metodologías y herramientas propuestas para realizar un proceso de Ingeniería del Aprendizaje para generar 
+* Usa metodologías y herramientas propuestas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (resolutivo).
-* Selecciona de manera argumentada metodologías y herramientas para realizar un proceso de Ingeniería del Aprendizaje para generar 
+* Selecciona de manera argumentada metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (autónomo).
-* Crea metodologías y herramientas para realizar un proceso de Ingeniería del Aprendizaje para generar 
+* Crea metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (estratégico).
 
 
 Para la competencia C3 (comunicación)
 
 * Comunica los temas profesionales a todos los actores involucrados en una solución y 
-  proceso de Ingeniería del Aprendizaje para aportar a la solución de problemas que soporten 
+  proceso de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
   al aprendiz y su desarrollo. (resolutivo).
 * Argumenta los temas profesionales a todos los actores involucrados en una solución y 
-  proceso de Ingeniería del Aprendizaje para aportar a la solución de problemas que soporten 
+  proceso de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
   al aprendiz y su desarrollo. (autónomo).
-* Convence a los actores involucrados en una solución y proceso de Ingeniería del Aprendizaje 
+* Convence a los actores involucrados en una solución y proceso de ingeniería del aprendizaje 
   para conseguir los recursos necesarios que permitan realizar la solución. (estratégico).
 
 
 Para la competencia C4 (ética)
 
 * Toma decisiones éticas siguiendo los códigos de conducta establecidos para la solución y el 
-  proceso de Ingeniería del Aprendizaje. (resolutivo).
-* Argumenta asuntos éticos para la solución y el proceso de Ingeniería del Aprendizaje. (autónomo).
-* Argumenta asuntos éticos ambiguos para la solución y el proceso de Ingeniería del Aprendizaje. (estratégico).
+  proceso de ingeniería del aprendizaje. (resolutivo).
+* Argumenta asuntos éticos para la solución y el proceso de ingeniería del aprendizaje. (autónomo).
+* Argumenta asuntos éticos ambiguos para la solución y el proceso de ingeniería del aprendizaje. (estratégico).
 
 
 Para la competencia C5 (trabajo en equipo)
 
-* Participa en equipos de Ingeniería del Aprendizaje en el rol asignado para aportar 
+* Participa en equipos de ingeniería del aprendizaje en el rol asignado para aportar 
   a la solución de problemas que soporten al aprendiz y su desarrollo. (resolutivo).
-* Propone el rol desde el cuál puede apoyar a un equipo de Ingeniería del Aprendizaje 
+* Propone el rol desde el cuál puede apoyar a un equipo de ingeniería del aprendizaje 
   para aportar a la solución de problemas que soporten al aprendiz y su desarrollo. (autónomo).
-* Lidera un equipo de Ingeniería del Aprendizaje para aportar a la solución de problemas que soporten 
+* Lidera un equipo de ingeniería del aprendizaje para aportar a la solución de problemas que soporten 
   al aprendiz y su desarrollo. (estratégico).
 
 Para la competencia C6 (Experimentación)
 
 Instrumentación del proceso y de la solución:
 
-* Aplica la instrumentación propuesta del proceso de Ingeniería del Aprendizaje y de la solución resultado del proceso. (resolutivo).
-* Selecciona la instrumentación más adecuada para el proceso de Ingeniería del Aprendizaje y la solución propuesta. (autónomo).
-* Adapta la instrumentación más adecuada para el proceso de Ingeniería del Aprendizaje y la solución propuesta. (estratégica).
+* Aplica la instrumentación propuesta del proceso de ingeniería del aprendizaje y de la solución resultado del proceso. (resolutivo).
+* Selecciona la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (autónomo).
+* Adapta la instrumentación más adecuada para el proceso de ingeniería del aprendizaje y la solución propuesta. (estratégica).
 
 Analítica del proceso y la solución:
 
-* Aplica la analítica propuesta para el proceso de Ingeniería del Aprendizaje y para la solución resultado del proceso. (resolutivo).
-* Selecciona la analítica más adecuada para el proceso de Ingeniería del Aprendizaje y para la solución propuesta. (autónomo).
-* Adapta la analítica más adecuada para el proceso de Ingeniería del Aprendizaje y para la solución propuesta. (estratégica).
+* Aplica la analítica propuesta para el proceso de ingeniería del aprendizaje y para la solución resultado del proceso. (resolutivo).
+* Selecciona la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (autónomo).
+* Adapta la analítica más adecuada para el proceso de ingeniería del aprendizaje y para la solución propuesta. (estratégica).
 
 Para la competencia C7 (aprendizaje)
 
 Práctica interdisciplinarias:
 
 * Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
-  de Ingeniería del Aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
 * Selecciona de manera argumentada los conceptos, herramientas y métodos de las disciplinas necesarias para elaborar una solución 
-  de Ingeniería del Aprendizaje que soporte al aprendiz y su desarrollo. (autónomo).
+  de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (autónomo).
 * Propone relaciones complejas entre los conceptos, herramientas y métodos de las disciplinas para elaborar una solución 
-  de Ingeniería del Aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
+  de ingeniería del aprendizaje que soporten al aprendiz y su desarrollo. (estratégico).
