@@ -363,25 +363,25 @@ Acercamiento a las competencias desde la ingeniería
 
 Para la ingeniería del aprendizaje las ciencias del aprendizaje no son un fin en si, son más bien una 
 herramienta para resolver problemas. Esto plantea las siguientes preguntas: ¿Qué ciencia básica debe estudiar 
-un Ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
+un ingeniero del aprendizaje? ¿Cuándo deben estudiarse esas ciencias básicas? Sin el ánimo de adentrarse en 
 esa discusión en este punto dejo mi opinión al respecto. Considerando que la práctica de la ingeniería del 
 aprendizaje es interdisciplinaria y que las ciencias básicas son una herramienta para resolver problemas, se 
 sugiere que el estudio de las mismas se haga justo a necesidad del problema a resolver. Se nos dice 
-constantemente que un Ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
-básica no es saberla como un requisito más para obtener el título de Ingeniero, sino más bien aplicarla como 
+constantemente que un ingeniero debe saber matemática y física, pero en mi opinión lo importante de la ciencia 
+básica no es saberla como un requisito más para obtener el título de ingeniero, sino más bien aplicarla como 
 una herramienta que permita abordar problemas cada vez más complejos. En ese sentido considero que la ciencia 
-básica debería ir de menos a más en la formación del Ingeniero del aprendizaje, es decir, problemas más complejos 
+básica debería ir de menos a más en la formación del ingeniero del aprendizaje, es decir, problemas más complejos 
 demandarán ciencia básica más compleja. Es por ello que un plan de estudios centrado en problemas y no en cursos 
-deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al futuro Ingeniero del 
-aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
+deberá seleccionar cuidadosamente las experiencias de aprendizaje necesarias que le permitan al futuro 
+ingeniero del aprendizaje ver en las ciencias básicas un aliado y no un obstáculo.
 
 La ingeniería del aprendizaje como toda ingeniería debe aborda compromisos (trade-offs) y debe navegar las 
 restricciones para alcanzar resultados prácticos. La ingeniería del aprendizaje debe ir más allá de la ciencia haciendo 
-sus propios experimentos y realizando sus propios compromisos porque un Ingeniero del aprendizaje busca solucionar 
+sus propios experimentos y realizando sus propios compromisos porque un ingeniero del aprendizaje busca solucionar 
 problemas pero siempre tendrá que realizar compromisos para alcanzar el nivel de optimización deseado.
 
 Según :cite:p:`2022:godell`, además de la matemática, la ingeniería del aprendizaje requiere de otras ciencias 
-para resolver problemas como por ejemplo las ciencias cognitivas, las socioculturales, las comportamentales 
+para resolver problemas como por ejemplo, las ciencias cognitivas, las socioculturales, las comportamentales 
 y las motivacionales. 
 
 En la ingeniería del aprendizaje se busca construir soluciones escalables y personalizadas aplicando la 
@@ -433,17 +433,8 @@ a todos los estudiantes se les entregan las mismas instrucciones o actividades, 
 alcancen las habilidades al nivel deseado; sin embargo, la realidad no es esa. Cada estudiante llegará 
 al nivel que pueda. Por tanto, según :cite:p:`2022:godell`, el sistema de educación tradicional presenta 
 un margen de error muy grande. :cite:p:`2022:godell` explica que la razón de este margen de error es 
-la variabilidad entre los estudiantes, entendiendo a esta, como las diferencias de personalidad, talentos, 
-preferencias y antecedentes de cada estudiante. 
-
-Dice :cite:p:`2022:godell` que los buenos profesores y diseños curriculares proveen retroalimentación 
-constante a los aprendices y adaptan la enseñanza a las necesidades de estos. A su vez, los buenos aprendices 
-adaptan su estrategia de aprendizaje en función de la retroalimentación; sin embargo, la realidad es 
-que en la práctica lo anterior no ocurre porque el costo de implementación de dicha retroalimentación 
-constante y con cada estudiante es prohibitivo. El reto entonces de la ingeniería del aprendizaje es 
-lograr lo anterior a escala y con costos razonables mediante la implementación de sistemas 
-de aprendizaje adaptativos. El reto es complejo porque idealmente un sistema de aprendizaje 
-adaptativo necesita múltiples lazos de realimentación como muestra la siguiente figura:
+la variabilidad entre los estudiantes, entendiendo esta como las diferencias de personalidad, talentos, 
+preferencias y antecedentes de cada estudiante.
 
 Según :cite:p:`2022:godell` los profesores y currículos eficientes proporcionan retroalimentación 
 continua a los estudiantes y alinean la enseñanza con sus necesidades. De igual manera, los buenos 
