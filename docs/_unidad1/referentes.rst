@@ -169,11 +169,11 @@ Los investigadores pueden:
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
 
-El diseño curricular de la propuesta estará estructurado alrededor de problemas y ``RETOS``. La ECIU 
+El diseño curricular de la propuesta estará estructurado alrededor de problemas y ``retos``. La ECIU 
 propone una metodología para abordar estos retos que podrían ser el punto de partida desde el cual 
-la institución refine su propia metodología.
+la Universidad refine su propia metodología.
 
-El uso del aprendizaje basado en retos responde a los cambios rápidos que experimenta el mundo actualmente. 
+El uso del aprendizaje basado en retos responde a los cambios rápidos que experimenta el mundo actual. 
 Mediante retos del mundo real se busca que los estudiantes aprendan en contexto, de manera profunda, con sentido 
 y con propósito. En `este <https://vimeo.com/583343858>`__ :cite:p:`2021:eciu-cbl` video, la ECIU explica por qué usar retos.
 
@@ -181,12 +181,12 @@ En `este <https://youtu.be/CFCSvvsPWUA>`__ :cite:p:`2021:UT` otro video la ECIU 
 el aprendizaje basado en retos.
 
 Otro aspecto de la propuesta de ECIU es el cambio en el rol del profesor que pasa de ser un 
-`TEACHER` a convertirse en un `TEAMCHER <https://www.utwente.nl/en/cbl/documents/cbl-eciu-tools-and-sources-for-teamchers.pdf>`__ :cite:p:`2021:UT-teamcher`. 
+`teacher` a convertirse en un `teamcher <https://www.utwente.nl/en/cbl/documents/cbl-eciu-tools-and-sources-for-teamchers.pdf>`__ :cite:p:`2021:UT-teamcher`. 
 Según la ECIU un `teamcher` es un miembro del grupo de profesores que sirve de facilitador en los equipos 
 conformados para la solución de los retos, a la vez que participa activamente en la solución de los mismos.
 
 Al igual que la metodología basada en retos puede servir como un punto de partida, así mismo, la definición y 
-práctica del `teamcher` puede servir de inspiración inicial para la institución; sin embargo, no se puede perder 
+práctica del `teamcher` puede servir de inspiración inicial para la Universidad; sin embargo, no se puede perder 
 de vista le necesidad de pensar de manera crítica para adaptar ese rol según las necesidades y realidades 
 de nuestro contexto.
 
