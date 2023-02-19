@@ -9,7 +9,7 @@ que han motivado la construcción de esta propuesta.
 El camino recorrido hasta ahora
 ---------------------------------
 
-Inicié como docente de tiempo completo en la institución en marzo de 2014. Desde 
+Inicié como docente de tiempo completo en la Universidad en marzo de 2014. Desde 
 el comienzo me enamoré del modelo pedagógico porque resonó inmediatamente con algo 
 que venía pensando desde mis años como docente de cátedra y que se hacía más obvio 
 con cada generación de estudiantes. Se trataba del aprendizaje activo y superar 
@@ -42,7 +42,7 @@ Julio Fontán.
 
 Finalizando el año 2020 tuve la oportunidad de conversar con Julio Fontán en una videoconferencia. 
 Julio, una persona muy generosa se ofreció a reunirse de nuevo con un grupo de personas 
-interesadas de la institución para contarles acerca del Modelo Relacional Fontán. Ese grupo 
+interesadas de la Universidad para contarles acerca del Modelo Relacional Fontán. Ese grupo 
 lo conformé con la Directoria de Docencia y la Decana de Arquitectura y Diseño. Luego de la reunión 
 con Julio y gracias a las conversaciones previas entre los miembros de este grupo surgió el proyecto 
 `Delfín <https://upbeduco.sharepoint.com/:p:/s/ProyectoDelfn/EQKYAkRq8htEnjobX2DiTT8B1gu-0ohEpLLV1OaAj620rA?e=RUJyv5>`__. 
