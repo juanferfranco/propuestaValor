@@ -107,7 +107,7 @@ universidades. En el año 2020 tuve la oportunidad de hablar con John Jairo Parr
 la Institución Educativa `Isolda Echavarría <https://www.ieisoldaechavarria.edu.co>`__ :cite:p:`2022:isolda` de Itagüi, 
 acerca de la implementación del sistema en este colegio público. El diálogo, inicialmente con Julio Fontán, y luego 
 con John Jairo Parra me hace pensar que si el sistema público Colombiano pudo adaptarse a un cambio como el propuesto 
-por FRE entonces la institución para la cual trabajo también podría hacerlo.
+por FRE entonces la Universidad también podría hacerlo.
 
 En `este <https://www.researchgate.net/publication/348336687_El_Modelo_de_Educacion_Relacional_Fontan_De_la_practica_a_la_teoria>`__ :cite:p:`2022:colen`
 libro se puede encontrar una sustentación científica del modelo FRE. Dicho trabajo fue desarrollado en conjunto por 
