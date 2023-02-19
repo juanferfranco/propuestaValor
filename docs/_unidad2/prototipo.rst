@@ -209,7 +209,7 @@ Acercamiento a las competencias del programa
 Para acercarse a una posible propuesta de competencias para el programa ingeniería del aprendizaje 
 es importante recordar algunas definición:
 
-* ingeniería del aprendizaje. Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
+* Ingeniería del aprendizaje. Learning Engineering is a process and ``interdisciplinary practice`` that applies the learning sciences using human-centered 
   engineering design methodologies and data-informed decision-making to support learners and their development."
 * Competencia. Actuación integral para identificar, interpretar, argumentar y resolver problemas del contexto integrando 
   conceptos y teorías, actitudes y valores, y habilidades procedimentales y técnicas.
@@ -221,12 +221,14 @@ De estas definiciones se proponen estas consideraciones:
   mediante algún procedimiento y actitud para resolver un problema entonces diremos que no es competente aún. Dicho de otra 
   manera, el aprendiz exhibirá una competencia cuando sea posible observar de manera integrada el despliegue de los 
   tres elementos en una situación problemática.
-* Para encontrar las competencias de ingeniería del aprendizaje se partirá de la definición y se deberán identificar competencias 
-  necesarias para: seguir el proceso, practicar desde varias disciplinas, aplicar las ciencias del aprendizaje, usar metodologías de diseño de ingeniería centradas en 
-  el humano, instrumentar el proceso y la experiencia de aprendizaje, analizar el proceso y la experiencia usando datos 
-  para la toma de decisiones y actuar con ética.
-* Para poder observar y de esa manera evaluar las competencias se deben proponer problemas de contexto. De esta manera la 
-  evaluación es centrada en resolver problemas más que en determinar el grado de apropiación de los contenidos.
+* Para encontrar las competencias de la ingeniería del aprendizaje se partirá de la definición y se deberán 
+  identificar competencias necesarias para: seguir el proceso, practicar desde varias disciplinas, 
+  aplicar las ciencias del aprendizaje, usar metodologías de diseño de ingeniería centradas en 
+  el humano, instrumentar el proceso y la experiencia de aprendizaje, analizar el proceso y la experiencia 
+  usando datos para la toma de decisiones y actuar con ética.
+* Para poder observar, y de esa manera evaluar, las competencias se deben proponer problemas de contexto. 
+  De esta manera la evaluación es centrada en resolver problemas más que en determinar el grado de apropiación 
+  de los contenidos.
 
 Acercamiento a las competencias para el PROCESO de ingeniería del aprendizaje
 *******************************************************************************
