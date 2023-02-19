@@ -274,12 +274,12 @@ para favorecer el crecimiento personal colectivo desde las actividades de soluci
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
 
-Con el modelo pedagógico de la institución se busca superar el modelo pedagógico tradicional centrado en la 
+Con el modelo pedagógico de la Universidad se busca superar el modelo pedagógico tradicional centrado en la 
 enseñanza, el papel de receptor del estudiante y el de transmisor del conocimiento asumido por el profesor. 
 01-edu debería servirnos como caso de estudio que nos permita observar una manera de llevar a la práctica 
 los principios que propone el modelo pedagógico. 01-edu plantea un cambio radical en la relación profesor 
-estudiante y es el análisis de esa propuesta lo que nos podría invitar a PENSAR de MANERA CRÍTICA en las 
-ideas a las que estamos anclados, pero desde una perspectiva CENTRADA EN EL ESTUDIANTE. Un modelo pedagógico 
+estudiante y es el análisis de esa propuesta lo que nos podría invitar a pensar de manera crítica en las 
+ideas a las que estamos anclados, pero desde una perspectiva centrada en el estudiante. Un modelo pedagógico 
 que privilegie el aprendizaje y el desarrollo personal. Un compromiso tan firme con estos principios que 
 nos lleve a cuestionar y problematizar las relaciones y los roles que no nos atrevemos a tocar. 
 
