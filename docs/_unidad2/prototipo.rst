@@ -631,7 +631,7 @@ conceptos y teorías, con las actitudes y valores y con las habilidades procedim
 hacer por cada competencia definida.
 
 Los resultados de aprendizaje específicos están vinculados con el nivel al cual se desarrolla cada criterio de competencia. 
-En la institución los niveles son receptivo, resolutivo, autónomo y estratégico.
+En la Universidad los niveles son receptivo, resolutivo, autónomo y estratégico.
 
 En esta propuesta se propone el diseño de experiencias de aprendizaje que movilicen el conjunto completo de competencias, 
 es decir, las experiencias de aprendizaje deben permitir que el estudiante despliegue todas las competencias de manera 
@@ -708,7 +708,7 @@ La diferencias entre el aprendizaje basado en proyecto, problemas y retos se pue
 `este <https://transferencia.tec.mx/english/outstanding/do-you-know-what-challenge-based-learning-is/>`__ :cite:p:`2021:Membrillo` 
 artículo.
 
-Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la Universidad 
+Como punto de partida se sugiere revisar la metodología de aprendizaje basado en retos propuesta por la universidad 
 ECIU en `este <https://youtu.be/CFCSvvsPWUA>`__ :cite:p:`2021:UT` video.
 
 
@@ -774,7 +774,7 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
 .. note:: Para explorar en la dimensión de desarrollo personal
 
   La organización CASEL :cite:p:`2023:SEL` propone un `MARCO <https://casel.org/fundamentals-of-sel/>`__ 
-  de trabajo para el aprendizaje socio emocional que puede servir como referente para el trabajo 
+  de trabajo para el aprendizaje socio-emocional que puede servir como referente para el trabajo 
   en la dimensión de desarrollo personal de los aprendices.
 
   Otro referente para revisar es la aplicación de la `psicología positiva <https://positivepsychologyinstitute.com.au/>`__ 
@@ -808,7 +808,7 @@ El rol de la Universidad
 Se espera que la Universidad:
 
 * Provea la infraestructura necesaria para realizar los procesos de indagación e investigación autónoma propios 
-  del aprendizaje basado en retos tal como lo propone la Universidad ECIU `aquí <https://youtu.be/CFCSvvsPWUA>`__.
+  del aprendizaje basado en retos tal como lo propone la universidad ECIU `aquí <https://youtu.be/CFCSvvsPWUA>`__.
 * Provea acceso a los mentores, empresas y organizaciones que garanticen el acceso y el desarrollo acompañado 
   de los problemas.
 
@@ -823,7 +823,7 @@ ir certificando en el proceso los ciclos según las tipologías, es decir:
 * Ingeniero del aprendizaje nivel autónomo.
 * Ingeniero del aprendizaje nivel estratégico.
 
-Además de las certificaciones anteriores se podrían realizar micro-credenciales como las planteadas 
+Además de las certificaciones anteriores se podrían realizar microcredenciales como las planteadas 
 por la Universidad ECIU. Como referencia véase también EduTrend del Tec de Monterrey :cite:p:`2019:tec`.
 
 Alineación de la propuesta con el modelo pedagógico institucional
@@ -847,9 +847,8 @@ Dichas intencionalidades formativas están integradas al ejercicio mismo de form
 interdisciplinar de los mismos para su solución invita a articularse con el interés formativo de cada ciclo: los 
 principios y valores institucionales, la formación científica, la formación interdisciplinar y la posibilidad 
 de especialización e investigación. El reto para la facultad es garantizar que esta articulación esté diseñada y 
-garantizada en el proceso. Por tanto, será fundamental estar cuestionando en cada experiencia de aprendizaje 
+garantizada en el proceso. Por tanto, será fundamental estar cuestionando a cada experiencia de aprendizaje 
 diseñada por estos asuntos.
-
 
 Perfil del egresado 
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -862,7 +861,7 @@ su desarrollo.
 Competencias  
 ^^^^^^^^^^^^^^^^
 
-Actualmente la escuela de ingeniería de la institución se encuentra alineado los programas con los 
+Actualmente la Escuela de Ingeniería de la Universidad se encuentra alineado los programas con los 
 7 `student outcomes <https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/>`__ :cite:p:`2022:ABET-StudentOutcomes`
 de `ABET <https://www.abet.org/about-abet/>`__ :cite:p:`2022:ABET-about`. Se propone 
 entonces alinear las competencias con esos student outcomes. Para el programa ingeniería del 
@@ -890,11 +889,11 @@ Según el decreto 1330 de 2019 :cite:p:`2019:minedu1330` los resultados de apren
 expresas de lo que se espera que un estudiante conozca y demuestre en el momento de culminar su programa 
 académico.
 
-Para la institución un resultado de aprendizaje es la declaración explícita de lo que se espera que un
+Para la Universidad un resultado de aprendizaje es la declaración explícita de lo que se espera que un
 estudiante conozca y demuestre al finalizar un proceso formativo y está en relación directa con el
 perfil de egreso del programa respectivo :cite:p:`2022:upb-raes`.
 
-Para la institución los resultados de aprendizaje generales corresponden a un concepto en el cual se 
+Para la Universidad los resultados de aprendizaje generales corresponden a un concepto en el cual se 
 explica lo que el programa espera reconocer en términos de desarrollo de los propósitos de formación y de las
 Capacidades Humanas y Competencias definidas en los ciclos :cite:p:`2022:upb-raes`.
 
@@ -920,7 +919,6 @@ Aplicación de las ciencias del aprendizaje:
 * Adapta ideas de las ciencias del aprendizaje necesarias para elaborar soluciones de ingeniería del aprendizaje que soporten al aprendiz y 
   su desarrollo. (estratégico).
 
-
 Para la competencia C2 (diseño)
 
 Metodologías de diseño centradas en el humano:
@@ -931,7 +929,6 @@ Metodologías de diseño centradas en el humano:
   soluciones que soporten al aprendiz y su desarrollo. (autónomo).
 * Crea metodologías y herramientas para realizar un proceso de ingeniería del aprendizaje para generar 
   soluciones que soporten al aprendiz y su desarrollo. (estratégico).
-
 
 Para la competencia C3 (comunicación)
 
@@ -944,14 +941,12 @@ Para la competencia C3 (comunicación)
 * Convence a los actores involucrados en una solución y proceso de ingeniería del aprendizaje 
   para conseguir los recursos necesarios que permitan realizar la solución. (estratégico).
 
-
 Para la competencia C4 (ética)
 
 * Toma decisiones éticas siguiendo los códigos de conducta establecidos para la solución y el 
   proceso de ingeniería del aprendizaje. (resolutivo).
 * Argumenta asuntos éticos para la solución y el proceso de ingeniería del aprendizaje. (autónomo).
 * Argumenta asuntos éticos ambiguos para la solución y el proceso de ingeniería del aprendizaje. (estratégico).
-
 
 Para la competencia C5 (trabajo en equipo)
 
@@ -978,7 +973,7 @@ Analítica del proceso y la solución:
 
 Para la competencia C7 (aprendizaje)
 
-Práctica interdisciplinarias:
+Práctica interdisciplinaria:
 
 * Consulta los conceptos, herramientas y métodos de las disciplinas propuestas para elaborar una solución 
   de ingeniería del aprendizaje que soporte al aprendiz y su desarrollo. (resolutivo).
