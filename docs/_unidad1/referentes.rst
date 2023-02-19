@@ -50,7 +50,7 @@ Este proyecto lo desarrollamos hasta el primer semestre de 2021.
 
 
 En el segundo semestre del año 2022, la escuela de ingeniería y el líder de las iniciativas de educación virtual 
-me encomendaron pensar en una propuesta disruptiva e innovadora para la institución. Decidí entonces 
+me encomendaron pensar en una propuesta disruptiva e innovadora para la Universidad. Decidí entonces 
 retomar las ideas originales del proyecto Delfín y por solicitud de mis jefes proponer un PROTOTIPO de 
 un programa diferente para la institución con características disruptivas e innovadores. 
 Es así como llego a este documento que representa el resultado del camino recorrido hasta este punto.
