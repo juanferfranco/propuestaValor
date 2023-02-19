@@ -43,7 +43,7 @@ Julio Fontán.
 Finalizando el año 2020 tuve la oportunidad de conversar con Julio Fontán en una videoconferencia. 
 Julio, una persona muy generosa se ofreció a reunirse de nuevo con un grupo de personas 
 interesadas de la Universidad para contarles acerca del Modelo Relacional Fontán. Ese grupo 
-lo conformé con la Directoria de Docencia y la Decana de Arquitectura y Diseño. Luego de la reunión 
+lo conformé con la directoria de docencia y la decana de arquitectura y diseño. Luego de la reunión 
 con Julio y gracias a las conversaciones previas entre los miembros de este grupo surgió el proyecto 
 `Delfín <https://upbeduco.sharepoint.com/:p:/s/ProyectoDelfn/EQKYAkRq8htEnjobX2DiTT8B1gu-0ohEpLLV1OaAj620rA?e=RUJyv5>`__. 
 Este proyecto lo desarrollamos hasta el primer semestre de 2021.
