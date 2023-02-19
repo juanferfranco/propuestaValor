@@ -130,12 +130,12 @@ retos de la vida real.
 Propuesta de valor
 ***************************
 
-La Universidad ECIU propone un nuevo modelo pedagógico basado en ``RETOS``. En la primera fase se han enfocado en el 
+La universidad ECIU propone un nuevo modelo pedagógico basado en ``retos``. En la primera fase se han enfocado en el 
 `objetivo de desarrollo sostenible número 11 <https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/>`__ :cite:p:`2022:GG11`:
-Ciudades y comunidades sostenibles. Los retos los puede proponer cualquiera. Para abordar los retos se conforman equipos 
-con personas de la industria, la sociedad y las universidades para trabajar de manera REMOTA en ellos. Si en el proceso 
+ciudades y comunidades sostenibles. Los retos los puede proponer cualquiera. Para abordarlos se conforman equipos 
+con personas de la industria, la sociedad y las universidades para trabajar de manera remota en ellos. Si en el proceso 
 de solución del reto se detectan carencias en algunos conocimientos o habilidades, los participantes pueden realizar 
-MICRO CREDENCIALES que son ofrecidas por las universidades del consorcio. Estas micro credenciales se documentan en 
+microcredenciales que son ofrecidas por las universidades del consorcio. Estas microcredenciales se documentan en 
 el pasaporte de aprendizaje europeo. 
 
 Según la `Universidad ECIU <https://www.eciu.org/>`__ los estudiantes pueden:
