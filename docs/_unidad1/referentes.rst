@@ -249,17 +249,16 @@ Propuesta de valor
 
 La propuesta de valor de 01-edu está centrada en su `modelo pedagógico <https://01-edu.org/pedagogy>`__ :cite:p:`2022:01edu-ped`. 
 
-La formación se enfoca en actividades creativas en lugar de conocimiento teórico mediante el uso de la metodología 
-de solución de problemas. El aprendizaje es personalizado, con auto-apropiación del conocimiento y construcción 
-de conocimiento de manera colectiva. 
+La formación se enfoca en la realización de actividades creativas en lugar de conocimientos teóricos. Utiliza 
+la metodología de solución de problemas. El aprendizaje es personalizado, con auto-apropiación del conocimiento y 
+construcción de conocimiento de manera colectiva. 
 
 La metodología es práctica y basada en proyectos, no hay profesores (tradicionales) o aulas de clase. El conocimiento 
 que se requiere para resolver los problemas se busca en Internet y con ayuda de los compañeros, es decir, el enfoque 
 de aprendizaje es `peer learning and peer correction`.
 
-01-edu utiliza técnicas de GAMIFICATION para inspirar a los estudiantes y la personalización la consiguen haciendo que el 
+01-edu utiliza técnicas de ludificación para inspirar a los estudiantes y la personalización la consigue haciendo que el 
 tiempo sea variable pero la calidad constante como en el modelo FRE.
-
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
