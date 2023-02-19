@@ -100,7 +100,6 @@ Videos
 * `Learning Engineering at 50 <https://youtu.be/kn_T9ON_iQQ>`__.
 * `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
 
-
 Libros 
 --------
 
@@ -287,13 +286,13 @@ Personas
 * `Peter Norvig <https://en.wikipedia.org/wiki/Peter_Norvig>`__.
 * `Ryan Baker <https://learninganalytics.upenn.edu/ryanbaker/>`__.
 * `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
+*  `Mary Helen Immordino-Yang, EdD <https://www.linkedin.com/in/maryhelen-immordinoyang/>`__.
 
 Presentaciones
 ----------------
 
 * `Avance del prototipo <https://docs.google.com/presentation/d/1UIy0JdFwiprMAe_8tTZBUyk9-rmUYAspp-dLWETQzYc/edit?usp=share_link>`__.
 * `Aprender en el metaverso <https://juanferfranco.github.io/expoIng2022/>`__.
-
 
 Referencias
 --------------
