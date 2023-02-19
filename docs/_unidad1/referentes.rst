@@ -28,11 +28,11 @@ criterios de competencias y el aula invertida como `scaffolding` para ayudarle a
 abordar los proyectos. Mis clases se fueron convirtiendo de una actividad magistral 
 a un diálogo directo con cada estudiante, donde mi labor se tornó en algo más parecido a una relación 
 entrenador/atleta. Le ayudaba a mis estudiantes con los problemas técnicos del curso, pero también 
-dedicaba mucho tiempo a soportarlos en habilidades cognitivas y emocionales. Creo que la mejor 
-manera de resumir lo que me pasó es decir que antes los estudiantes me escuchaban casi 
-todo el tiempo. Ahora yo los escucho casi todo el tiempo. Pienso que esto me cambió para 
-siempre porque al escuchar a los estudiantes aprendí que el sistema de educación actual 
-se estaba convirtiendo en un obstáculo para su aprendizaje y desarrollo personal.
+dedicaba mucho tiempo a soportarlos en habilidades cognitivas y emocionales. Pienso que la forma más clara 
+de describir mi experiencia es decir que antes los estudiantes me escuchaban casi siempre y ahora yo los 
+escucho a ellos casi todo el tiempo. Esto me cambió para siempre porque al escuchar a los estudiantes 
+aprendí que el sistema de educación actual se estaba convirtiendo en un obstáculo para su aprendizaje y 
+desarrollo personal.
 
 Con todo lo que me ensañaron los estudiantes al escucharlos inicié una búsqueda de modelos 
 educativos, diferentes al actual, que promovieran en ellos su aprendizaje y su 
