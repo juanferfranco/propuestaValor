@@ -344,7 +344,6 @@ seis actividades:
 #. Re-diseño de las ideas y los prototipos usando los datos de la actividad anterior.
 #. Iteración para ir refinando el prototipo hasta la solución final.
 
-
 Uno de los grandes desafíos de la ingeniería del aprendizaje es el diseño para la variabilidad porque todas 
 las personas aprenden a diferentes ritmos y parten de modelos mentales distintos. La ingeniería del aprendizaje 
 toma entonces métodos y prácticas del design thinking, el diseño participativo y el diseño justo para afrontar 
