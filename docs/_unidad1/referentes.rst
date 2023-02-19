@@ -138,32 +138,32 @@ de solución del reto se detectan carencias en algunos conocimientos o habilidad
 microcredenciales que son ofrecidas por las universidades del consorcio. Estas microcredenciales se documentan en 
 el pasaporte de aprendizaje europeo. 
 
-Según la `Universidad ECIU <https://www.eciu.org/>`__ los estudiantes pueden:
+Según la `universidad ECIU <https://www.eciu.org/>`__ los estudiantes pueden:
 
 * Participar en los retos y contribuir a generar un impacto real en la comunidad, ciudad o región.
 * Trabajar en equipos multidisciplinarios e internacionales que permiten adquirir habilidades y conocimientos profesionales.
-* Experimentar una forma nueva e innovadora de aprender y, al hacerlo, ayudar a co-crear la Universidad ECIU.
+* Experimentar una forma nueva e innovadora de aprender y, al hacerlo, ayudar a co-crear la universidad ECIU.
 
-Los docentes de las Universidades pueden:
+Los docentes de las universidades pueden:
 
 * Resolver los problemas sociales y económicos más relevantes de la actualidad.
 * Ser pioneros en conceptos educativos de vanguardia: aprendizaje basado en retos y microcredenciales.
-* Co-crear con otros colegas la Universidad Europea.
+* Co-crear con otros colegas la universidad ECIU.
 
 La sociedad y las empresas pueden:
 
 * Proponer retos para que los equipos de ECIU busquen respuestas.
 * Trabajar con y conectarse con los estudiantes actuales y los posibles empleados.
-* Unirse a los socios estratégicos de ECIU University co-creando las innovaciones educativas en Europa.
+* Unirse a los socios estratégicos de ECIU co-creando las innovaciones educativas en Europa.
 
 Los investigadores pueden:
 
-* Explorar la estrategia de investigación conjunta a largo plazo de la Universidad ECIU y 
+* Explorar la estrategia de investigación conjunta a largo plazo de la universidad ECIU y 
   las áreas de investigación compartidas.
-* Descubrir las oportunidades del Fondo de Movilidad de Investigadores de ECIU.
+* Descubrir las oportunidades del fondo de movilidad de investigadores de ECIU.
 * Obtener más información sobre el programa de red RUNIN y el proyecto TEFCE.
-* Obtener más información sobre el Instituto de Investigación de la Universidad ECIU para Regiones 
-  Europeas Inteligentes (SMART-ER).
+* Obtener más información sobre el instituto de investigación de la universidad ECIU para regiones 
+  europeas inteligentes (SMART-ER).
 
 
 ¿Por qué este referente inspira la propuesta?
