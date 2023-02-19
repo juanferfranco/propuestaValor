@@ -122,7 +122,7 @@ la innovación, la creatividad y el impacto social, impulsando el desarrollo de 
 
 La `Universidad ECIU <https://www.eciu.org/>`__ :cite:p:`2022:ECIU` es una universidad europea financiada por 
 la Unión Europea para crear un modelo educativo completamente nuevo a escala continental. La universidad 
-ECIU reúne a estudiantes, profesores e investigadores para cooperar con ciudades y empresas y resolver 
+ECIU reúne a estudiantes, profesores e investigadores para cooperar con ciudades y empresas en la solución de  
 retos de la vida real.
 
 `Este <https://vimeo.com/321068392>`__ :cite:p:`2019:eciu-eu` video explica la iniciativa.
