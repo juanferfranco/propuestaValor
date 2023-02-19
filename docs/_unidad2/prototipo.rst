@@ -242,7 +242,7 @@ posibles condiciones que puedan ayudar o dificultar el aprendizaje. El contexto 
 las normas, las expectativas, las prestaciones y las limitaciones que tendrán que ser tenidas en cuenta para afrontar 
 el reto. Luego de esto, el proceso incluye ciclos de creación, implementación e investigación que se desarrollan de manera 
 iterativa y no necesariamente en orden. Incluso los ciclos pueden ser paralelos. El proceso es iterativo y 
-lo que se hace en cada reiteración depende de los datos extraídos y analizados de la repetición anterior.
+lo que se hace en cada iteración depende de los datos extraídos y analizados de la repetición anterior.
 
 .. figure:: ../_static/LEprocess.png
    :alt: El proceso de la ingeniería del aprendizaje
@@ -259,7 +259,7 @@ En el proceso de la ingeniería del aprendizaje entender el reto es central. Est
 los objetivos del aprendizaje, a los aprendices y las condiciones que dificultan o ayudan al aprendiz a lograr los 
 objetivos. Como en cualquier otra actividad de diseño o ingeniería la clave del proceso es entender profundamente el 
 reto antes de buscar cualquier solución. Es por esta razón que el proceso de la ingeniería del aprendizaje es iterativo 
-y es porque con cada reiteración se comprende mejor el reto y de esta manera la solución es más ajustada al objetivo.  
+y es porque con cada iteración se comprende mejor el reto y de esta manera la solución es más ajustada al objetivo.  
 
 
 Acercamiento a las competencias desde la práctica INTERDISCIPLINARIA
@@ -282,7 +282,7 @@ de ingeniería del aprendizaje:
 
 |
 
-Es importante anotar que la formación de un Ingeniero del aprendizaje no debería caer en el error 
+Es importante anotar que la formación de un ingeniero del aprendizaje no debería caer en el error 
 de abordar de manera aislada cada disciplina, es decir, se debería descartar de entrada la idea 
 de construir un plan de estudios donde cada pétalo sea un área de estudio separada. Dada la naturaleza interdisciplinaria 
 del programa sería más coherente abordar los pétalos de manera integrada. Para lograrlo se sugiere estructurar 
