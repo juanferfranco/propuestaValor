@@ -286,19 +286,21 @@ nos lleve a cuestionar y problematizar las relaciones y los roles que no nos atr
 London Interdisciplinary School 
 -----------------------------------
 
-`London Interdisciplinario School <https://www.lis.ac.uk/about/>`__ :cite:p:`2022:lis-home` o LIS, es una nueva Universidad ubicada en Whitechapel al oriente de Londres. 
-LIS es la primera Universidad en recibir el poder para otorgar títulos de naturaleza interdisciplinaria en el 
-Reino Unido. El programa interdisciplinario que ofrece LIS se dedica a abordar problemas del mundo real 
-como la crisis climática, el COVID-19, la inteligencia artificial y ética, la malaria, entre otros.
+`London Interdisciplinario School <https://www.lis.ac.uk/about/>`__ :cite:p:`2022:lis-home` o LIS, es una nueva 
+universidad ubicada en Whitechapel al oriente de Londres. LIS es la primera universidad en recibir el poder 
+para otorgar títulos de naturaleza interdisciplinaria en el Reino Unido. El programa interdisciplinario que 
+ofrece LIS se dedica a abordar problemas del mundo real como la crisis climática, el COVID-19, la inteligencia 
+artificial y ética, la malaria, entre otros.
 
-
-  Siguiendo un proceso riguroso, LIS puede ofrecer sus propios títulos y es el primero en obtener nuevos poderes para otorgar títulos desde el principio en más de 50 años.
+  Siguiendo un proceso riguroso, LIS puede ofrecer sus propios títulos y es el primero en obtener nuevos 
+  poderes para otorgar títulos desde el principio en más de 50 años.
 
   --LIS
 
   La Oficina para Estudiantes (el regulador de educación superior en Inglaterra) ha dicho que 
-  LIS puede otorgar su título BASc en Problemas y Métodos Interdisciplinarios a partir de 2021. Los altos
-  estándares regulatorios significan que un título LIS es totalmente comparable a cualquier otra universidad en el Reino Unido.
+  LIS puede otorgar su título BASc en problemas y métodos interdisciplinarios a partir de 2021. Los altos
+  estándares regulatorios significan que un título LIS es totalmente comparable a cualquier otra universidad 
+  en el Reino Unido.
 
   --LIS
 
@@ -307,7 +309,7 @@ Propuesta de valor
 
 De acuerdo con la propuesta de LIS los líderes en los diversos campos y disciplinas requieren de 
 competencias y habilidades que les posibiliten enfrentar los retos de un mundo cambiante y complejo. 
-En este orden de ideas, resulta imprescindible la articulación de los saberes a fin de poder analizar, 
+En este orden de ideas, resulta imprescindible la articulación de los saberes con el fin de poder analizar, 
 reflexionar y proponer alternativas y soluciones a problemas reales. La universidad debe entonces 
 plantear sinergias entre grupos diversos (académicos, empresarios y educadores) que posibiliten centrar 
 su interés en la enseñanza más que en la investigación como lo propone este modelo.
@@ -319,7 +321,7 @@ interdisciplinariedad. Desde LIS consideran que estos diálogos posibiliten nuev
 experimentar en el mundo, puesto que se superan las fronteras y se desarrollan conexiones para encontrar 
 alternativas.
 
-El plan de estudios de LIS está basado en el estudio de los conceptos y la teorías relacioandas 
+El plan de estudios de LIS está basado en el estudio de los conceptos y las teorías relacionadas 
 desde múltiples disciplinas. La idea de LIS es permitirle al estudiante entender y abordar un 
 problema complejo desde varios puntos de vista. Para LIS los problemas más complejos son interdisciplinarios 
 y por tanto el currículo debería serlo también.
@@ -339,8 +341,8 @@ diseño de entretenimiento digital. Algunos de los principios que propone LIS he
 en entretenimiento digital; sin embargo, el diseño original del programa no se llevó a la práctica debido a 
 las restricciones del sistema en el que está inscrito. El plan de estudios aborda varias disciplinas, pero 
 la integración de estas no es tan fluido como podría desearse. Por tanto, la forma de implementar un programa 
-interdisciplinario como la propuesta por LIS puede inspirarnos para la transformación de programas actuales 
-y para la propuesta que vendrá en la próxima sección. 
+interdisciplinario como el propuesto por LIS puede inspirarnos para la transformación de programas actuales 
+y para la propuesta que vendrá en la próxima sección.
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
