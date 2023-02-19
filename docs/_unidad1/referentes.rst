@@ -265,12 +265,11 @@ tiempo sea variable pero la calidad constante como en el modelo FRE.
 
 Aunque 01-edu dice que no hay profesores, la lectura que hago es diferente. Más bien no hay relaciones 
 de jerarquía profesor-estudiante porque la relación enseñanza aprendizaje se desarrolla entre pares. Este modelo 
-de 01-edu me lleva a pensar en un rol del profesor DIFERENTE al tradicional. Un profesor que efectivamente 
+de 01-edu me lleva a pensar en un rol del profesor diferente al tradicional. Un profesor que efectivamente 
 transciende la transmisión de conocimiento y se acerca más el rol de un mentor. Un profesor que  
 participa en el proceso mismo de aprendizaje aportando desde la experiencia, no solo técnica, sino también desde lo emocional, 
 pero sin dejar de aprender del estudiante, sin dejar la escucha activa de lado. Una relación profesor-estudiante 
-para favorecer el crecimiento personal COLECTIVO desde las actividades de solución de problemas.
-
+para favorecer el crecimiento personal colectivo desde las actividades de solución de problemas.
 
 ¿Qué podemos aprender o qué alianzas podemos establecer con este referente?
 ******************************************************************************
