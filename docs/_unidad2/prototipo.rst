@@ -35,7 +35,7 @@ De este punto en adelante el nuevo programa propuesto será denominado como ``in
 ``engineering``. Claramente esta denominación tendrá que discutirse profundamente; sin embargo, será acogida en este 
 documento porque es la denominación utilizada por el Consorcio Industrial en ``ingeniería del aprendizaje`` de la IEEE 
 ICICLE por sus siglas en inglés. En principio, todo el fundamento teórico del programa usará los documentos 
-publicados y en discusión de la IEEE ICICLE. Será una tarea posterior de la institución definir que tan alineado estará 
+publicados y en discusión de la IEEE ICICLE. Será una tarea posterior de la Universidad definir que tan alinead estará 
 el programa a las definiciones de IEEE ICICLE.
 
 
@@ -84,16 +84,17 @@ publicación en Medium realizada por MIT Open Learning.
 |   
 
 La ingeniería del aprendizaje se plantea como una ingeniería y no como un diseño porque aunque usa las 
-metodologías del diseño, las combina con procesos guiados por datos y principios de ingeniería, tales como la teoría del control, que no son prácticas 
-tradicionales del diseño. Esta combinación hace que la ingeniería del aprendizaje se acerque a una solución de mejor ajuste 
-mediante la iteración. La ingeniería del aprendizaje puede confundirse con el diseño porque es centrada en el usuario; sin embargo, 
-esta es una idea fundamental porque para proponer una solución la ingeniería del aprendizaje debe entender profundamente a 
+metodologías del diseño, las combina con procesos guiados por datos y principios de ingeniería, tales como 
+la teoría del control, que no son prácticas tradicionales del diseño. Esta combinación hace que la ingeniería 
+del aprendizaje se acerque a una solución de mejor ajuste mediante la iteración. La ingeniería del aprendizaje 
+puede confundirse con el diseño porque es centrada en el usuario; sin embargo, esta es una idea fundamental 
+porque para proponer una solución la ingeniería del aprendizaje debe entender profundamente a 
 las personas que la usarán o se beneficiarán de ella.
 
-La ingeniería del aprendizaje no solo se trata de producir productos tecnológicos o plataformas educativas. Una solución de 
-la ingeniería del aprendizaje puede ser un recurso educativo simple, la mejora a un proceso, la mejora de un espacio físico 
-o en general cualquier solución que soporte los procesos de aprendizaje y desarrollo del aprendiz, es decir, cualquier cosa 
-que permita solucionar un problema del aprendizaje. 
+La ingeniería del aprendizaje no solo se trata de producir productos tecnológicos o plataformas educativas. 
+Una solución de la ingeniería del aprendizaje puede ser un recurso educativo simple, la mejora a un proceso, 
+la mejora de un espacio físico o en general, cualquier solución que soporte los procesos de aprendizaje y 
+desarrollo del aprendiz, es decir, cualquier cosa que permita solucionar un problema del aprendizaje. 
 
 Descripción del perfil del egresado 
 -------------------------------------
