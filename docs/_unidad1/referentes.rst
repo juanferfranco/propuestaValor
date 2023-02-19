@@ -59,19 +59,20 @@ Modelo relacional Fontán
 --------------------------
 
 El `Modelo Relacional Fontán <https://www.learning1to1.net/>`__ :cite:p:`2022:fre` o FRE por sus siglas en inglés 
-es una evolución del `Sistema Fontán <https://colegiofontan.edu.co/sistema-fontan/>`__ :cite:p:`2022:fontan` creado por los esposos 
-Ventura y Emilia Fontán. Es propuesto por uno de sus hijos, Julio Fontán.
+es una evolución del `Sistema Fontán <https://colegiofontan.edu.co/sistema-fontan/>`__ :cite:p:`2022:fontan` 
+creado por los esposos Ventura y Emilia Fontán. Es propuesto por uno de sus hijos, Julio Fontán.
 
 Propuesta de valor
 ***************************
 
 El modelo se propone el desarrollo de hábitos de autonomía de aprendizaje con los estudiantes 
 en tan solo 8 semanas. Propone un sistema que permita superar el sistema educativo actual inspirado, 
-`según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__ :cite:p:`2022:fre-2`, en los sistemas industrializados de la revolución industrial.
+`según Julio Fontán <https://youtu.be/sH_57WAeBcw>`__ :cite:p:`2022:fre-2`, en los sistemas industrializados 
+de la revolución industrial.
 
 El modelo pedagógico de FRE es `centrado en el estudiante`. Ofrece planes de estudio personalizados que dependen 
-de las capacidades, gustos y expectativas de cada estudiante. Le entrega al estudiante la responsabilidad de la toma 
-de decisiones en su proceso educativo permitiendo el aprendizaje autónomo.
+de las capacidades, gustos y expectativas de cada estudiante. Le entrega al estudiante la responsabilidad de la 
+toma de decisiones en su proceso educativo permitiendo el aprendizaje autónomo.
 
 ¿Por qué este referente inspira la propuesta?
 ***********************************************
