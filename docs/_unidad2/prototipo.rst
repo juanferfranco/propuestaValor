@@ -581,12 +581,12 @@ debe poder llegar a dominar el objetivo de aprendizaje aunque le tome más o men
 Características de la propuesta a la luz del modelo pedagógico institucional
 ******************************************************************************
 
-La propuesta está en completa armonía con el modelo pedagógico institucional que busca privilegiar el aprendizaje, la 
+La propuesta está en completa armonía con el modelo pedagógico institucional que busca "privilegiar el aprendizaje, la 
 posición activa del estudiante, el papel mediador del profesor, la relación profesor-estudiante basada en el diálogo 
 y el respeto, el reconocimiento de la dignidad del otro como persona, la investigación sin descartar el método 
 expositivo, el trabajo experimental, la práctica y las actividades independientes debidamente acompañadas. Lo anterior 
 busca superar el modelo pedagógico tradicional centrado en la enseñanza, el papel receptor del estudiante y de 
-transmisor del conocimiento asumido por el profesor.
+transmisor del conocimiento asumido por el profesor."
 
 Se propone:
 
