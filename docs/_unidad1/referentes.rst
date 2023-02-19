@@ -24,8 +24,8 @@ para adaptarse a los retos de la pandemia por COVID-19 y descubrí a
 La pandemia me hizo repensar todos los cursos que impartía y considerando el aprendizaje 
 basado en proyectos, el aula invertida y el constructive alignment los estructuré como 
 experiencias de aprendizaje que usaban proyectos para evaluar el nivel de desarrollo de los 
-criterios de competencias y el aula invertida como `scaffolding` para preparar a los 
-estudiantes para la evaluación. Mis clases se fueron convirtiendo de una actividad magistral 
+criterios de competencias y el aula invertida como `scaffolding` para ayudarle a los estudiantes a 
+abordar los proyectos. Mis clases se fueron convirtiendo de una actividad magistral 
 a un diálogo directo con cada estudiante, donde mi labor se tornó en algo más parecido a una relación 
 entrenador/atleta. Le ayudaba a mis estudiantes con los problemas técnicos del curso, pero también 
 dedicaba mucho tiempo a soportarlos en habilidades cognitivas y emocionales. Creo que la mejor 
