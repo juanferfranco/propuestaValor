@@ -208,11 +208,10 @@ radicalmente diferentes a los clásicos.
 
 El fundador de 01-edu, `Nicolas Sadirac <https://youtu.be/uVl9H2z2hVw>`__ :cite:p:`2021:tedx-siderac`, notó que al no tener profesores 
 se podría exponer al estudiante a relaciones más complejas de interacción con el conocimiento y de alguna 
-manera esto hacía que los 
-estudiantes fueran más autónomos. Sadirac habla del concepto denominado INTELIGENCIA COLECTIVA y dice 
-que florece en ambientes de diversidad de personas. Por tanto, según Sadirac, al eliminar del proceso 
-de enseñanza a los profesores e introducir la diversidad se promueve la autonomía y la inteligencia 
-colectiva y de esa manera se consigue un sistema de educación ESCALABLE. 
+manera esto hacía que los estudiantes fueran más autónomos. Sadirac habla del concepto denominado 
+inteligencia colectiva y dice que florece en ambientes de diversidad de personas. Por tanto, según Sadirac, al 
+eliminar del proceso de enseñanza a los profesores e introducir la diversidad se promueve la autonomía y la inteligencia 
+colectiva y de esa manera se consigue un sistema de educación escalable. 
 
 Sadirac dice que el conocimiento se ha transmitido de manera oral, luego con libros y ahora con Internet. Señala 
 que las inteligencias artificiales serán mejores que las personas en la retención y procesamiento del conocimiento. 
@@ -229,7 +228,7 @@ que la inteligencia artificial expanda nuestra humanidad.
 * El proceso es 100% `peer-to-peer`. La ausencia de jerarquía promueve la confrontación entre los 
   estudiantes lo cual crea complejidad y relativización del conocimiento. Esto abre a los estudiantes a la 
   innovación.
-* Una comunidad solidaria sin profesores. Por medio de la empatía crea autonomía. Los estudiantes 
+* Una comunidad solidaria sin profesores, por medio de la empatía, crea autonomía. Los estudiantes 
   abrazan la idea de tomar riesgos y promueve el emprendimiento estableciendo de esta manera responsabilidad.
 
 Sadirac `dice <https://youtu.be/U8UX1KR73Yw>`__ :cite:p:`2018:wise-siderac` que si no hay transmisión de conocimiento de ningún tipo 
