@@ -5,10 +5,10 @@ Motivación
 ---------------
 
 El programa que se presenta a continuación busca formar nuevos profesionales con competencias 
-interdisciplinarias que permitan, a su vez, repensar y crear la capacidad institucional de la UPB para 
+interdisciplinarias que permitan, a su vez, repensar y crear la capacidad institucional de la Universidad para 
 formular nuevos programas interdisciplinarios y para acompañar los procesos educativos. Asimismo, esta 
-renovación deberá propiciar, desde mi opinión, un nuevo tipo de profesor un teamcher, un mentor, un líder. 
-Profesores con habilidades para abordar las capacidades diversas y apoyar los procesos desarrollo 
+renovación deberá propiciar, desde mi opinión, un nuevo tipo de profesor, un teamcher, un mentor, un líder. 
+Profesores con habilidades para abordar las capacidades diversas y apoyar los procesos de desarrollo 
 personal de los estudiantes. A mi modo de ver, este tipo de profesores aún no existen, no obstante, 
 se podrían consolidar equipos de líderes interdisciplinares de tal modo que, a la par que se renuevan 
 los programas, se perfilen nuevas formas de ejercer la docencia y de configurar la relación estudiante y 
@@ -17,7 +17,7 @@ profesor.
 En mayo del 2020 el vicerrector académico en `este <https://www.youtube.com/watch?v=0BFDVVuu7Ow>`__ :cite:p:`2020:upb`
 video señaló que:
 
-  TENEMOS una brecha enorme y es PODER llevar TODO el modelo pedagógico de capacidades y competencias a los procesos 
+  Tenemos una brecha enorme y es poder llevar todo el modelo pedagógico de capacidades y competencias a los procesos 
   pedagógicos de curso; sin embargo, todavía no ha sido posible
 
   --Vicerrector Académico.
