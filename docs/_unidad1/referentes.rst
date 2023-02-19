@@ -241,7 +241,7 @@ En `este <https://youtu.be/zi706-NrypY>`__ :cite:p:`2019:01-edu-siderac` video S
 transmitir conocimiento, pero esto hace que las personas se vuelvan más pasivas y menos creativas en el proceso. 
 Cuando no existe la figura de profesor transmisor de conocimiento el estudiante se ve obligado a producir ideas, 
 generar hipótesis, probar las hipótesis y discutir con otros si la idea funciona o no. Por tanto, el 
-proceso educativo se convierte más en un asunto de AUTO DESARROLLO que en un ejercicio de adquisición 
+proceso educativo se convierte más en un asunto de auto desarrollo que en un ejercicio de adquisición 
 de conocimiento.
 
 Propuesta de valor
