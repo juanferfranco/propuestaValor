@@ -100,7 +100,7 @@ Videos
 * `Learning Engineering at 50 <https://youtu.be/kn_T9ON_iQQ>`__.
 * `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
 * `Katherine McEldoon, Scaling the Science of Learning <https://youtu.be/nalbHn--wMM>`__.
-
+* `VCoL+7—the Virtuous Cycle of Learning <https://youtu.be/NldG2M1rynU>`__.
 
 Libros 
 --------
