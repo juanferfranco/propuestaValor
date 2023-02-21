@@ -99,6 +99,8 @@ Videos
 * `IEEE Standards on Learning Technology <https://youtu.be/Q0Za3hwt_ds>`__.
 * `Learning Engineering at 50 <https://youtu.be/kn_T9ON_iQQ>`__.
 * `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
+* `Katherine McEldoon, Scaling the Science of Learning <https://youtu.be/nalbHn--wMM>`__.
+
 
 Libros 
 --------
