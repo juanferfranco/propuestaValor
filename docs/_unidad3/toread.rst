@@ -265,7 +265,7 @@ Sitios Web
 * `Incorporan aprendizaje adaptativo como modalidad educativa en la UCR <https://www.cu.ucr.ac.cr/inicio/noticias/noticia/Articulo/incorporan-aprendizaje-adaptativo-como-modalidad-educativa-en-la-ucr.html>`__.
 * `Onebillion <https://onebillion.org/>`__ one app that delivers reading, writing and numeracy.
 * `The Student Cognition Toolbox (SCT) <https://www.unh.edu/professional-success/ceitl/resources/student-cognition-toolbox-sct>`__.
-
+* `Virtuous cycles of learning (VCoL) and the +7 skills <https://lecticalive.org/about/vcol#gsc.tab=0>`__.
 
 Relación con conceptos institucionales
 ---------------------------------------
