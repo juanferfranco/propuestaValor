@@ -198,6 +198,8 @@ Sitios Web
 `Recurso fundamental de la IEEE/ICICLE <https://sagroups.ieee.org/icicle/resources/>`__.
 
 
+* `Digital Promise <https://digitalpromise.org/our-reports/>`__ contributes to the education and learning sciences field by publishing research, 
+  implementation, and evaluation studieshttps://digitalpromise.org/our-reports/
 * `2022 LEARNING ENGINEERING TOOLS COMPETITION <https://toolscompetition.org/competition-overview-2022/>`__. 
 * `Intelligent tutoring systems (ITS) <https://en.wikipedia.org/wiki/Intelligent_tutoring_system>`__
 * Uno de los ITS probados en el proceso, `Korbit <https://www.korbit.ai/>`__.
@@ -287,6 +289,7 @@ Personas
 * `Ryan Baker <https://learninganalytics.upenn.edu/ryanbaker/>`__.
 * `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
 *  `Mary Helen Immordino-Yang, EdD <https://www.linkedin.com/in/maryhelen-immordinoyang/>`__.
+* `Jeremy Roschelle <https://www.linkedin.com/in/jeremy-roschelle/>`__. Research on AI & Emerging Technologies for Learning
 
 Presentaciones
 ----------------
