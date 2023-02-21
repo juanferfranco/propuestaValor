@@ -292,6 +292,7 @@ Personas
 * `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
 *  `Mary Helen Immordino-Yang, EdD <https://www.linkedin.com/in/maryhelen-immordinoyang/>`__.
 * `Jeremy Roschelle <https://www.linkedin.com/in/jeremy-roschelle/>`__. Research on AI & Emerging Technologies for Learning
+* `Theo Dawson <https://www.linkedin.com/in/theo-dawson-0b56b59/>`__. Founder and Executive Director, Lectica.
 
 Presentaciones
 ----------------
