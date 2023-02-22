@@ -101,6 +101,7 @@ Videos
 * `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
 * `Katherine McEldoon, Scaling the Science of Learning <https://youtu.be/nalbHn--wMM>`__.
 * `VCoL+7—the Virtuous Cycle of Learning <https://youtu.be/NldG2M1rynU>`__.
+* [2023-01] `2023 Festival of Learning: Keynote by Dr. Bror Saxberg <https://youtu.be/VSrsOzzjV8I>`__.
 
 Libros 
 --------
