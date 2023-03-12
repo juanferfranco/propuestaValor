@@ -99,7 +99,9 @@ Videos
 * `IEEE Standards on Learning Technology <https://youtu.be/Q0Za3hwt_ds>`__.
 * `Learning Engineering at 50 <https://youtu.be/kn_T9ON_iQQ>`__.
 * `A Transformation to Learning Engineering <https://youtu.be/FajOrOQocEM>`__.
-
+* `Katherine McEldoon, Scaling the Science of Learning <https://youtu.be/nalbHn--wMM>`__.
+* `VCoL+7—the Virtuous Cycle of Learning <https://youtu.be/NldG2M1rynU>`__.
+* [2023-01] `2023 Festival of Learning: Keynote by Dr. Bror Saxberg <https://youtu.be/VSrsOzzjV8I>`__.
 
 Libros 
 --------
@@ -201,6 +203,8 @@ Sitios Web
 `Recurso fundamental de la IEEE/ICICLE <https://sagroups.ieee.org/icicle/resources/>`__.
 
 
+* `Digital Promise <https://digitalpromise.org/our-reports/>`__ contributes to the education and learning sciences field by publishing research, 
+  implementation, and evaluation studieshttps://digitalpromise.org/our-reports/
 * `2022 LEARNING ENGINEERING TOOLS COMPETITION <https://toolscompetition.org/competition-overview-2022/>`__. 
 * `Intelligent tutoring systems (ITS) <https://en.wikipedia.org/wiki/Intelligent_tutoring_system>`__
 * Uno de los ITS probados en el proceso, `Korbit <https://www.korbit.ai/>`__.
@@ -264,7 +268,7 @@ Sitios Web
 * `Incorporan aprendizaje adaptativo como modalidad educativa en la UCR <https://www.cu.ucr.ac.cr/inicio/noticias/noticia/Articulo/incorporan-aprendizaje-adaptativo-como-modalidad-educativa-en-la-ucr.html>`__.
 * `Onebillion <https://onebillion.org/>`__ one app that delivers reading, writing and numeracy.
 * `The Student Cognition Toolbox (SCT) <https://www.unh.edu/professional-success/ceitl/resources/student-cognition-toolbox-sct>`__.
-
+* `Virtuous cycles of learning (VCoL) and the +7 skills <https://lecticalive.org/about/vcol#gsc.tab=0>`__.
 
 Relación con conceptos institucionales
 ---------------------------------------
@@ -289,13 +293,15 @@ Personas
 * `Peter Norvig <https://en.wikipedia.org/wiki/Peter_Norvig>`__.
 * `Ryan Baker <https://learninganalytics.upenn.edu/ryanbaker/>`__.
 * `María Angélica Madero <https://www.linkedin.com/in/mariangelicamadero/>`__. Posible contacto en London Interdisciplinary School.
+*  `Mary Helen Immordino-Yang, EdD <https://www.linkedin.com/in/maryhelen-immordinoyang/>`__.
+* `Jeremy Roschelle <https://www.linkedin.com/in/jeremy-roschelle/>`__. Research on AI & Emerging Technologies for Learning
+* `Theo Dawson <https://www.linkedin.com/in/theo-dawson-0b56b59/>`__. Founder and Executive Director, Lectica.
 
 Presentaciones
 ----------------
 
 * `Avance del prototipo <https://docs.google.com/presentation/d/1UIy0JdFwiprMAe_8tTZBUyk9-rmUYAspp-dLWETQzYc/edit?usp=share_link>`__.
 * `Aprender en el metaverso <https://juanferfranco.github.io/expoIng2022/>`__.
-
 
 Referencias
 --------------
