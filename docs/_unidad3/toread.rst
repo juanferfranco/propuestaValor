@@ -130,10 +130,12 @@ Grupos de investigación
 * `Penn Center for Learning Analytics <https://learninganalytics.upenn.edu/>`__.
 * `Educational Data Mining <https://educationaldatamining.org/>`__.
 
-Congresos 
+Eventos 
 ----------
 
 * `ITS2022 <https://iis-international.org/its2022-bucharest-romania/>`__.
+* `MIT, Festival of Learning <https://openlearning.mit.edu/events/festival-learning-2023>`__.
+* `ICICLE Learning Engineering <https://sagroups.ieee.org/icicle/>`__.
 
 Empresas
 ---------
