@@ -7,7 +7,8 @@ Motivación
 El programa que se presenta a continuación busca formar nuevos profesionales con competencias 
 interdisciplinarias que permitan, a su vez, repensar y crear la capacidad institucional de la Universidad para 
 formular nuevos programas interdisciplinarios y para acompañar los procesos educativos. Asimismo, esta 
-renovación deberá propiciar, desde mi opinión, un nuevo tipo de profesor, un teamcher, un mentor, un líder. 
+renovación deberá propiciar, desde mi opinión, un nuevo tipo de profesor, un teamcher, un inspirador, 
+un facilitador, un coach, un mentor, un inspirador, un emprendedor, un líder. 
 Profesores con habilidades para abordar las capacidades diversas y apoyar los procesos de desarrollo 
 personal de los estudiantes. A mi modo de ver, este tipo de profesores aún no existen, no obstante, 
 se podrían consolidar equipos de líderes interdisciplinares de tal modo que, a la par que se renuevan 
@@ -760,8 +761,8 @@ problemas.
   mecanismo que se usará para evidenciar este proceso. En procesos de formación avanzada se acostumbra la 
   escritura de un reporte final o trabajo de grado, artículos de divulgación y presentaciones orales.
 
-Mentoría
-*************
+Acompañamiento 
+****************
 
 Se propone que el programa acompañe al estudiante desde tres dimensiones:
 
@@ -785,22 +786,22 @@ Se propone que el programa acompañe al estudiante desde tres dimensiones:
 El rol del estudiante 
 ***********************
 
-* El estudiante selecciona los problemas según sus necesidades y perfil. Este proceso se realiza acompañado 
-  del mentor de desarrollo profesional y el mentor de desarrollo personal.
-* El estudiante de manera autónoma aborda los problemas acompañado por el mentor de desarrollo académico. Los otros 
-  mentores siguen disponibles a necesidad del estudiante.
-* El estudiante busca los recursos que necesite para demostrar que alcanzó la solución al problema.
+* El estudiante selecciona los problemas según sus necesidades y perfil. 
+* El estudiante aborda los problemas de manera autónoma.
+* El estudiante busca los recursos que necesite para demostrar su acercamiento a una posible 
+  solución al problema.
 
 El rol del docente 
 ***********************
 
-* Los docentes podrán acompañar desde las tres dimensiones de mentoría propuestas. Es decir, el docente no solo 
-  debe ser un experto en procesos de ingeniería del aprendizaje sino también en mentoría desde las tres dimensiones 
-  propuestas.
-* Los docentes acompañarán los procesos de evaluación auténtica y avalarán los portafolios de problemas de los estudiantes.
-* Los docentes realizarán en paralelo a sus labores de mentoría procesos de ingeniería del aprendizaje en el propio 
-  programa, otros programas de la institución o proyectos externos a la misma que permitan enriquecer el programa, 
-  las redes de contacto y la experiencia del propio docente.
+* Los docentes podrán acompañar desde las tres dimensiones propuestas. Deberán seleccionar cuándo 
+  actuar como facilitadores, coaches o mentores. Esta reflexión se deja para una futura revisión de 
+  esta propuesta.
+* Los docentes acompañarán los procesos de evaluación auténtica y avalarán los portafolios de problemas 
+  de los estudiantes.
+* Los docentes realizarán en paralelo a sus labores de acompañamiento procesos de ingeniería del aprendizaje 
+  en el propio programa, otros programas de la institución o proyectos externos a la misma que permitan 
+  enriquecer el programa, las redes de contacto y la experiencia del propio docente.
 
 El rol de la Universidad
 **************************
@@ -809,7 +810,7 @@ Se espera que la Universidad:
 
 * Provea la infraestructura necesaria para realizar los procesos de indagación e investigación autónoma propios 
   del aprendizaje basado en retos tal como lo propone la universidad ECIU `aquí <https://youtu.be/CFCSvvsPWUA>`__.
-* Provea acceso a los mentores, empresas y organizaciones que garanticen el acceso y el desarrollo acompañado 
+* Provea acceso a los docentes, empresas y organizaciones que garanticen el acceso y el desarrollo acompañado 
   de los problemas.
 
 Titulaciones y certificaciones 
