@@ -302,6 +302,7 @@ Presentaciones
 
 * `Avance del prototipo <https://docs.google.com/presentation/d/1UIy0JdFwiprMAe_8tTZBUyk9-rmUYAspp-dLWETQzYc/edit?usp=share_link>`__.
 * `Aprender en el metaverso <https://juanferfranco.github.io/expoIng2022/>`__.
+* `Por qué Ingeniería del Aprendizaje <https://docs.google.com/presentation/d/1wQutd7V4lPqbEpYd-pa28-A_3MGbomh3yAmrth9LqEg/edit?usp=sharing>`__.
 * `Presentación Ingeniería del aprendizaje <https://upbeduco.sharepoint.com/:p:/s/SharepointUPBVirtual/EYudVXzGx41OnoG9KeX_7ooB3cZPtMY7mMa_QqRhlc0wjg?e=sSwncx>`__.
 
 Referencias
