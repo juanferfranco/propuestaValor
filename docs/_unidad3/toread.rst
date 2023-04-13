@@ -202,7 +202,7 @@ Sitios Web
 
 `Recurso fundamental de la IEEE/ICICLE <https://sagroups.ieee.org/icicle/resources/>`__.
 
-* `Pearson: evidence about learning <https://www.pearson.com/en-gb/efficacy/learning-evidence.html#oldp>`.
+* `Pearson: evidence about learning <https://www.pearson.com/en-gb/efficacy/learning-evidence.html#oldp>`__.
 * `Digital Promise <https://digitalpromise.org/our-reports/>`__ contributes to the education and learning sciences field by publishing research, 
   implementation, and evaluation studieshttps://digitalpromise.org/our-reports/
 * `2022 LEARNING ENGINEERING TOOLS COMPETITION <https://toolscompetition.org/competition-overview-2022/>`__. 
