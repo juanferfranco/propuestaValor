@@ -202,7 +202,7 @@ Sitios Web
 
 `Recurso fundamental de la IEEE/ICICLE <https://sagroups.ieee.org/icicle/resources/>`__.
 
-
+* `Pearson: evidence about learning <https://www.pearson.com/en-gb/efficacy/learning-evidence.html#oldp>`.
 * `Digital Promise <https://digitalpromise.org/our-reports/>`__ contributes to the education and learning sciences field by publishing research, 
   implementation, and evaluation studieshttps://digitalpromise.org/our-reports/
 * `2022 LEARNING ENGINEERING TOOLS COMPETITION <https://toolscompetition.org/competition-overview-2022/>`__. 
@@ -296,6 +296,7 @@ Personas
 *  `Mary Helen Immordino-Yang, EdD <https://www.linkedin.com/in/maryhelen-immordinoyang/>`__.
 * `Jeremy Roschelle <https://www.linkedin.com/in/jeremy-roschelle/>`__. Research on AI & Emerging Technologies for Learning
 * `Theo Dawson <https://www.linkedin.com/in/theo-dawson-0b56b59/>`__. Founder and Executive Director, Lectica.
+* `Katherine McEldoon <https://themindinmind.com/>`__.
 
 Presentaciones
 ----------------
