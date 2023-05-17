@@ -306,6 +306,20 @@ Presentaciones
 * `Por qué Ingeniería del Aprendizaje <https://docs.google.com/presentation/d/1wQutd7V4lPqbEpYd-pa28-A_3MGbomh3yAmrth9LqEg/edit?usp=sharing>`__.
 * `Presentación Ingeniería del aprendizaje <https://github.com/juanferfranco/propuestaValor/blob/master/Presentaci%C3%B3n%20Ingenier%C3%ADa%20del%20aprendizaje.pptx>`__.
 
+
+Seguimiento al desarrollo de Learning Engineering
+---------------------------------------------------
+
+* `Episode 149 | Applying Human-Centered Engineering Methods to Learning <https://silverliningforlearning.org/episode-149-applying-human-centered-engineering-methods-to-learning/>`__.
+* Libro `Data & Analytics for Instructional Designers <https://www.amazon.com/Analytics-Instructional-Designers-Megan-Torrance/dp/1953946445>`__.
+
+Desarrollo socioemocional
+--------------------------
+
+* `Challenging Negative Automatic Thoughts <https://positivepsychology.com/challenging-automatic-thoughts-positive-thoughts-worksheets/>`__.
+* Persona, `Gary Weber <https://www.youtube.com/@GaryWeber/about>`__.
+* Persona, `Anthony Metivier <https://www.youtube.com/@AnthonyMetivierMMM/about>`__.
+
 Referencias
 --------------
 
