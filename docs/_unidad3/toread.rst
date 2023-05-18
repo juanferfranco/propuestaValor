@@ -297,6 +297,7 @@ Personas
 * `Jeremy Roschelle <https://www.linkedin.com/in/jeremy-roschelle/>`__. Research on AI & Emerging Technologies for Learning
 * `Theo Dawson <https://www.linkedin.com/in/theo-dawson-0b56b59/>`__. Founder and Executive Director, Lectica.
 * `Katherine McEldoon <https://themindinmind.com/>`__.
+* `Luz Patricia Rave Herrera <https://www.linkedin.com/in/luz-patricia-rave-herrera-80705429>`__.
 
 Presentaciones
 ----------------
