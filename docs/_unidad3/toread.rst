@@ -26,6 +26,14 @@ Posible curso para la comunidad de la institución:
 * `Mary Helen Immordino Yang: Are we giving students a REASON to LEARN? COGx & Yale SOM <https://youtu.be/fRezF7gAC-M>`__.
 * `Rethinking Learning <https://youtu.be/fJoMoyoFooo>`__.
 
+
+Podcasts
+----------
+
+* EduTrends del TEC. Ep. 38: `Forecasting the future of education and lifelong learning 
+  with Stephen Harmon <https://observatory.tec.mx/edutrends-podcast-episode/ep-38-forecasting-the-future-of-education-and-lifelong-learning-with-stephen-harmon/>`__.
+
+
 Videos
 -------
 
