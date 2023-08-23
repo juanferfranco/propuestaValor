@@ -269,6 +269,8 @@ Sitios Web
 * `Onebillion <https://onebillion.org/>`__ one app that delivers reading, writing and numeracy.
 * `The Student Cognition Toolbox (SCT) <https://www.unh.edu/professional-success/ceitl/resources/student-cognition-toolbox-sct>`__.
 * `Virtuous cycles of learning (VCoL) and the +7 skills <https://lecticalive.org/about/vcol#gsc.tab=0>`__.
+* The Georgia Institute of Technology. Report: `Creating the Next in Education <https://provost.gatech.edu/sites/default/files/documents/deliberate_innovation_lifetime_education.pdf>`__.
+
 
 Relación con conceptos institucionales
 ---------------------------------------
