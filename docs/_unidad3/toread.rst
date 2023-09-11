@@ -203,7 +203,9 @@ Artículos
 * IEEE IC INDUSTRY CONSORTIUM ON LEARNING ENGINEERING 
   `Proceedings of the 2019 Conference <https://sagroups.ieee.org/icicle/wp-content/uploads/sites/148/2020/07/ICICLE_Proceedings_Learning-Engineering.pdf>`__ on Learning Engineering.
 * `High-Leverage Opportunities for Learning Engineering <https://learninganalytics.upenn.edu/Learning_Engineering_recommendations.pdf>`__.
-
+* `Interdisciplinary Education <https://www.lucasedresearch.org/wp-content/uploads/2022/04/InterdisciplinaryEducation_LandscapeAnalysis_Final.pdf>`__ Literature Review and Landscape Analysis.
+* `Designing Project Based Learning Curricula <https://www.lucasedresearch.org/wp-content/uploads/2022/05/Designing-PBL-Curricula_22.pdf>`__: Leveraging curriculum development ç
+  for deeper and more equitable learning
 
 Sitios Web 
 ------------
@@ -278,6 +280,12 @@ Sitios Web
 * `The Student Cognition Toolbox (SCT) <https://www.unh.edu/professional-success/ceitl/resources/student-cognition-toolbox-sct>`__.
 * `Virtuous cycles of learning (VCoL) and the +7 skills <https://lecticalive.org/about/vcol#gsc.tab=0>`__.
 * The Georgia Institute of Technology. Report: `Creating the Next in Education <https://provost.gatech.edu/sites/default/files/documents/deliberate_innovation_lifetime_education.pdf>`__.
+* `Edutopia <https://www.edutopia.org/about>`__.
+* `PROJECT-BASED LEARNING (PBL) <https://www.edutopia.org/article/a-framework-for-fostering-rigor-in-pbl#:~:text=Rigorous%20PBL%20is%20an%20inquiry-based%20methodology%20that%20follows,learn%20each%20level%20to%20accomplish%20a%20challenging%20task.>`__ A Framework for Fostering Rigor in PBL
+* `Lucasedresearch.org <https://www.lucasedresearch.org/mission/>`__.
+* `Blended learning <https://www.edutopia.org/topic/blended-learning>`__.
+* `Stanford OPEN LOOP UNIVERSITY <http://www.stanford2025.com/open-loop-university>`__.
+* `Uncharted Territory: A Guide to Reimagining Higher Education <https://dschool.stanford.edu/unchartedterritory>`__.
 
 
 Relación con conceptos institucionales
@@ -308,6 +316,7 @@ Personas
 * `Theo Dawson <https://www.linkedin.com/in/theo-dawson-0b56b59/>`__. Founder and Executive Director, Lectica.
 * `Katherine McEldoon <https://themindinmind.com/>`__.
 * `Luz Patricia Rave Herrera <https://www.linkedin.com/in/luz-patricia-rave-herrera-80705429>`__.
+* `Philippa Hardman <https://www.linkedin.com/in/dr-philippa-hardman-057851120/?originalSubdomain=uk>`__.
 
 Presentaciones
 ----------------
