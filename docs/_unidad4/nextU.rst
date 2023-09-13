@@ -173,11 +173,14 @@ búsqueda de propósito``. Por ejemplo:
    más significado.
 5. Etapa de Emprendimiento Social
 
-La siguiente sección aborda la exploración de usuarios personas para 
+La siguiente sección aborda la exploración de usuarios para 
 algunos de los segmentos de mercado propuestos.
 
+Usuarios
+-----------
+
 User persona
-----------------
+*****************
 
 .. figure:: ../_static/JuanGarcia.png
    :alt: Juan García
@@ -191,11 +194,11 @@ User persona
 
 |
 
-**Nombre:** Juan García   
-**Edad:** 55 años   
-**Género:** Masculino  
-**Lugar de Residencia:** Ciudad metropolitana en América Latina en un barrio de clase media alta  
-**Promedio de Ingresos Familiares:** 15 millones mensuales  
+* **Nombre:** Juan García   
+* **Edad:** 55 años   
+* **Género:** Masculino  
+* **Lugar de Residencia:** Ciudad metropolitana en América Latina en un barrio de clase media alta  
+* **Promedio de Ingresos Familiares:** 15 millones mensuales  
 
 **Historial Educativo y Laboral:**
 
@@ -230,26 +233,22 @@ User persona
 - Explorar oportunidades para compartir su experiencia a través de charlas o conferencias en su industria.
 - Desarrollar habilidades interpersonales más sólidas para mejorar la gestión de su equipo.
 
-**Retos:**
-
-**Primarios:**
+**Retos primarios:**
 
 - Encontrar formas de mantenerse motivado y apasionado por su trabajo después de tantos años en la misma empresa.
 - Superar la resistencia al cambio y explorar nuevas formas de trabajar y liderar.
 
-**Secundarios:**
+**Retos secundarios:**
 
 - Adaptarse a las nuevas tecnologías y herramientas digitales en un entorno laboral en constante evolución.
 - Encontrar tiempo suficiente para dedicarse a sus pasatiempos y relaciones personales sin comprometer su rendimiento laboral.
 
-**Planes de Acción:**
-
-**Primarios:**
+**Planes de acción primarios:**
 
 - Buscar oportunidades de mentoría inversa, donde pueda aprender de jóvenes profesionales en la empresa y viceversa.
 - Inscribirse en cursos de liderazgo y gestión del cambio para mantenerse actualizado en sus habilidades de liderazgo.
 
-**Secundarios:**
+**Planes de acción secundarios:**
 
 - Participar en grupos de networking y asociaciones profesionales para mejorar sus habilidades interpersonales y aprender de sus colegas.
 - Asignar bloque de tiempo específicos en su calendario para sus pasatiempos y relaciones personales, y tratarlos con la misma importancia que su trabajo.
@@ -302,8 +301,258 @@ Juan valora la importancia del equilibrio entre el trabajo y la vida personal, y
 
 En general, Juan García se sumerge en medios y actividades que fomentan su desarrollo profesional y personal, manteniéndose informado y conectado con su industria y su círculo social mientras busca un equilibrio entre el aprendizaje y el disfrute.
 
+Mapa de experiencia
+********************
+
+1. **Despertar y Rutina Matutina:**
+
+    - Momento: mañana.
+    - Acciones: despertar, prepararse para el día, estiramientos y meditación.
+    - Recursos: reloj despertador, espacio tranquilo para meditar.
+    - Sensaciones: anticipación, preocupación leve, sensación de energía después de estiramientos y meditación.
+    - Puntos de Mejora: explorar técnicas de meditación más avanzadas para gestionar la preocupación.
+
+2. **Trayecto al Trabajo:**
+
+    - Momento: mañana.
+    - Acciones: conducir, planificación mental.
+    - Recursos: automóvil, radio.
+    - Sensaciones: anticipación, concentración en la planificación.
+    - Puntos de Mejora: practicar técnicas de manejo del estrés durante el tráfico.
+
+3. **Día Laboral en la Oficina:**
+
+    - Momento: mañana y tarde.
+    - Acciones: liderar reuniones, colaborar con el equipo, tomar decisiones.
+    - Recursos: ordenador, documentos, planificador.
+    - Sensaciones: propósito, satisfacción por colaboración, estrés en momentos desafiantes.
+    - Puntos de Mejora: desarrollar estrategias de gestión del estrés para momentos de presión.
+
+4. **Almuerzo y Descanso:**
+
+    - Momento: mediodía.
+    - Acciones: almorzar, leer artículos en línea.
+    - Recursos: almuerzo, dispositivo móvil.
+    - Sensaciones: desconexión breve, interés por las novedades de la industria.
+    - Puntos de Mejora: explorar técnicas de desconexión más efectivas durante el descanso.
+
+5. **Tarde en el Trabajo:**
+
+    - Momento: tarde.
+    - Acciones: gestionar tareas, avanzar en proyectos.
+    - Recursos: ordenador, calendario.
+    - Sensaciones: logro, avance, posible fatiga.
+    - Puntos de Mejora: planificar pausas cortas para evitar la fatiga y mantener la concentración.
+
+6. **Regreso a Casa:**
+
+    - Momento: tarde.
+    - Acciones: conducir de regreso a casa, escuchar podcast.
+    - Recursos: automóvil, dispositivo móvil, podcast.
+    - Sensaciones: reflexión, interés por el podcast.
+    - Puntos de Mejora: considerar alternativas al tráfico para reducir el estrés del viaje.
+
+7. **Tiempo Personal y Socialización:**
+
+    - Momento: tarde.
+    - Acciones: practicar pasatiempos, interactuar con la familia.
+    - Recursos: libros, piano, familia.
+    - Sensaciones: satisfacción, conexión, anticipación por actividades sociales.
+    - Puntos de Mejora: planificar actividades sociales más variadas y frecuentes.
+
+8. **Tiempo de Inmersión:**
+
+    - Momento: noche.
+    - Acciones: leer libros de desarrollo personal.
+    - Recursos: libros, entorno tranquilo.
+    - Sensaciones: reflexión profunda, inspiración.
+    - Puntos de Mejora: explorar diferentes géneros literarios para enriquecer la lectura.
+
+9. **Sensaciones Emocionales Generales:**
+
+    - Sensaciones: satisfacción por logros, inquietud por desafíos futuros.
+    - Puntos de Mejora: practicar técnicas de autocompasión para manejar la inquietud.
+
+10. **Valores y Filosofías Representativos:**
+
+    - Valores: perseverancia, aprendizaje constante, equilibrio.
+    - Filosofías: mentalidad de crecimiento, equilibrio entre trabajo y vida.
+    - Puntos de Mejora: profundizar en la aplicación práctica de las filosofías en momentos de estrés.
+
+Posibles programas Trayectos 3C
+---------------------------------
+
+De el ejercicio anterior con los user personas (solo se muestra una) se lograron 
+identificar unos posibles programas para ofrecer. Los programas se implementan usando 
+los módulos de Trayectos 3C: CREER, CRECER y CREAR, de manera modular, es decir, 
+algunos programas podrán tener un módulo, otros dos y otros los tres o combinaciones 
+diferentes entre ellos. Por ejemplo:
+
+Programas 
+**********
+
+1. **Descubre Tu Camino Único (Creer):** Acompañamos y apoyamos a personas en diversas etapas de la vida en un trayecto de exploración y autodescubrimiento. A través de la metodología de diseño de vida, los participantes definen sus valores, intereses y pasiones. Mediante desafíos personalizados, crean una visión de vida significativa y auténtica.
+2. **Navega Tu Transformación (Creer y Crecer):** Diseñado para momentos de cambio personal, este trayecto integra el diseño de vida con habilidades prácticas. Los participantes exploran su identidad y metas, aplicando la metodología de diseño de vida. Además, se sumergen en desafíos del challenge-based learning para fortalecer habilidades y afrontar el cambio con confianza.
+3. **Equilibra Tu Camino (Creer y Crecer):** Enfocado en el bienestar integral, este trayecto combina diseño de vida y habilidades prácticas. Los participantes identifican sus prioridades mediante la metodología de diseño de vida. Con desafíos del challenge-based learning, desarrollan habilidades para llevar un estilo de vida equilibrado.
+4. **Reinventa Tu Trayectoria (Creer y Crear):** Para aquellos en búsqueda de un nuevo rumbo, este trayecto fusiona diseño de vida y emprendimiento. Los participantes exploran sus aspiraciones utilizando la metodología de diseño de vida. Luego, se sumergen en ejercicios emprendedores, creando proyectos alineados con su visión.
+5. **Abraza Tu Legado (Creer y Crecer):** Diseñado para adultos mayores, este trayecto se centra en legado y habilidades. Los participantes aplican la metodología de diseño de vida para reflejar sobre su impacto. Desafíos del challenge-based learning les permiten compartir sabiduría y habilidades con generaciones más jóvenes.
+6. **Eleva Tu Impacto (Crecer y Crear):** Dirigido a agentes de cambio, este trayecto enfatiza habilidades y acción. Los participantes fortalecen sus habilidades mediante el challenge-based learning. Luego, aplican enfoques emprendedores para llevar a cabo proyectos de impacto social.
+7. **Enciende Tu Impacto (Crecer y Crear):** Diseñado para quienes desean mayor impacto, este trayecto impulsa habilidades y ejecución. Los participantes mejoran habilidades mediante el challenge-based learning. Luego, aplican enfoques emprendedores para desarrollar proyectos que generen cambios significativos.
+8. **Celebra Tu Sabiduría (Creer y Crecer):** Para adultos mayores, este trayecto honra conocimientos y desarrollo personal. Los participantes aplican la metodología de diseño de vida para reflexionar sobre su vida. Además, participan en desafíos del challenge-based learning para compartir su sabiduría.
+9. **Navega Tu Transición (Creer y Crecer):** Enfocado en momentos de cambio, este trayecto fusiona diseño de vida y desarrollo de habilidades. Los participantes exploran la metodología de diseño de vida en transiciones. Luego, enfrentan desafíos del challenge-based learning para fortalecer habilidades en esta etapa.
+10. **Potencia Tu Futuro (Crecer y Crear):** Diseñado para jóvenes, este trayecto impulsa habilidades y metas. Los participantes desarrollan habilidades mediante el challenge-based learning. Luego, aplican enfoques emprendedores para crear proyectos que les encaminen hacia un futuro prometedor.
+11. **Prospera en Tu Vida (Creer, Crecer y Crear):** Un trayecto integral para todas las edades, que fusiona diseño de vida, habilidades y emprendimiento. Los participantes exploran su visión de vida, fortalecen habilidades mediante el challenge-based learning y crean proyectos con impacto, abriendo camino a una vida plena y significativa.
+
+Elaboración de los programas
+******************************
+
+1. **Descubre Tu Camino Único (Creer):**
+
+    - Objetivo: Guiar a individuos en la exploración de sus valores, intereses y pasiones para diseñar una visión de vida auténtica.
+    - Componentes: Ejercicios de autoexploración, metodología de diseño de vida, sesiones de reflexión y definición de una visión personal.
+    - Resultados Esperados: Una visión clara de vida, alineada con valores personales y pasiones, sentimiento de propósito y dirección.
+
+2. **Navega Tu Transformación (Creer y Crecer):**
+
+    - Objetivo: Apoyar a personas en momentos de cambio personal para explorar su identidad y metas, y desarrollar habilidades para afrontar transiciones.
+    - Componentes: Metodología de diseño de vida, ejercicios de reflexión, desafíos de challenge-based learning para habilidades de adaptación.
+    - Resultados Esperados: Mayor claridad en la identidad, habilidades para enfrentar cambios, confianza en la navegación de transiciones.
+
+3. **Equilibra Tu Camino (Creer y Crecer):**
+
+    - Objetivo: Ayudar a las personas a identificar y equilibrar sus prioridades en la vida, mientras desarrollan habilidades para un bienestar integral.
+    - Componentes: Metodología de diseño de vida, ejercicios de priorización, desafíos de challenge-based learning para habilidades de bienestar.
+    - Resultados Esperados: Estrategias para equilibrar vida personal y profesional, habilidades para mantener bienestar.
+
+4. **Reinventa Tu Trayectoria (Creer y Crear):**
+
+    - Objetivo: Facilitar la exploración de nuevos rumbos y emprendimientos al combinar diseño de vida con la creación de proyectos impactantes.
+    - Componentes: Metodología de diseño de vida, ejercicios emprendedores, desarrollo de proyectos con enfoque en el impacto.
+    - Resultados Esperados: Identificación de nuevas oportunidades, habilidades para la creación y lanzamiento de proyectos.
+
+5. **Abraza Tu Legado (Creer y Crecer):**
+
+    - Objetivo: Brindar a adultos mayores un espacio para reflexionar sobre su impacto y transmitir sabiduría a generaciones más jóvenes.
+    - Componentes: Metodología de diseño de vida, ejercicios de reflexión sobre legado, desafíos de challenge-based learning para compartir conocimientos.
+    - Resultados Esperados: Mayor conexión con el legado personal, habilidades para transmitir sabiduría, impacto en las generaciones más jóvenes.
+
+6. **Eleva Tu Impacto (Crecer y Crear):**
+
+    - Objetivo: Potenciar las habilidades de agentes de cambio para ejecutar proyectos de impacto social mediante el challenge-based learning.
+    - Componentes: Desafíos de challenge-based learning, desarrollo de habilidades de liderazgo y gestión de proyectos.
+    - Resultados Esperados: Habilidades avanzadas de liderazgo, ejecución exitosa de proyectos de impacto social.
+
+7. **Enciende Tu Impacto (Crecer y Crear):**
+
+    - Objetivo: Impulsar el impacto mediante la ejecución de proyectos con enfoque en desafíos sociales a través del challenge-based learning y emprendimiento.
+    - Componentes: Desafíos de challenge-based learning, ejercicios emprendedores avanzados, colaboración en proyectos de alto impacto.
+    - Resultados Esperados: Creación y ejecución exitosa de proyectos de impacto social, amplificación del impacto.
+
+8. **Celebra Tu Sabiduría (Creer y Crecer):**
+
+    - Objetivo: Proporcionar a adultos mayores un espacio para reflexionar sobre sus vidas y compartir su sabiduría con la comunidad.
+    - Componentes: Metodología de diseño de vida para reflexión, desafíos de challenge-based learning para compartir sabiduría.
+    - Resultados Esperados: Mayor autoconciencia, habilidades para compartir sabiduría, impacto en la comunidad.
+
+9. **Navega Tu Transición (Creer y Crecer):**
+
+    - Objetivo: Ayudar a individuos en momentos de cambio a explorar su visión y desarrollar habilidades para adaptarse y prosperar.
+    - Componentes: Metodología de diseño de vida aplicada a transiciones, desafíos de challenge-based learning para habilidades de transición.
+    - Resultados Esperados: Habilidad para navegar transiciones con confianza, alineación con la visión personal. 
+
+10. **Potencia Tu Futuro (Crecer y Crear):**
+
+    - Objetivo: Capacitar a jóvenes con habilidades y enfoques emprendedores para que creen proyectos con potencial futuro.
+    - Componentes: Desafíos de challenge-based learning para desarrollo de habilidades, ejercicios emprendedores para la creación de proyectos.
+    - Resultados Esperados: Desarrollo de habilidades esenciales, proyectos con potencial emprendedor.
+
+11. **Prospera en Tu Vida (Creer, Crecer y Crear):**
+
+    - Objetivo: Proporcionar un trayecto completo que integra diseño de vida, desarrollo de habilidades y emprendimiento para una vida plena.
+    - Componentes: Metodología de diseño de vida, desafíos de challenge-based learning para habilidades, ejercicios emprendedores para la creación de proyectos.
+    - Resultados Esperados: Vida significativa y equilibrada, habilidades para la acción y el impacto.
+
+User personas para los programas 
+**********************************
+
+1. **Descubre Tu Camino Único (Creer):**
+
+    - Nombre: Ana
+    - Edad: 20 años
+    - Descripción: Estudiante universitaria llena de inquietudes y pasiones, pero busca claridad en su camino y propósito en la vida.
+    - Objetivo: Encontrar su dirección personal y definir una visión auténtica para su futuro.
+
+2. **Navega Tu Transformación (Creer y Crecer):**
+
+    - Nombre: Carlos
+    - Edad: 35 años
+    - Descripción: Profesional en transición de carrera, enfrentando cambios que lo han dejado en busca de autoconocimiento y nuevas oportunidades.
+    - Objetivo: Comprender su identidad en esta etapa y adquirir habilidades para enfrentar con éxito la transición.
+
+3. **Equilibra Tu Camino (Creer y Crecer):**
+
+    - Nombre: María
+    - Edad: 28 años
+    - Descripción: Profesional joven que lucha por mantener un equilibrio entre su carrera, salud y vida personal, buscando formas de priorizar su bienestar.
+    - Objetivo: Desarrollar habilidades para equilibrar sus responsabilidades mientras se cuida a sí misma.
+
+4. **Reinventa Tu Trayectoria (Creer y Crear):**
+
+    - Nombre: Javier
+    - Edad: 45 años
+    - Descripción: Ejecutivo corporativo que busca un cambio radical en su vida y explorar oportunidades emprendedoras que alineen con sus pasiones.
+    - Objetivo: Explorar nuevas direcciones y desarrollar proyectos que tengan un impacto significativo.
+
+5. **Abraza Tu Legado (Creer y Crecer):**
+
+    - Nombre: Elena
+    - Edad: 65 años
+    - Descripción: Jubilada activa con un deseo de compartir su experiencia y conocimiento con las generaciones más jóvenes, buscando un sentido de legado.
+    - Objetivo: Reflejar sobre su legado y transmitir su sabiduría a través de proyectos con impacto.
+
+6. **Eleva Tu Impacto (Crecer y Crear):**
+
+    - Nombre: Andrés
+    - Edad: 30 años
+    - Descripción: Defensor de causas sociales, involucrado en proyectos comunitarios, pero busca fortalecer sus habilidades para tener un mayor impacto.
+    - Objetivo: Desarrollar habilidades de liderazgo y gestión para ejecutar proyectos sociales con éxito.
+
+7. **Enciende Tu Impacto (Crecer y Crear):**
+
+    - Nombre: Laura
+    - Edad: 28 años
+    - Descripción: Emprendedora social apasionada por abordar desafíos globales, pero busca ampliar su alcance y crear proyectos más impactantes.
+    - Objetivo: Potenciar sus habilidades y desarrollar proyectos de mayor envergadura en el ámbito social.
+
+8. **Celebra Tu Sabiduría (Creer y Crecer):**
+
+    - Nombre: Antonio
+    - Edad: 70 años
+    - Descripción: Retirado con vasta experiencia profesional y personal, motivado a compartir sus conocimientos con la comunidad.
+    - Objetivo: Reflexionar sobre su vida y transmitir su sabiduría a través de desafíos creativos.
+
+9. **Navega Tu Transición (Creer y Crecer):**
+
+    - Nombre: Sofía
+    - Edad: 45 años
+    - Descripción: Madre reciente enfrentando la transición a un nuevo rol familiar y profesional, en busca de guía y habilidades para prosperar en esta etapa.
+    - Objetivo: Navegar la transición con confianza, identificar nuevas metas y adquirir habilidades clave.
+
+10. **Potencia Tu Futuro (Crecer y Crear):**
+
+    - Nombre: Juan
+    - Edad: 18 años
+    - Descripción: Estudiante de preparatoria con sueños ambiciosos y deseos de adquirir habilidades que lo impulsen hacia un futuro exitoso.
+    - Objetivo: Desarrollar habilidades clave y emprender proyectos que lo acerquen a su visión de futuro.
+
+11. **Prospera en Tu Vida (Creer, Crecer y Crear):**
+
+    - Nombre: Ana María
+    - Edad: 50 años
+    - Descripción: Profesional en búsqueda de un equilibrio significativo en todas las áreas de su vida y con aspiraciones de generar un impacto positivo.
+    - Objetivo: Diseñar una vida equilibrada, fortalecer habilidades y crear proyectos con un propósito duradero.
 
 ¿Cómo funciona Trayectos 3C?
 -----------------------------
 
-
+(TODO)
