@@ -3,8 +3,6 @@ Trayectos 3C: creer, crecer, crear
 
 Autor de este documento: Juan Fernando Franco Higuita
 
-Autores del proyecto Delfín: Beatriz Elena Lopez Velez, Juliana Restrepo Jaramillo, Juan Fernando Franco Higuita
-
 Programa marco: proyecto creación de valor
 
 .. toctree::
