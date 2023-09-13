@@ -1,21 +1,18 @@
-Propuesta de creación de valor 
-===============================================================================
-
-Autores del proyecto Delfín: Beatriz Elena Lopez Velez, Juliana Restrepo Jaramillo, Juan Fernando Franco Higuita
+Trayectos 3C: creer, crecer, crear
+====================================
 
 Autor de este documento: Juan Fernando Franco Higuita
 
-Contribuciones: Andres Ochoa Duque, Jully Paulina Gomez Zapata, Karol Marcela Villa Trujillo
+Autores del proyecto Delfín: Beatriz Elena Lopez Velez, Juliana Restrepo Jaramillo, Juan Fernando Franco Higuita
 
-Programa: proyecto creación de valor 2022-20
+Programa marco: proyecto creación de valor
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: SECCIONES
 
    Introducción <_intro/intro>
    Referentes <_unidad1/referentes>
-   Prototipo <_unidad2/prototipo>
-   Información revisada <_unidad3/toread>
+   Ingeniería del aprendizaje <_unidad2/prototipo>
    Trayectos 3C <_unidad4/nextU>
-
+   Información revisada <_unidad3/toread>
