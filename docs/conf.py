@@ -19,12 +19,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Proyecto propuesta de creación de valor'
-copyright = '2022, Juan Franco'
+project = 'Trayectos 3C: CREER, CRECER, CREAR'
+copyright = '2023, Juan Franco'
 author = 'Juan Franco'
 
 # The short X.Y version
-version = '2022-20'
+version = '2023-20'
 # The full version, including alpha/beta/rc tags
 release = 'rc'
 
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Proyecto Creación de Valor'
+htmlhelp_basename = 'Trayectos 3C'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'propuestaValor.tex', 'Proyecto Creación de valor',
+    (master_doc, 'trayectos3C.tex', 'Trayectos 3C',
      'Juan Franco', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'propuestaValor', 'Proyecto Creación de Valor',
+    (master_doc, 'trayectos3C', 'Trayectos 3C',
      [author], 1)
 ]
 
@@ -148,7 +148,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'propuestaValor', 'Documentación para el proyecto de creación de valor',
-     author, 'propuestaValor', 'Documentación del proyecto propuesta creación de valor',
+    (master_doc, 'trayectos3C', 'Documentación para el proyecto trayectos 3C',
+     author, 'trayectos3C', 'Documentación para el proyecto trayectos 3C',
      'Miscellaneous'),
 ]
