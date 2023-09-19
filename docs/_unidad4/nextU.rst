@@ -986,8 +986,36 @@ como grupales.
       alineación operacional.
 
 
-(TODO)
+Secciones en elaboración 
+---------------------------
 
+Biografía del aprendizaje
+******************************
+
+A lo largo de Trayectos 3C se elaboran constantemente evidencias 
+que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplean la 
+evaluación como el mecanismos tradicional sumativo. Más bien, usan la evaluación 
+como un proceso de mejora continua que apunta a la realización de metacognitivos 
+para aprender a apreder. Las evidencias generadas en los Trayecos nutren una 
+gran base datos potenciada con grandes modelos de lenguaje (LLM) y herramientas 
+generativas que permiten visualizar y caracterizar a las personas que 
+hacen parte de la comunidad de Trayectos 3C. Estos datos y herramientas 
+tienen como propósito permitir encontrar ``MATCHES`` entre las mismas 
+personas de la comunidad y terceros que desean encontrar ``TALENTO`` o socios 
+para emprender. 
+
+.. note:: POSIBLE PRODUCTO 
+
+    La base de datos de las biografías del aprendizaje podría convertirse 
+    en un producto que permita a las personas encontrar sus ``MATCH``. 
+    Esta base de datos potenciada con un LLM y algoritmos podría alimentarse con 
+    problemas, preguntas guía o requerimientos. La herramienta encontraría 
+    entonces posible grupos de personas que puedan contribuir a la 
+    solicitud. Por ejemplo: buscar mentorías, coaches, socios, compañeros 
+    de equipo, empleados, etc.
+
+Redefinición del módulo crear
+******************************
 El módulo de crear se está quedando corto en términos de la propuesta de 
 valor que busca acompañar y apoyar al emprendedor desde la conceptualización 
 del negocio hasta su primera facturación. Validar las siguientes ideas con Diana:
@@ -1070,3 +1098,61 @@ Posibles fases de acompañamiento y apoto para el módulo crear:
     * Individuales: análisis de métricas, ajustes en el modelo de negocio.
     * Grupales: reuniones con mentores, talleres de escalamiento, capacitaciones 
       avanzadas en áreas específicas.
+
+Pitch 
+*******
+
+**Propósito:**
+
+Este pitch tiene como propósito, en principio, comunicar a otros profesores 
+y tomadores de decisión el proyecto Trayectos 3C. Buscamos que el 
+pitch tenga un formato de storytelling desde mi experiencia
+
+**Partes del pitch:**
+
+1. Apertura: se abre con una pregunta ¿Qué motivó esta propuesta?
+
+    - Ingresé a la UPB como docente en el año 2014. El primer 
+      reto fue estudiar el modelo pedagógico y buscar cómo implementarlo 
+      en mis cursos.
+    - Segundo semestre de 2020. Pandemia. El vicerrector académico lanza un reto. 
+      Tenemos un brecha entre el modelo pedagógico y las experiencias 
+      de aula.
+
+2. Mostrar el problema: 
+
+    - CONECTAR CON DATOS.
+    - Mostrar datos relacionados con asuntos de salud mental, mercado 
+      laboral, retos de sostenibilidad, proyecciones futuras, mercado 
+      cambiante, APRENDIZAJE para toda la vida.
+    - Introducir los momentos o TRANSICIONES a lo largo de la vida 
+      donde Trayectos 3C estaría apuntando.
+
+3. Hacer los problemas personales: 
+
+    - Narrar desde mi experiencia de vida y la de otras personas que me rodean 
+      esos momentos de transición que dan sentido a los VIAJES de vida 
+      que se pueden construir con Trayectos 3C (los viajes de vida 
+      se han llamado PROGRAMAS, pero creo que deberíamos nombralos de 
+      otra manera para no confundirlos con programas tradicionales).
+
+4. ¿Cómo generaría valor la Institución en cada VIAJE de vida?
+
+5. ¿Cómo funcionan los viajes de vida de Trayectos 3C (Cómo funcionaría 
+   el prototipo, pero sin usar esa palabra)?
+
+    - Mostrar ese funcionamiento desde la perspectiva de Storytelling.
+    - Mostrar posibles productos y/o servicios que podríamos ofrecer.
+
+6. ¿Qué tenemos? ¿Qué necesitamos?
+
+    - Tenemos personas, talento humano.
+    - Necesitamos potenciarlo con tecnología.
+    - Necesitamos teamchers (concepto ECIU). Personas con competencias 
+      para abordar los 3 módulos de Trayectos 3C. Que entiendan toda 
+      cómo funciona todo el proceso.
+
+7. MVP
+
+    - 2 slides: uno que muestre los posibles viajes de vida (las transiciones) y 
+      el el otro que le haga zoom a alguno de ellos para costearlo.
