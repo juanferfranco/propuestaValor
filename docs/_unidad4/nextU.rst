@@ -985,3 +985,88 @@ como grupales.
     * En grupo: talleres de estrategia, sesiones de formación y reuniones de 
       alineación operacional.
 
+
+(TODO)
+
+El módulo de crear se está quedando corto en términos de la propuesta de 
+valor que busca acompañar y apoyar al emprendedor desde la conceptualización 
+del negocio hasta su primera facturación. Validar las siguientes ideas con Diana:
+
+Posibles fases de acompañamiento y apoto para el módulo crear:
+
+1. Descubrimiento y Formulación del Concepto
+
+* Propósito: ayudar a los emprendedores a identificar oportunidades de negocio y 
+  formular su idea inicial.
+* Resultados esperados: tener una idea de negocio clara y viable.
+* Actividades:
+
+    * Individuales: investigación de mercado, `análisis SWOT <https://en.wikipedia.org/wiki/SWOT_analysis>`__.
+    * Grupales: Talleres de brainstorming, mentorías con expertos en industrias 
+      relacionadas, actividades de networking con otros emprendedores.
+
+2. Elaboración del Flourishing Business Canvas
+
+* Propósito: convertir la idea de negocio en un modelo de negocio sostenible y 
+  de valor.
+* Resultados esperados: Flourishing Business Canvas completado y validado.
+* Actividades:
+
+    * Individuales: rellenar cada sección del canvas, validar hipótesis.
+    * Grupales: talleres de retroalimentación, sesiones de validación con mentores, 
+      capacitaciones sobre modelos de negocio y sostenibilidad.
+
+3. Prototipado y Validación
+
+* Propósito: crear una versión inicial del producto o servicio y obtener 
+  retroalimentación real.
+* Resultados esperados: prototipo funcional y validado con usuarios reales.
+* Actividades:
+
+    * Individuales: desarrollo del prototipo, entrevistas con usuarios.
+    * Grupales: ferias de prototipos, talleres de retroalimentación, pruebas piloto.
+
+4. Desarrollo y Mejoramiento
+
+* Propósito: refinar y mejorar el prototipo basándose en la retroalimentación y 
+  las necesidades del mercado.
+* Resultados esperados: producto o servicio listo para el lanzamiento.
+* Actividades:
+
+    * Individuales: ajustes del producto o servicio, desarrollo de estrategias 
+      de marketing.
+    * Grupales: reuniones con mentores, talleres de mejoramiento.
+
+5. Preparación para el Lanzamiento
+
+* Propósito: asegurarse de que todos los aspectos legales, financieros y operativos 
+  estén en orden.
+* Resultados esperados: emprendimiento listo para operar en el mercado.
+* Actividades:
+
+    * Individuales: registro de la empresa, obtención de licencias, elaboración de 
+      planes financieros.
+    * Grupales: talleres sobre aspectos legales, capacitaciones en gestión 
+      financiera y operativa.
+
+6. Lanzamiento al Mercado
+
+* Propósito: introducir el producto o servicio en el mercado.
+* Resultados esperados: primera factura emitida y validación comercial.
+* Actividades:
+
+    * Individuales: implementación de estrategias de marketing, atención al cliente, 
+      gestión de ventas.
+    * Grupales: ferias de emprendedores, eventos de networking, reuniones con 
+      mentores para seguimiento.
+
+7. Retroalimentación y Escalamiento
+
+* Propósito: evaluar el desempeño inicial y buscar oportunidades para crecer y 
+  expandirse.
+* Resultados esperados: plan de escalamiento y mejora continua.
+* Actividades:
+
+    * Individuales: análisis de métricas, ajustes en el modelo de negocio.
+    * Grupales: reuniones con mentores, talleres de escalamiento, capacitaciones 
+      avanzadas en áreas específicas.
