@@ -1156,3 +1156,60 @@ pitch tenga un formato de storytelling desde mi experiencia
 
     - 2 slides: uno que muestre los posibles viajes de vida (las transiciones) y 
       el otro que le haga zoom a alguno de ellos para costearlo.
+
+Guión Pitch 
+*************
+
+1. Apertura:
+
+Cuando entré a nuestra Institución en 2014, una pregunta rondaba constantemente mi cabeza: 
+¿Cómo traducir el modelo pedagógico a la realidad de mis clases? Pero en 2020, durante el apogeo 
+de la pandemia, esa pregunta se amplió y adquirió mayor urgencia: ¿Estamos realmente conectando 
+el modelo pedagógico con las experiencias del aula y la vida real?
+
+* Recurso: video del vicerrector académico.
+
+2. Mostrar el problema:
+
+Pensemos en cifras: [Incluir gráficas o datos sobre salud mental, mercado laboral y otros]. 
+Nuestros estudiantes enfrentan retos de sostenibilidad, un mercado laboral cambiante y la 
+necesidad de aprender toda su vida. Pero no son sólo ellos, todos atravesamos transiciones en 
+nuestra vida: desde graduarnos, cambiar de trabajo, formar una familia, enfrentar retos personales. 
+Trayectos 3C busca ser el puente en esas transiciones.
+
+3. Hacer los problemas personales:
+
+Yo recuerdo cuando [narra una experiencia personal de transición], y sé que no estoy solo. 
+He hablado con colegas y estudiantes que sienten lo mismo. En esos momentos de cambio, los viajes 
+de vida que propone Trayectos 3C pueden ser la guía que necesitamos.
+
+4. ¿Cómo generaría valor la Institución en cada VIAJE de vida?
+
+Cada viaje de vida es único, pero la Institución puede ser esa chispa, ese acompañamiento 
+constante que nos brinde las herramientas y el conocimiento para enfrentar cada transición. 
+Imagina tener a tu alcance recursos, mentores y experiencias diseñadas específicamente para tu 
+momento de vida.
+
+5. ¿Cómo funcionan los viajes de vida de Trayectos 3C?
+
+Imagina a [nombre de un estudiante o persona ficticia]. Está por graduarse y tiene dudas 
+sobre el siguiente paso. A través de Trayectos 3C, inicia un viaje de vida centrado en 
+Transición a la vida profesional. Recibe mentorías, talleres y conecta con profesionales. 
+Eso es Trayectos 3C: un viaje personalizado para cada transición. Y no es solo eso, podríamos 
+ofrecer [mencionar posibles productos/servicios].
+
+6. ¿Qué tenemos? ¿Qué necesitamos?
+
+Tenemos lo más valioso: personas dispuestas a aprender y a enseñar. Pero para llevar Trayectos 
+3C al siguiente nivel, necesitamos incorporar tecnología que facilite estos viajes y, sobre todo, 
+necesitamos un ``nuevo tipo de profesor`` - esos guías especializados que comprendan a 
+fondo el proceso y puedan liderar cada módulo de Trayectos 3C. 
+
+7. Minimal viable product:
+
+[Slide 1] Aquí pueden ver un mapa de los posibles viajes de vida, desde la adolescencia 
+hasta la jubilación, con Trayectos 3C asistiendo en cada etapa.
+
+[Slide 2] Y si nos centramos en una de estas etapas, por ejemplo, ``Prospera en Tu Vida``, 
+podemos ver cómo se desglosarían los costos y recursos necesarios para que este viaje de 
+vida sea efectivo.
