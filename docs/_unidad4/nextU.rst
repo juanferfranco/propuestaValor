@@ -1155,4 +1155,4 @@ pitch tenga un formato de storytelling desde mi experiencia
 7. Minimal viable product
 
     - 2 slides: uno que muestre los posibles viajes de vida (las transiciones) y 
-      el el otro que le haga zoom a alguno de ellos para costearlo.
+      el otro que le haga zoom a alguno de ellos para costearlo.
