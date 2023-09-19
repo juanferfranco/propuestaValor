@@ -1200,10 +1200,10 @@ ofrecer [mencionar posibles productos/servicios].
 
 6. ¿Qué tenemos? ¿Qué necesitamos?
 
-Tenemos lo más valioso: personas dispuestas a aprender y a enseñar. Pero para llevar Trayectos 
-3C al siguiente nivel, necesitamos incorporar tecnología que facilite estos viajes y, sobre todo, 
-necesitamos un ``nuevo tipo de profesor`` - esos guías especializados que comprendan a 
-fondo el proceso y puedan liderar cada módulo de Trayectos 3C. 
+Tenemos lo más valioso: personas dispuestas a aprender y a acompañar-apoyar. Pero para 
+llevar Trayectos 3C al siguiente nivel, necesitamos incorporar tecnología que facilite 
+estos viajes y, sobre todo, necesitamos un ``nuevo tipo de profesor`` - esos guías 
+especializados que comprendan a fondo el proceso y puedan liderar cada módulo de Trayectos 3C. 
 
 7. Minimal viable product:
 
