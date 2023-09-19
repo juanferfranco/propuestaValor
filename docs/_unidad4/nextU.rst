@@ -1179,7 +1179,7 @@ Trayectos 3C busca ser el puente en esas transiciones.
 
 3. Hacer los problemas personales:
 
-Yo recuerdo cuando [narra una experiencia personal de transición], y sé que no estoy solo. 
+Yo recuerdo cuando [narrar una experiencia personal de transición], y sé que no estoy solo. 
 He hablado con colegas y estudiantes que sienten lo mismo. En esos momentos de cambio, los viajes 
 de vida que propone Trayectos 3C pueden ser la guía que necesitamos.
 
