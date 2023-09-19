@@ -561,8 +561,8 @@ User personas para los programas
 ¿Cómo funciona Trayectos 3C?
 -----------------------------
 
-Trayectos 3C está compuesto por 3 módulos que se pueden modular dependiendo del 
-momentos de transición, cambio personal, reflexión y búsqueda de propósito que tenga 
+Trayectos 3C está compuesto por 3 módulos que se pueden combinar dependiendo del 
+momento de transición, cambio personal, reflexión y búsqueda de propósito que tenga 
 cada persona.
 
 .. warning:: LOS MÓDULOS SON UN PROCESO ITERATIVO
@@ -578,11 +578,410 @@ cada persona.
 Módulo: CREER
 ***************
 
+El módulo creer está compuesto por fases. Estas fases ayudan a las personas a 
+aplicar los principios del pensamiento de diseño a sus vidas, fomentando un 
+sentido de agencia y propósito a medida que trabajan para crear una vida bien 
+vivida y llena de alegría basada en sus valores e intereses únicos. El proceso 
+fomenta la reflexión continua, la experimentación y la adaptación para garantizar 
+que esté alineado con metas y aspiraciones en constante evolución.
 
+Se presentará para cada fase su propósito, resultados experados y actividades.
 
+**Construcción de una Brújula:**
 
+* Propósito: esta fase le ayuda a la persona a comprender sus valores, intereses 
+  y lo que le brinda alegría. Se trata de crear una brújula personal para guiar 
+  sus decisiones de vida.
+* Resultados: un entendimiento claro de los valores principales, intereses y lo 
+  que hace feliz a la persona.
+* Actividades: reflexión sobre tu vida e identifición de momentos clave de 
+  felicidad y satisfacción. Creación de un ``Diario de Buenas Experiencias`` para 
+  rastrear las actividades que brindan alegría. Identificación de la perspectiva 
+  laboral y la perspectiva de vida para comprender las creencias sobre la carrera y 
+  la vida de la persona.
 
-(DRAFT: in progress)
+**Despertando la Curiosidad:**
 
+* Propósito: esta fase anima a la persona a explorar una amplia gama de posibilidades 
+  y caminos de vida potenciales.
+* Resultados: una colección de ideas y posibles rutas de vida para explorar.
+* Actividades: generar múltiples ``Planes de Odisea`` (tres planes de vida diferentes 
+  a cinco años). Relización de ``Entrevistas de Diseño de Vida`` con personas en 
+  carreras o roles de interés. Participación en actividades que ayuden a probar y 
+  explorar intereses.
 
+**Creación de Prototipos:**
+
+* Propósito: en esta fase, se creab experimentos o prototipos de bajo riesgo para 
+  probar ideas y obtener perspectivas del mundo real.
+* Resultados: comentarios del mundo real sobre los posibles caminos de vida.
+* Actividades: creación de experiencias ``prototipo`` para probar diferentes 
+  opciones de carrera o vida. Recopilación de datos e información de estos experimentos.
+  Realización de ajustes basados en lo que se aprende de los experimentos.
+
+**Tomar Decisiones Acertadas:**
+
+* Propósito: Esta fase ayuda a tomar decisiones informadas sobre la vida y carrera 
+  basadas en los experimentos.
+* Resultados: una decisión bien fundamentada sobre la posible dirección futura.
+* Actividades: comparación y contrastación de los datos y perspectivas de los 
+  prototipos. Identificación de cuál camino se alinea mejor con los valores e intereses 
+  personales. Toma de una decisión consciente y comprométida con la dirección elegida.
+
+**Dejar Ir:**
+
+* Propósito: esta fase implica llegar a un acuerdo con el pasado y despejar el 
+  camino para una nueva dirección.
+* Resultados: cierre con las elecciones pasadas y una disposición para avanzar.
+* Actividades: reflexión sobre las elecciones pasadas y acéptación como parte de 
+  la trayectoria personal. Liberación de los apegos a los caminos que no funcionaron. 
+  Aceptación de la nueva dirección con confianza.
+
+**Construir un Camino:**
+
+* Propósito: esta fase se trata de tomar medidas concretas para construir y 
+  mantener la vida que se ha diseñado.
+* Resultados: un plan para implementar el camino elegido y estrategias para mantenerlo.
+* Actividades: Desarrollo de un plan y una hoja de ruta para el camino elegido. 
+  Identificación de los recursos, redes y habilidades necesarias para emprender el camino. 
+  Creación de una estrategia para enfrentar obstáculos y contratiempos.
+
+Para el módulo creer se proponen que algunas actividades individuales y grupales. Las 
+actividades individuales en cada fase a menudo implican la autorreflexión, 
+la toma de decisiones personales y la experimentación práctica. Por otro lado, 
+las actividades en grupo pueden proporcionar valiosas perspectivas externas, 
+apoyo y colaboración. La elección entre el trabajo individual y en grupo debe 
+depender de los objetivos específicos y las preferencias de la persona que está 
+pasando por el proceso de diseño de vida.
+
+**Fase 1. Construcción de una Brújula:**
+
+* Actividades Individuales:
+
+  - La reflexión personal sobre la vida y la identificación de momentos clave de felicidad y satisfacción.
+  - La creación de un "Diario de Buenas Experiencias" para llevar un registro de las actividades que generan alegría.
+  - La identificación de la perspectiva laboral y de vida personal para comprender las creencias sobre la carrera y la vida.
+
+**Fase 2. Despertando la Curiosidad:**
+
+* Actividades Individuales:
+
+  - La generación de múltiples "Planes de Odisea" - tres planes de vida diferentes 
+    a cinco años.
+  - La realización de "Entrevistas de Diseño de Vida" con personas en carreras o 
+    roles de interés.
+
+* Actividades en Grupo:
+
+  - Sesiones de lluvia de ideas para generar ideas de posibles caminos de vida.
+  - Compartir y discutir los resultados de las entrevistas de diseño de vida para 
+    obtener perspectivas diversas.
+
+**Fase 3. Creación de Prototipos:**
+
+* Actividades Individuales:
+
+  - La creación de experiencias ``prototipo`` para probar diferentes opciones 
+    de carrera o vida.
+  - La recopilación de datos e información de estos experimentos.
+
+* Actividades en Grupo:
+
+  - Discusiones colaborativas para analizar e interpretar los datos recopilados 
+    de los prototipos.
+  - Sesiones de retroalimentación en grupo para compartir ideas y experiencias 
+    de experimentación.
+
+**Fase 4. Tomar Decisiones Acertadas:**
+
+* Actividades Individuales:
+
+  - La comparación y contraste de los datos y perspectivas de los prototipos.
+  - La identificación de cuál camino se alinea mejor con los valores e intereses 
+    personales.
+
+* Actividades en Grupo:
+
+  - La búsqueda de consejos y opiniones de amigos de confianza o mentores para 
+    tomar decisiones informadas.
+  - Discusiones grupales para sopesar los pros y los contras de diferentes opciones 
+    de camino de vida.
+
+**Fase 5. Dejar Ir:**
+
+* Actividades Individuales:
+
+  - La reflexión sobre las elecciones pasadas y la aceptación de estas como parte 
+    de la trayectoria personal.
+  - La liberación de los apegos a los caminos que no funcionaron.
+
+* Actividades en Grupo:
+
+  - Sesiones de apoyo o asesoramiento para personas que encuentren difícil 
+    soltar elecciones pasadas.
+  - Compartir experiencias personales de dejar ir y avanzar en un entorno grupal.
+
+**Fase 6. Construir un Camino:**
+
+* Actividades Individuales:
+  
+  - El desarrollo de un plan y una hoja de ruta para el camino elegido.
+  - La identificación de los recursos, redes y habilidades necesarios para tener éxito.
+
+* Actividades en Grupo:
+  
+  - La participación en grupos de networking o comunidades relacionados con 
+    el camino elegido para obtener apoyo mutuo y aprendizaje.
+  - Sesiones de responsabilidad grupal para hacer un seguimiento del progreso y 
+    brindar aliento.
+
+Módulo: CRECER
+****************
+
+El módulo crecer está basado en el marco Challenge Based Learning (CBL) que está 
+dividido en tres fases interconectadas: compromenterse, invetigar y actuar. A su 
+vez, cada una de esta fases se subdivide en etapas. A continuación se presentará 
+cada una de ellas:
+
+1. Comprometer (Engage):
+
+Esta fase inicial enfatiza la conexión personal con el contenido de aprendizaje, 
+asegurando que los estudiantes encuentren relevancia y estén motivados.
+
+* Grandes Ideas (Big Ideas): un tema o concepto amplio que puede ser explorado 
+  de múltiples maneras y que tiene importancia tanto para el individuo como 
+  para la comunidad en general.
+* Cuestionamiento Esencial/Essential Question: utilizando la ``Gran Idea``, se 
+  generan una variedad de preguntas esenciales que reflejan los intereses 
+  personales y las necesidades de la comunidad. Al final de este proceso, 
+  se identifica una ``Pregunta Esencial significativa``.
+* Desafíos (Challenges): la pregunta esencial se transforma en un llamado a 
+  la acción, haciéndola inmediata y emocionante. 
+
+La fase de Comprometer culmina con la identificación de una declaración de 
+``Desafío`` convincente y accionable.
+
+2. Investigar (Investigate):
+
+Esta fase enfatiza la indagación profunda y rigurosa y proporciona un enfoque 
+estructurado para comprender las sutilezas del problema.
+
+* Preguntas Guía (Guiding Questions): el proceso comienza formulando preguntas 
+  asociadas con el Desafío, que abarcan todo lo que los aprendices necesitan 
+  comprender para formular una solución bien informada.
+* Actividades/Recursos Guía (Guiding Activities/Resources): se utilizan recursos 
+  y actividades que ayudan a responder las preguntas guía. Estos pueden incluir 
+  contenido en línea, bases de datos, libros de texto, simulaciones, experimentos, 
+  investigaciones, etc.
+* Síntesis (Synthesis): después de abordar todas las Preguntas Guía y registrar 
+  los resultados de las actividades, los aprendices analizan los datos acumulados 
+  para identificar temas. 
+
+La fase de Investigación concluye con informes y presentaciones que demuestran que 
+los aprendices han abordado todas las Preguntas Guía y han establecido conclusiones 
+claras, allanando el camino para la solución.
+
+3. Actuar (Act):
+
+Esta fase es donde el conocimiento teórico se encuentra con la aplicación práctica, 
+enfatizando la resolución de problemas tangible.
+
+* Conceptos de Solución (Solution Concepts): con una base sólida de la fase de 
+  Investigación, los aprendices comienzan a formular conceptos de solución. 
+  Estos pueden variar desde campañas para educar, proyectos de mejora comunitaria, 
+  hasta el desarrollo de productos.
+* Desarrollo de la Solución (Solution Development): una vez que se aprueba un 
+  concepto de solución, los aprendices proceden con el desarrollo de prototipos, 
+  experimentación y pruebas. A menudo, este proceso de diseño iterativo conducirá 
+  a nuevas preguntas, llevándolos de nuevo a la fase de Investigación.
+* Implementación y Evaluación (Implementation and Evaluation): después de 
+  finalizar sus soluciones, los aprendices las implementan, evalúan los 
+  resultados y reflexionan sobre los éxitos y áreas de mejora, comprendiendo 
+  el impacto de sus acciones en el desafío. 
+      
+Cuando la fase de implementación está completa, pueden refinar aún más su solución o 
+compilar un informe de finalización para compartir sus logros con una audiencia más 
+amplia.
+
+.. note:: Reflexionar, Documentar y Compartir (Reflect, Document, & Share)
+    
+    A lo largo del Desafío, los aprendices documentan consistentemente sus 
+    experiencias utilizando varios medios como audio, video y fotografías. Esta 
+    colección de contenido en curso se convierte en un recurso para la reflexión, 
+    la evaluación y la presentación del proceso de aprendizaje.
+
+A continuación se presentará para cada fase su propósito, resultados experados y 
+actividades.
+
+1. Comprometer (Engage):
+
+* Propósito: iniciar una conexión personal con el contenido de aprendizaje.
+* Resultado esperado: una declaración de Desafío clara y accionable.
+
+    **Grandes Ideas (Big Ideas):**
+
+    * Propósito: identificar temas amplios que sean relevantes tanto a nivel 
+      personal como comunitario.
+    * Resultado esperado: una lista de conceptos amplios para explorar.
+    * Actividades: reflexión individual sobre intereses y discusiones grupales 
+      sobre temas de relevancia comunitaria.
+
+    **Cuestionamiento Esencial:**
+
+    * Propósito: profundizar en las ``Grandes Ideas`` y encontrar preguntas relevantes.
+    * Resultado esperado: una Pregunta Esencial que tiene un significado personal y 
+      comunitario.
+    * Actividades: brainstorming individual y grupal para generar y priorizar preguntas.
+
+    **Desafíos (Challenges):**
+
+    * Propósito: convertir la Pregunta Esencial en una acción concreta.
+    * Resultado esperado: una declaración de Desafío clara.
+    * Actividades: discusión grupal para formular el desafío, retroalimentación individual y refinamiento del desafío.
+
+2. Investigar (Investigate):
+
+* Propósito: realizar una indagación profunda del Desafío identificado.
+* Resultado esperado: un conjunto completo de datos e información relacionada con 
+  el Desafío.
+
+    **Preguntas Guía:**
+
+    * Propósito: entender todas las dimensiones del Desafío.
+    * Resultado esperado: una lista de preguntas para guiar la investigación.
+    * Actividades: sesiones de brainstorming individuales y grupales, y 
+      priorización de preguntas.
+    
+    **Actividades/Recursos Guía:**
+
+    * Propósito: recopilar información y datos relevantes.
+    * Resultado esperado: respuestas a las Preguntas Guía.
+    * Actividades: investigación individual en línea, estudios de grupo, experimentos 
+      y actividades prácticas.
+
+    **Síntesis:**
+
+    * Propósito: consolidar y analizar la información recolectada.
+    * Resultado esperado: conclusiones claras y fundamentadas sobre el Desafío.
+    * Actividades: discusiones grupales para compartir hallazgos, análisis individual y presentaciones grupales.
+
+3. Actuar (Act):
+
+* Propósito: implementar soluciones basadas en la investigación.
+* Resultado esperado: soluciones prácticas y evaluadas al Desafío.
+
+    **Conceptos de Solución:**
+
+    * Propósito: idear posibles soluciones.
+    * Resultado esperado: propuestas claras de soluciones.
+    * Actividades: brainstorming grupal, diseño individual y revisión grupal.
+
+    **Desarrollo de la Solución:**
+
+    * Propósito: crear y probar prototipos de soluciones.
+    * Resultado esperado: prototipos funcionales.
+    * Actividades: trabajo en equipo para desarrollar prototipos, pruebas 
+      individuales y ajustes grupales.
+
+    **Implementación y Evaluación:**
+
+    * Propósito: llevar a cabo la solución y evaluar su impacto.
+    * Resultado esperado: medición de los resultados y reflexión sobre el impacto.
+    * Actividades: implementación grupal de la solución, evaluación individual y 
+      discusión grupal sobre los resultados.
+
+Reflexionar, Documentar y Compartir:
+
+* Propósito: registrar y reflexionar sobre todo el proceso.
+* Resultado esperado: una documentación completa del proceso y aprendizaje.
+* Actividades: creación individual de diarios o portfolios, discusiones grupales 
+  para compartir experiencias, y presentación grupal del proceso y resultados.
+
+Módulo: CREAR
+****************
+
+El módulo crear se estructura a partir de la creación de un Flourishing Business Canvas.
+Al igual que en los módulos anteriores, se dividirá la construcción del Canvas en 
+fases y se detallará el propósito, resultados esperados y actividades tanto individuales 
+como grupales.
+
+1. Estableciendo el Contexto
+
+* Propósito: comprender el entorno externo en el que opera el negocio.
+* Resultados esperados: una clara comprensión de las tendencias macro y los 
+  factores externos que podrían influir en el negocio.
+* Actividades:
+
+    * Individualmente: realizar un análisis `PESTLE <https://en.wikipedia.org/wiki/PEST_analysis>`__.
+    * En grupo: sesiones de discusión para identificar y entender mega-tendencias 
+      globales y sus posibles implicaciones.
+
+2. Participación de los Interesados
+
+* Propósito: identificar y entender las necesidades y perspectivas de todos los 
+  interesados relevantes.
+* Resultados esperados: una lista de los principales interesados, sus preocupaciones, 
+  valores y cómo interactúan con el negocio.
+* Actividades:
+
+    * Individualmente: redactar una lista preliminar de interesados.
+    * En grupo: talleres de mapeo de interesados y sesiones de retroalimentación.
+
+3. Visionado
+
+* Propósito: establecer los objetivos superiores y los impactos a largo plazo del 
+  negocio.
+* Resultados esperados: una declaración de visión clara e inspiradora.
+* Actividades:
+    
+    * Individualmente: reflexión personal sobre los valores centrales y los impactos 
+      deseados del negocio.
+    * En grupo: talleres de construcción de visión y sesiones de lluvia de ideas.
+
+4. Esbozar el Canvas
+
+* Propósito: comenzar a diseñar el modelo de negocio utilizando el Flourishing 
+  Business Canvas.
+* Resultados esperados: un borrador preliminar del Canvas con todas las secciones 
+  completadas.
+* Actividades:
+    
+    * Individualmente: completar secciones basadas en percepciones y investigaciones 
+      personales.
+    * En grupo: sesiones de redacción colaborativa del Canvas.
+
+5. Probar y Validar
+
+* Propósito: asegurarse de que las suposiciones y estrategias descritas en el 
+  Canvas coincidan con la realidad.
+* Resultados esperados: secciones del Canvas validadas o refinadas basadas en 
+  retroalimentación del mundo real.
+* Actividades:
+
+    * Individualmente: investigaciones y estudios de validación.
+    * En grupo: sesiones de retroalimentación con interesados, proyectos piloto y 
+      iniciativas de prueba.
+
+6. Iterar
+
+* Propósito: refinar y ajustar el lienzo a medida que llega nueva información y 
+  retroalimentación.
+* Resultados esperados: una representación más actualizada y precisa del modelo de 
+  negocio.
+* Actividades:
+
+    * Individualmente: reflexión y evaluación de la retroalimentación.
+    * En grupo: sesiones de revisión y ajustes colaborativos al Canvas.
+
+7. Integración en Estrategia y Operaciones
+
+* Propósito: implementar los principios del Canvas en las operaciones diarias 
+  del negocio y en la estrategia más amplia.
+* Resultados esperados: alineación de las operaciones del negocio con los principios 
+  del Flourishing Business Canvas.
+* Actividades:
+    
+    * Individualmente: desarrollo de planes de acción y esquemas de estrategia.
+    * En grupo: talleres de estrategia, sesiones de formación y reuniones de 
+      alineación operacional.
 
