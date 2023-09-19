@@ -1112,7 +1112,7 @@ pitch tenga un formato de storytelling desde mi experiencia
 
 1. Apertura: se abre con una pregunta ¿Qué motivó esta propuesta?
 
-    - Ingresé a la UPB como docente en el año 2014. El primer 
+    - Ingresé a la Institución como docente en el año 2014. El primer 
       reto fue estudiar el modelo pedagógico y buscar cómo implementarlo 
       en mis cursos.
     - Segundo semestre de 2020. Pandemia. El vicerrector académico lanza un reto. 
@@ -1126,15 +1126,15 @@ pitch tenga un formato de storytelling desde mi experiencia
       laboral, retos de sostenibilidad, proyecciones futuras, mercado 
       cambiante, APRENDIZAJE para toda la vida.
     - Introducir los momentos o TRANSICIONES a lo largo de la vida 
-      donde Trayectos 3C estaría apuntando.
+      donde Trayectos 3C estarían apuntando.
 
 3. Hacer los problemas personales: 
 
     - Narrar desde mi experiencia de vida y la de otras personas que me rodean 
       esos momentos de transición que dan sentido a los VIAJES de vida 
       que se pueden construir con Trayectos 3C (los viajes de vida 
-      se han llamado PROGRAMAS, pero creo que deberíamos nombralos de 
-      otra manera para no confundirlos con programas tradicionales).
+      son los PROGRAMAS, pero creo que deberíamos nombralos de 
+      otra manera para no confundirlos con programas académicos tradicionales).
 
 4. ¿Cómo generaría valor la Institución en cada VIAJE de vida?
 
@@ -1152,7 +1152,7 @@ pitch tenga un formato de storytelling desde mi experiencia
       para abordar los 3 módulos de Trayectos 3C. Que entiendan toda 
       cómo funciona todo el proceso.
 
-7. MVP
+7. Minimal viable product
 
     - 2 slides: uno que muestre los posibles viajes de vida (las transiciones) y 
       el el otro que le haga zoom a alguno de ellos para costearlo.
