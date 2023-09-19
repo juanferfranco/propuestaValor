@@ -1133,7 +1133,7 @@ pitch tenga un formato de storytelling desde mi experiencia
     - Narrar desde mi experiencia de vida y la de otras personas que me rodean 
       esos momentos de transición que dan sentido a los VIAJES de vida 
       que se pueden construir con Trayectos 3C (los viajes de vida 
-      son los PROGRAMAS, pero creo que deberíamos nombralos de 
+      son los PROGRAMAS, pero creo que deberíamos nombrarlos de 
       otra manera para no confundirlos con programas académicos tradicionales).
 
 4. ¿Cómo generaría valor la Institución en cada VIAJE de vida?
