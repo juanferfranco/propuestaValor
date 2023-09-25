@@ -1050,31 +1050,34 @@ Red biografías del aprendizaje
 **********************************
 
 A lo largo de Trayectos 3C se elaboran constantemente evidencias 
-que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplean la 
+que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplea la 
 evaluación como el mecanismos tradicional sumativo. Más bien, usa la evaluación 
 como un proceso de mejora continua que apunta a la realización de procesos metacognitivos. 
 Las evidencias generadas en los Trayectos nutren una gran base datos potenciada 
 con grandes modelos de lenguaje (LLM) y herramientas generativas que permiten 
 visualizar y caracterizar a las personas que hacen parte de la comunidad de Trayectos 3C. 
-Estos datos y herramientas tienen como propósito permitir encontrar ``MATCHES`` entre 
-las mismas personas de la comunidad y terceros que desean encontrar ``TALENTO`` o socios 
+Estos datos y herramientas tienen como propósito encontrar ``MATCHES`` entre 
+las mismas personas de la comunidad y terceros que desean conectar con ``TALENTO`` o socios 
 para emprender.
 
 .. note:: POSIBLE PRODUCTO 
 
-    La base de datos de las biografías del aprendizaje podría convertirse 
+    La base de datos de la red biografías del aprendizaje podría convertirse 
     en un producto que permita a las personas encontrar sus ``MATCH``. 
-    Esta base de datos potenciada con un LLM y algoritmos podría alimentarse con 
-    problemas, preguntas guía o requerimientos. La herramienta encontraría 
+    Esta base de datos potenciada con un LLM y algoritmos generativos podría alimentarse con 
+    problemas, preguntas guía y/o requerimientos. La herramienta encontraría 
     entonces posible grupos de personas que puedan contribuir a la 
     solicitud. Por ejemplo: buscar mentorías, coaches, socios, compañeros 
     de equipo, empleados, etc.
 
 .. warning:: INTUICIÓN 
 
-    Tengo la intuición que la red biografías del aprendizaje será uno de los 
-    productos CORE de Trayectos 3C. Desde aquí se podrán construir modelos de 
-    negocios escalables y posiblemente muy rentables.
+    * Tengo la intuición que la red biografías del aprendizaje será uno de los 
+      productos CORE de Trayectos 3C. Desde aquí se podrán construir modelos de 
+      negocio escalables y posiblemente muy rentables.
+    * Potenciada con la red de biografías del aprendizaje, Trayectos 
+      3C no tendría que contratar personas para acompañar y apoyar, más 
+      bien tendría que CONECTARLAS y monitizar esos ``MATCHES``.
 
 Redefinición del módulo crear
 ******************************
