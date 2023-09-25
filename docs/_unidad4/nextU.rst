@@ -1046,8 +1046,8 @@ como grupales.
 Secciones en elaboración 
 ---------------------------
 
-Biografía del aprendizaje
-******************************
+Red biografías del aprendizaje
+**********************************
 
 A lo largo de Trayectos 3C se elaboran constantemente evidencias 
 que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplean la 
