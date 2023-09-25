@@ -325,7 +325,7 @@ Presentaciones
 * `Aprender en el metaverso <https://juanferfranco.github.io/expoIng2022/>`__.
 * `Por qué Ingeniería del Aprendizaje <https://docs.google.com/presentation/d/1wQutd7V4lPqbEpYd-pa28-A_3MGbomh3yAmrth9LqEg/edit?usp=sharing>`__.
 * `Presentación Ingeniería del aprendizaje <https://github.com/juanferfranco/propuestaValor/blob/master/Presentaci%C3%B3n%20Ingenier%C3%ADa%20del%20aprendizaje.pptx>`__.
-
+* `Pitch 2023-20 <https://docs.google.com/presentation/d/1Eka9YgFooVw-411epfzHavnLQrHZXtWL6_sEZbrSvBE/edit?usp=sharing>`__.
 
 Seguimiento al desarrollo de Learning Engineering
 ---------------------------------------------------
