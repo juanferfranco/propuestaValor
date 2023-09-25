@@ -1075,9 +1075,9 @@ para emprender.
     * Tengo la intuición que la red biografías del aprendizaje será uno de los 
       productos CORE de Trayectos 3C. Desde aquí se podrán construir modelos de 
       negocio escalables y posiblemente muy rentables.
-    * Potenciada con la red de biografías del aprendizaje, Trayectos 
+    * Potenciado con la red de biografías del aprendizaje, Trayectos 
       3C no tendría que contratar personas para acompañar y apoyar, más 
-      bien tendría que CONECTARLAS y monitizar esos ``MATCHES``.
+      bien tendría que CONECTARLAS y monetizar esos ``MATCHES``.
 
 Redefinición del módulo crear
 ******************************
