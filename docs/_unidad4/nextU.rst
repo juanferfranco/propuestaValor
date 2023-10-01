@@ -176,8 +176,65 @@ búsqueda de propósito``. Por ejemplo:
    más significado.
 5. Etapa de emprendimiento social
 
-La siguiente sección aborda la exploración de usuarios para 
-algunos de los segmentos de mercado propuestos.
+¿Cómo las personas de todas las edades pueden encontrar valor con 
+Trayectos 3C?
+
+**Niños y Adolescentes**:
+
+Los jóvenes pueden comenzar a explorar sus intereses y pasiones desde una edad temprana. Trayectos 
+3C les ayuda a desarrollar habilidades de autodescubrimiento, definir sus metas y aprender a 
+tomar decisiones informadas desde una edad temprana. Pueden establecer objetivos académicos y 
+extracurriculares, y aprender a gestionar su tiempo de manera efectiva.
+
+**Adultos Jóvenes (20-30 años)**:
+
+Esta etapa a menudo implica decisiones cruciales sobre educación, carrera y relaciones. Trayectos 3C Aplicar 
+les permite explorar diferentes caminos profesionales, definir sus prioridades personales y 
+profesionales, y tomar decisiones fundamentales sobre su futuro. Pueden utilizarlo para planificar 
+su educación continua, desarrollo profesional y establecer bases sólidas para una vida significativa.
+
+**Adultos de Mediana Edad (30-50 años)**:
+
+En esta etapa, las personas a menudo equilibran responsabilidades familiares y profesionales. 
+Trayectos 3C les ayuda a evaluar sus logros hasta el momento, reevaluar sus objetivos y tomar 
+decisiones informadas sobre el futuro. Pueden explorar nuevas oportunidades, aprender a adaptarse 
+a cambios y mantener un equilibrio entre sus roles.
+
+**Adultos Mayores (50-65+ años)**:
+
+Las personas en esta etapa pueden pueden aplicar Trayectos 3C 
+para planificar la jubilación de manera significativa, establecer objetivos de bienestar y 
+explorar formas de contribuir a la comunidad. Pueden enfocarse en actividades que les traigan 
+alegría, establecer conexiones sociales y compartir su sabiduría y experiencia.
+
+**Personas en Transición de Carrera**:
+
+Las personas de todas las edades que estén considerando un cambio de carrera pueden aplicar 
+Trayetos 3C para explorar nuevas oportunidades, redefinir sus objetivos profesionales y 
+adquirir las habilidades necesarias para tener éxito en su nueva dirección.
+
+**Cuidadores y Padres**:
+
+Las personas que están cuidando de otros pueden aplicar Trayectos 3C 
+para equilibrar sus responsabilidades con sus propias necesidades. Pueden definir objetivos 
+personales, planificar tiempos de autocuidado y aprender a mantener un equilibrio saludable 
+entre el cuidado de los demás y el cuidado personal.
+
+**Emprendedores y Creativos**:
+
+Los emprendedores, artistas y creativos pueden utilizar Trayectos 3C para alinear su visión con 
+sus proyectos. Pueden aplicar los principios de diseño para crear soluciones innovadoras y 
+significativas en sus campos.
+
+**Personas en Momentos de Cambio Personal**:
+
+Cualquier persona que experimente un cambio significativo, como la pérdida de un ser querido, 
+un divorcio o una mudanza, puede usar Trayectos 3C para rediseñar su vida, encontrar formas de 
+adaptarse y avanzar de manera positiva.
+
+
+La siguiente sección aborda la exploración de usuarios para algunos de los segmentos de 
+mercado propuestos.
 
 Usuarios
 -----------
@@ -990,30 +1047,38 @@ como grupales.
 Secciones en elaboración 
 ---------------------------
 
-Biografía del aprendizaje
-******************************
+Red biografías del aprendizaje
+**********************************
 
 A lo largo de Trayectos 3C se elaboran constantemente evidencias 
-que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplean la 
-evaluación como el mecanismos tradicional sumativo. Más bien, usan la evaluación 
-como un proceso de mejora continua que apunta a la realización de metacognitivos 
-para aprender a apreder. Las evidencias generadas en los Trayecos nutren una 
-gran base datos potenciada con grandes modelos de lenguaje (LLM) y herramientas 
-generativas que permiten visualizar y caracterizar a las personas que 
-hacen parte de la comunidad de Trayectos 3C. Estos datos y herramientas 
-tienen como propósito permitir encontrar ``MATCHES`` entre las mismas 
-personas de la comunidad y terceros que desean encontrar ``TALENTO`` o socios 
-para emprender. 
+que dan cuenta del proceso de aprendizaje. Trayectos 3C no emplea la 
+evaluación como el mecanismos tradicional sumativo. Más bien, usa la evaluación 
+como un proceso de mejora continua que apunta a la realización de procesos metacognitivos. 
+Las evidencias generadas en los Trayectos nutren una gran base datos potenciada 
+con grandes modelos de lenguaje (LLM) y herramientas generativas que permiten 
+visualizar y caracterizar a las personas que hacen parte de la comunidad de Trayectos 3C. 
+Estos datos y herramientas tienen como propósito encontrar ``MATCHES`` entre 
+las mismas personas de la comunidad y terceros que desean conectar con ``TALENTO`` o socios 
+para emprender.
 
 .. note:: POSIBLE PRODUCTO 
 
-    La base de datos de las biografías del aprendizaje podría convertirse 
+    La base de datos de la red biografías del aprendizaje podría convertirse 
     en un producto que permita a las personas encontrar sus ``MATCH``. 
-    Esta base de datos potenciada con un LLM y algoritmos podría alimentarse con 
-    problemas, preguntas guía o requerimientos. La herramienta encontraría 
+    Esta base de datos potenciada con un LLM y algoritmos generativos podría alimentarse con 
+    problemas, preguntas guía y/o requerimientos. La herramienta encontraría 
     entonces posible grupos de personas que puedan contribuir a la 
     solicitud. Por ejemplo: buscar mentorías, coaches, socios, compañeros 
     de equipo, empleados, etc.
+
+.. warning:: INTUICIÓN 
+
+    * Tengo la intuición que la red biografías del aprendizaje será uno de los 
+      productos CORE de Trayectos 3C. Desde aquí se podrán construir modelos de 
+      negocio escalables y posiblemente muy rentables.
+    * Potenciado con la red de biografías del aprendizaje, Trayectos 
+      3C no tendría que contratar personas para acompañar y apoyar, más 
+      bien tendría que CONECTARLAS y monetizar esos ``MATCHES``.
 
 Redefinición del módulo crear
 ******************************
@@ -1214,3 +1279,55 @@ hasta la jubilación, con Trayectos 3C asistiendo en cada etapa.
 [Slide 2] Y si nos centramos en una de estas etapas, por ejemplo, ``Prospera en Tu Vida``, 
 podemos ver cómo se desglosarían los costos y recursos necesarios para que este viaje de 
 vida sea efectivo.
+
+Equipo para desarrollar Trayectos 3C
+*************************************
+
+(TODO)
+
+Equipo de ingeniería del aprendizaje para:
+
+* Diseñar e implementar las experiencias individuales y grupales.
+* Diseñar o implementar o adquirir las herramientas necesarias para 
+  desplegar trayectos 3C.
+* Diseñar e implementar las herramientas para instrumentar 
+  las experiencias (el proceso mismo en operación).
+* Construir el modelo o los modelos de negocio, productos y/o 
+  servicios alrededor de Trayectos 3C.
+
+Equipo para operar Trayectos 3C
+*************************************
+
+(TODO)
+
+* Ingenieros del aprendizaje (perfil de científicos de datos )para 
+  permitir la retroalmientación del proceso de Trayectos 3C basada 
+  en los datos recopilados y analizados durante la operación.
+* Cada participante tendrá una persona que lo acompañe y apoye en el proceso 
+  de autodescubrimiento y según sus necesidades para el desarrollo de habilidades 
+  socioemocionales.
+* Cada participante tendrá una persona que lo acompañe y apoye en la aplicación 
+  de las metodologías de cada módulo, en la elaboración de procesos metacognitivos 
+  para aprender a aprender y en el desarrollo del pensamiento crítico.
+* Será un reto para el equipo de ingeniería del aprendizaje diseñar e implementar la 
+  manera como cada persona alimentará de la manera más óptima posible la red de biografías 
+  del aprendizaje. Entonces, aunque no se define como un rol puntal, es necesario 
+  GARANTIZAR el acompañamiento y apoyo en este asunto porque creo que BIOGRAFÍAS 
+  DEL APRENDIZAJE será el producto CORE de Trayectos 3C.
+* Cada participante tendrá acceso a personas, empresas y organizaciones que lo acompañarán 
+  y apoyarán en cada módulo según la naturaleza de las necesidades y desafios 
+  en cada módulo. Esto es, una red de mentores con los cuales podrá confrontar, discutir, 
+  cuestinar y recibir retroalimentación.
+* La Institución ofrecerá a cada persona la infraestructura necesaria para realizar los procesos 
+  de indagación e investigación autónoma propios del aprendizaje basado en retos. Ver video 
+  de uno de los referentes de la propuesta `aquí <https://youtu.be/CFCSvvsPWUA>`__.
+
+Análisis TAM, SAM, SOM
+**************************
+
+(TODO)
+
+.. warning:: TRABAJO FUTURO
+
+  Estas estimaciones podrían estar a cargo del equipo de construcción 
+  de modelo de negocio.
