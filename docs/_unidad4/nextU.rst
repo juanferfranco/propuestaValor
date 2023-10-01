@@ -107,7 +107,7 @@ de vida de Stanford <http://lifedesignlab.stanford.edu/>`__.
 El método Design Your Life se basa en los principios del diseño y utiliza 
 herramientas y técnicas de diseño para abordar preguntas y desafíos relacionados 
 con la carrera, la educación y la vida en general. Algunos de los conceptos 
-clave incluyen:
+claves son:
 
 * Mindset de diseño: fomenta la mentalidad de que la vida puede ser diseñada y 
   mejorada de la misma manera en que se diseña un producto o un proyecto.
@@ -125,6 +125,7 @@ clave incluyen:
 
 * Creación de redes: fomenta la conexión con otras personas y recursos que 
   pueden ayudar a los estudiantes a alcanzar sus objetivos.
+
 
 Challenge-Based Learning
 **************************
@@ -646,7 +647,7 @@ Se presentará para cada fase su propósito, resultados experados y actividades.
   Identificación de los recursos, redes y habilidades necesarias para emprender el camino. 
   Creación de una estrategia para enfrentar obstáculos y contratiempos.
 
-Para el módulo creer se proponen que algunas actividades individuales y grupales. Las 
+Para el módulo creer se proponen algunas actividades individuales y grupales. Las 
 actividades individuales en cada fase a menudo implican la autorreflexión, 
 la toma de decisiones personales y la experimentación práctica. Por otro lado, 
 las actividades en grupo pueden proporcionar valiosas perspectivas externas, 
