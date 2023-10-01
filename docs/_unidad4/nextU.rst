@@ -1331,3 +1331,10 @@ Análisis TAM, SAM, SOM
 
   Estas estimaciones podrían estar a cargo del equipo de construcción 
   de modelo de negocio.
+
+Cuaderno de notas y apuntes
+******************************
+
+En el siguiente `este <https://upbeduco-my.sharepoint.com/:o:/g/personal/juanf_franco_upb_edu_co/EqM0YpV841tBt99wCo-5vwcBdLEWNymXf57tHmKYVn9sRA?e=om1xZ1>`__ 
+enlace se pueden consultar algunos apuntes visuales para la construcción 
+las presentaciones que comunican el diseño de Trayectos 3C.
