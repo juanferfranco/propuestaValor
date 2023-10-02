@@ -1338,3 +1338,321 @@ Cuaderno de notas y apuntes
 En el siguiente `este <https://upbeduco-my.sharepoint.com/:o:/g/personal/juanf_franco_upb_edu_co/EqM0YpV841tBt99wCo-5vwcBdLEWNymXf57tHmKYVn9sRA?e=om1xZ1>`__ 
 enlace se pueden consultar algunos apuntes visuales para la construcción 
 las presentaciones que comunican el diseño de Trayectos 3C.
+
+Historias
+---------------
+
+Sara 
+*********
+
+Creer
+^^^^^^^^^
+
+**1. Start Where You Are**
+
+Sarah tiene 32 años y es una exitosa gerente de marketing, pero se siente 
+insatisfecha y carente de propósito. Ella tiene la molesta sensación de 
+que hay algo más que debería estar haciendo con su vida.
+
+Sara hace un balance de su vida: su trabajo es estable pero no 
+satisfactorio, su salud es decente, pero el estrés está pasando factura. 
+Se siente desconectada en sus relaciones y tiene poco tiempo para el 
+juego o la creatividad.
+
+**2. Start Where You Are**
+
+Ella describe su visión de vida y su visión laboral. 
+Sara cree en tener un impacto positivo, pero se da cuenta de que su 
+trabajo actual no se alinea con este valor. Su deseo es contribuir al 
+bienestar social. 
+
+**3. Wayfinding**
+
+Sara lleva un diario de buenos tiempos. Se da cuenta de que se siente más 
+viva y comprometida cuando se ofrece como voluntaria en el refugio de 
+animales local y hace una lluvia de ideas de campaña que tienen un 
+impacto social.
+
+**4. Getting Unstuck**
+
+Ella hace lluvias de ideas y mapas mentales de varios caminos, 
+incluido el cambio de carrera, comenzar una organización sin fines 
+de lucro o integrar más propósito en su trabajo actual 
+
+**5. Design Your Lives**
+
+Sara desarrolla tres planes de Odisea:
+
+* Plan A: subir la escalera corporativa pero enfocándose en campañas 
+  de impacto social.
+* Plan B: comenzar su propia organización sin fines de lucro centrada en 
+  el bienestar animal.
+* Plan C: cambiar a una carrera en trabajo social para impactar directamente 
+  las vidas de otros.
+
+**6. Prototyping**
+
+Realiza entrevistas informativas con trabajadores sociales y fundadores 
+de organizaciones sin fines de lucro, es voluntaria de manera más 
+consistente en el refugio de animales y propone una campaña de impacto 
+social en su trabajo.
+
+**7. Choosing Happily**
+
+Equipada con ideas, Sara evalúa sus opciones. Ella se da cuenta de que 
+comenzar una organización sin fines de lucro se alinea perfectamente con 
+sus habilidades, pasiones y deseo de impacto.
+
+**8. Failure Immunity**
+
+Sara se prepara para los desafíos. Ella sabe que habrá contratiempos, 
+pero está comprometida a aprender y crecer de ellos. La idea del fracaso 
+como una oportunidad de crecimiento se convierte en su mantra.
+
+**9. Building a Team**
+
+Se acerca a mentores, se une a redes de profesionales sin fines de lucro 
+y solicita el apoyo de amigos y familiares. Se convierten en su caja 
+de resonancia y sistema de apoyo.
+
+**Transformación:**
+
+El viaje de autodescubrimiento y exploración de Sara utilizando la 
+metodología "Diseñando tu vida" le ayuda a pasar de un estado de 
+inquietud a un camino infundido con propósito. Ella renuncia a su 
+trabajo corporativo y se embarca en la aventura de construir su 
+organización sin fines de lucro, basada en la convicción de que esto 
+se alinea con sus valores, aprovecha sus fortalezas y cumple su deseo 
+de contribución significativa.
+
+El refugio de animales donde se ofreció como voluntaria se convierte en 
+el primer beneficiario de su organización. Los desafíos son inmensos, 
+pero cada revés fortalece su resiliencia. Cada éxito, no importa cuán 
+pequeño sea, afirma su elección. En la alineación de su trabajo con 
+sus valores y pasiones más profundos, Sara encuentra el propósito y la 
+satisfacción que estaba buscando.
+
+Cada fase de la metodología "Diseñando tu vida" se convierte en un 
+capítulo en la historia de transformación de Sara, llevándola a una vida 
+de mayor autenticidad, impacto y alegría. La brújula que construyó guía 
+sus decisiones, los prototipos probaron sus suposiciones, la inmunidad 
+al fracaso construyó su resiliencia y el equipo que reunió apoya su 
+viaje hacia una vida bien vivida y alegre.
+
+Crecer
+^^^^^^^^^^
+
+**1. Comprometerse**
+
+Gran idea: 
+
+Sara, habiendo identificado su propósito, se da cuenta de la 
+necesidad de adquirir habilidades específicas para que su organización 
+sin fines de lucro tenga éxito. La gran idea es desarrollar competencias 
+que se alineen con tener un impacto significativo en el bienestar animal.
+
+Pregunta esencial: 
+
+¿Cómo puede Sarah adquirir y aplicar nuevas habilidades 
+de manera efectiva para garantizar el éxito de su organización sin 
+fines de lucro?
+
+El desafío: 
+
+Aprender, desarrollar y aplicar habilidades de redacción de 
+subvenciones, recaudación de fondos y cumplimiento legal dentro de los 
+seis meses.
+
+**2. Investigar**
+
+Preguntas orientadoras:
+
+* ¿Cuáles son los mejores métodos para aprender a escribir subvenciones de 
+  manera efectiva?
+* ¿Cómo se pueden adaptar las estrategias de recaudación de fondos para 
+  una organización sin fines de lucro en el bienestar animal?
+* ¿Cuáles son los cumplimientos legales requeridos para administrar una 
+  organización sin fines de lucro?
+
+Actividades:
+
+Sara utiliza recursos e información disponible y trabaja en 
+estrecha colaboración con mentores en el campo para responder las preguntas 
+orientadoras.
+
+Recursos:
+
+Utiliza plataformas en línea, libros, se conecta con personas experimentadas 
+en el campo y es voluntaria en organizaciones sin fines de lucro 
+existentes para recopilar ideas y conocimientos.
+
+**3. Actuar**
+
+Soluciones:
+
+Para la redacción de subvenciones, Sara completa un curso en línea y escribe 
+propuestas simuladas. Ella organiza pequeñas campañas de recaudación de 
+fondos para poner a prueba sus habilidades. Sara consulta con un experto 
+legal para comprender el marco legal para las organizaciones sin fines de 
+lucro.
+
+Implementación:
+
+Ella solicita subvenciones y recibe retroalimentación para refinar sus 
+habilidades. Implementa una estrategia de recaudación de fondos, 
+recaudando capital inicial para ``Patas y Bigotes``. Completa los trámites 
+legales y registra su organización sin fines de lucro.
+
+Evaluación:
+
+Sara evalúa la efectividad de su viaje de aprendizaje a través del éxito 
+de sus solicitudes de subvenciones, la eficiencia de sus campañas de 
+recaudación de fondos y su capacidad para navegar a través de los 
+requisitos legales.
+
+**Reflejar**
+
+Reflexión:
+
+Sara se da cuenta de la naturaleza invaluable de la experiencia práctica. 
+Cada rechazo y éxito en las solicitudes de subvención, cada dólar recaudado 
+y cada obstáculo legal superado da forma a su aprendizaje.
+
+Contexto global:
+
+Ella ve el potencial de su viaje de aprendizaje para ser un modelo 
+para aspirantes a fundadores sin fines de lucro. El entrelazamiento del 
+desarrollo personal con la competencia profesional se hace evidente.
+
+**Compartir**
+
+Publicar:
+
+Sara documenta su viaje en un blog, compartiendo ideas, desafíos y 
+victorias. Ella destaca la naturaleza iterativa del aprendizaje y el 
+valor indispensable de la aplicación en el mundo real.
+
+Revisión y comentario:
+
+La comunidad, incluidos otros fundadores, educadores y entusiastas sin 
+fines de lucro, se involucran con la narrativa de Sara. Sus comentarios 
+enriquecen la comprensión de Sara y refinan su enfoque.
+
+**La evolución de Sarah:**
+
+En medio de los ecos de historias compartidas y aprendizaje amplificado, 
+``Patas y bigotes`` de Sara no es solo una organización sin fines de lucro, 
+sino una narrativa de aprendizaje continuo, colaborativo y contextual. 
+Cada animal rescatado, cada voluntario comprometido y cada desafío 
+superado es testimonio de una mujer que no es solo una fundadora sin 
+fines de lucro, sino una encarnación del aprendizaje, la adaptación y 
+la evolución.
+
+La narrativa de Sara desdibuja las líneas entre el desarrollo personal y 
+profesional, entre el aprendizaje y la vida. En el santuario de 
+``Patas y Bigotes``, cada animal rescatado no es solo una vida salvada, 
+sino un capítulo de la narrativa de aprendizaje, crecimiento y 
+transformación de Sarah: una danza entre la estructura del aprendizaje 
+basado en desafíos y los ritmos orgánicos y sin guión de los innumerables 
+desafíos y victorias de la vida.
+
+Crear
+^^^^^^
+
+**Despertar emprendedor**
+
+A medida que ``Patas y Bigotes`` comenzó a hacer una diferencia real en 
+la comunidad, Sara se dio cuenta del poder de combinar el propósito con 
+el espíritu empresarial. Ella fue testigo del impacto inmediato de 
+sus acciones en los animales felices y sanos bajo su cuidado y los 
+voluntarios que encontraron significado en sus contribuciones. Sin embargo, 
+el camino estaba plagado de incertidumbres financieras. La financiación 
+sostenible era una montaña que aún no había conquistado.
+
+Exploración e iluminación
+
+Sara comenzó a explorar vías empresariales que no solo defendían su 
+propósito, sino que estaban arraigadas en la sostenibilidad. Se dio cuenta 
+de que un brazo con fines de lucro que defienda los principios de la 
+sostenibilidad podría reforzar significativamente sus iniciativas sin 
+fines de lucro, creando un ecosistema autosostenible de propósito y 
+ganancias.
+
+La génesis de un negocio sostenible
+
+Surgió la idea de crear productos ecológicos para mascotas. Productos 
+que no solo eran funcionales y atractivos, sino también amables con el 
+planeta. Sara imaginó una línea donde cada producto vendido contribuiría 
+directamente al cuidado y bienestar de los animales rescatados.
+
+La intersección del propósito y el beneficio
+
+Sara se embarcó en una extensa investigación. ¿Qué materiales defenderían 
+los principios de sostenibilidad? ¿Cómo podría el proceso de producción 
+minimizar la huella de carbono? ¿Cómo podría cada producto tejer la narrativa 
+de los animales rescatados, haciendo de cada compra una historia de 
+contribución?
+
+Colaboración y creación
+
+Sara colaboró con fabricantes y artesanos con conciencia ecológica. 
+Nació una línea de productos para mascotas hechos de materiales reciclados, 
+biodegradables y no tóxicos. Cada producto contaba una historia: la de 
+un animal rescatado, la contribución de un voluntario, un paso pequeño 
+pero significativo hacia un planeta más amable.
+
+Probando las aguas
+
+Antes del lanzamiento oficial, Sarah probó los productos dentro de 
+su comunidad de voluntarios y simpatizantes. Los comentarios fueron 
+invaluables. El entrelazamiento del propósito y el beneficio, la 
+contribución tangible que hizo cada producto, resonó profundamente.
+
+Branding con un propósito
+
+Sara marcó sus productos bajo ``EcoPaws``. Cada etiqueta, cada paquete, 
+resonó en los valores fundamentales: sostenibilidad, amabilidad y 
+contribución. La historia de ``Patas y Bigotes`` y el viaje de cada 
+animal rescatado se convirtieron en parte integral de ``EcoPaws``.
+
+``EcoPaws`` llega al mercado
+
+Con un sitio web de comercio electrónico, presencia estratégica en 
+las redes sociales y colaboraciones con tiendas de mascotas que defendían 
+los principios de sostenibilidad, se lanzó ``EcoPaws``. Cada producto, 
+ya sea una correa hecha de plástico reciclado o tazones de comida para 
+mascotas orgánicos y biodegradables, se hizo eco del espíritu de la 
+sostenibilidad.
+
+La primera venta
+
+Cuando Sara empacó el primer pedido, un conjunto de juguetes ecológicos 
+para mascotas, hizo una pausa. Esto no fue solo una venta. Fue una 
+validación de un viaje que trascendió el despertar personal. Fue un 
+testimonio de la danza perfecta entre el propósito y el beneficio, 
+el despertar individual y la contribución colectiva.
+
+Sarah incluyó una nota personalizada en el paquete, compartiendo la 
+historia de un perro rescatado, Max, que encontró consuelo y alegría 
+en ``Patas y Bigotes``. Cada juguete comprado contribuyó a los días 
+alegres y seguros que Max y muchos otros como él experimentaron en 
+el santuario.
+
+Reflexión
+
+Cuando Sara entregó la caja empaquetada al personal de entrega, el 
+cielo pintó un tono sereno del crepúsculo de la tarde. No fue solo el 
+amanecer de un negocio sostenible, sino la evolución de un alma que 
+buscó, luchó, aprendió y creó.
+
+Sara no era solo un individuo, un aprendiz o un empresario. Ella era una 
+narrativa, desarrollándose, creciendo, abrazando cada desafío y 
+oportunidad con gracia, convirtiendo los ecos de las búsquedas 
+personales en sinfonías de bienestar colectivo y contribuciones 
+sostenibles y significativas.
+
+Con ``EcoPaws``, el viaje de Sara de descubrimiento personal y 
+desarrollo de competencias se transformó en una saga empresarial que 
+no se trataba solo de ganancias, sino de hacerse eco de la profunda 
+narrativa de sostenibilidad, contribución y transformación en cada 
+producto, cada venta, cada conexión.
