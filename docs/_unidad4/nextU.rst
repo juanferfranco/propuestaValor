@@ -1339,6 +1339,13 @@ En el siguiente `este <https://upbeduco-my.sharepoint.com/:o:/g/personal/juanf_f
 enlace se pueden consultar algunos apuntes visuales para la construcción 
 las presentaciones que comunican el diseño de Trayectos 3C.
 
+Costos
+********
+
+En `este <https://docs.google.com/spreadsheets/d/1fbs43yg2BFaJhA8rhidW3hArMXgieLpIpbYO8iFRTcU/edit?usp=sharing>`__ 
+enlace hay un ejercicio comparativo de costos entre el negocio actual y un modelo por mentorías.
+
+
 Historias
 ---------------
 
