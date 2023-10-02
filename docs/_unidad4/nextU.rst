@@ -1528,7 +1528,7 @@ desarrollo personal con la competencia profesional se hace evidente.
 
 Publicar:
 
-Sara documenta su viaje en un blog y en la red ``Biografías del Aprendizaje``, 
+Sara documenta su viaje en la red ``Biografías del Aprendizaje``, 
 compartiendo ideas, desafíos y victorias. Ella destaca la naturaleza iterativa del 
 aprendizaje y el valor indispensable de la aplicación en el mundo real.
 
