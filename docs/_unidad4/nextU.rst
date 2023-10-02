@@ -1342,6 +1342,16 @@ las presentaciones que comunican el diseño de Trayectos 3C.
 Historias
 ---------------
 
+Las historias que se narran a continuación buscan ilustrar cómo podría aplicarse Trayectos 3C en 
+diferentes momentos de la vida. Se muestran los tres módulos para cada historia: creer, crecer, 
+crear. También se presentan las fases en cada módulo sin seguir al pie de la letra las fases 
+previamente sugeridas porque Trayectos 3C es una propuesta en construccción a la que posiblemente 
+sea necesarios hacerle adaptaciones en función de la persona y sus necesidades puntales; sin embargo, 
+cada módulo y sus fases conservan el concepto de diseño. Para creer el objetivo es permitirle 
+a la persona buscar propósito. Para crecer el objetivo es desarrollar compentencias alineadas 
+con el propósito. Finalmente, para crear el objetivo es acompañar y apoyar a las personas 
+en procesos de emprendimiento desde una idea de negocio hasta la primera venta.
+
 Sara 
 *********
 
