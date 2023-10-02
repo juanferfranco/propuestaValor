@@ -1345,11 +1345,11 @@ Historias
 Las historias que se narran a continuación buscan ilustrar cómo podría aplicarse Trayectos 3C en 
 diferentes momentos de la vida. Se muestran los tres módulos para cada historia: creer, crecer, 
 crear. También se presentan las fases en cada módulo sin seguir al pie de la letra las fases 
-previamente sugeridas porque Trayectos 3C es una propuesta en construccción a la que posiblemente 
-sea necesarios hacerle adaptaciones en función de la persona y sus necesidades puntales; sin embargo, 
-cada módulo y sus fases conservan el concepto de diseño. Para creer el objetivo es permitirle 
-a la persona buscar propósito. Para crecer el objetivo es desarrollar compentencias alineadas 
-con el propósito. Finalmente, para crear el objetivo es acompañar y apoyar a las personas 
+previamente sugeridas. Se espera que Trayectos 3C no sea una recete universal, sino más bien 
+un marco flexible que se adapte en función de la persona y sus necesidades puntales; sin embargo, 
+cada módulo y sus fases planteadas conservan el concepto de diseño. Para creer el objetivo 
+es permitirle a la persona buscar propósito. Para crecer el objetivo es desarrollar compentencias 
+alineadas con el propósito. Finalmente, para crear el objetivo es acompañar y apoyar a las personas 
 en procesos de emprendimiento desde una idea de negocio hasta la primera venta.
 
 Sara 
@@ -1358,7 +1358,9 @@ Sara
 Creer
 ^^^^^^^^^
 
-**1. Start Where You Are**
+(Construcción de una Brújula)
+
+**1. Start Where You Are** 
 
 Sara tiene 32 años y es una exitosa gerente de marketing, pero se siente 
 insatisfecha y carente de propósito. Ella tiene la molesta sensación de 
@@ -1375,6 +1377,8 @@ Ella describe su visión de vida y su visión laboral.
 Sara cree en tener un impacto positivo, pero se da cuenta de que su 
 trabajo actual no se alinea con este valor. Su deseo es contribuir al 
 bienestar social. 
+
+(Despertando la Curiosidad)
 
 **3. Wayfinding**
 
@@ -1400,6 +1404,8 @@ Sara desarrolla tres planes de Odisea:
 * Plan C: cambiar a una carrera en trabajo social para impactar directamente 
   las vidas de otros.
 
+(Creación de Prototipos)
+
 **6. Prototyping**
 
 Realiza entrevistas informativas con trabajadores sociales y fundadores 
@@ -1407,11 +1413,15 @@ de organizaciones sin fines de lucro, es voluntaria de manera más
 consistente en el refugio de animales y propone una campaña de impacto 
 social en su trabajo.
 
+(Tomar Decisiones Acertadas)
+
 **7. Choosing Happily**
 
 Equipada con ideas, Sara evalúa sus opciones. Ella encuentra que comenzar 
 una organización sin fines de lucro se alinea perfectamente con 
 sus habilidades, pasiones y deseo de impacto.
+
+(Construir un Camino)
 
 **8. Failure Immunity**
 
@@ -1520,7 +1530,7 @@ de sus solicitudes de subvenciones, la eficiencia de sus campañas de
 recaudación de fondos y su capacidad para navegar a través de los 
 requisitos legales.
 
-**Reflejar**
+**4. Reflejar**
 
 Reflexión:
 
@@ -1534,7 +1544,7 @@ Ella ve el potencial de su viaje de aprendizaje para ser un modelo
 para aspirantes a fundadores sin fines de lucro. El entrelazamiento del 
 desarrollo personal con la competencia profesional se hace evidente.
 
-**Compartir**
+**5. Compartir**
 
 Publicar:
 
@@ -1580,7 +1590,7 @@ voluntarios que encontraron significado en sus contribuciones. Sin embargo,
 el camino estaba plagado de incertidumbres financieras. La financiación 
 sostenible era una montaña que aún no había conquistado.
 
-Exploración e iluminación
+**1. Exploración e iluminación (Descubrimiento y Formulación del Concepto)**
 
 Sara comenzó a explorar vías empresariales que no solo defendían su 
 propósito, sino que estaban arraigadas en la sostenibilidad. Se dio cuenta 
@@ -1589,7 +1599,7 @@ sostenibilidad podría reforzar significativamente sus iniciativas sin
 fines de lucro, creando un ecosistema autosostenible de propósito y 
 ganancias.
 
-La génesis de un negocio sostenible
+**2. La génesis de un negocio sostenible (Elaboración del Flourishing Business Canvas)**
 
 Surgió la idea de crear productos ecológicos para mascotas. Productos 
 que no solo eran funcionales y atractivos, sino también amables con el 
@@ -1604,7 +1614,7 @@ minimizar la huella de carbono? ¿Cómo podría cada producto tejer la narrativa
 de los animales rescatados, haciendo de cada compra una historia de 
 contribución?
 
-Colaboración y creación
+**3. Colaboración y creación (Prototipado y Validación)**
 
 Sara colaboró con fabricantes y artesanos con conciencia ecológica. 
 Nació una línea de productos para mascotas hechos de materiales reciclados, 
@@ -1619,7 +1629,7 @@ su comunidad de voluntarios y simpatizantes. Los comentarios fueron
 invaluables. El entrelazamiento del propósito y el beneficio, la 
 contribución tangible que hizo cada producto, resonó profundamente.
 
-Branding con un propósito
+**4. Branding con un propósito (Prototipado y Validación)**
 
 Sara marcó sus productos bajo ``EcoPaws``. Cada etiqueta, cada paquete, 
 resonó en los valores fundamentales: sostenibilidad, amabilidad y 
@@ -1635,7 +1645,7 @@ ya sea una correa hecha de plástico reciclado o tazones de comida para
 mascotas orgánicos y biodegradables, se hizo eco del espíritu de la 
 sostenibilidad.
 
-La primera venta
+**5. La primera venta**
 
 Cuando Sara empacó el primer pedido, un conjunto de juguetes ecológicos 
 para mascotas, hizo una pausa. Esto no fue solo una venta. Fue una 
