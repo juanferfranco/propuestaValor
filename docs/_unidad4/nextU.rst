@@ -1368,7 +1368,7 @@ bienestar social.
 
 **3. Wayfinding**
 
-Sara lleva un diario de buenos tiempos. Se da cuenta de que se siente más 
+Sara lleva un diario de buenos tiempos. Descubre que se siente más 
 viva y comprometida cuando se ofrece como voluntaria en el refugio de 
 animales local y hace una lluvia de ideas de campaña que tienen un 
 impacto social.
@@ -1399,8 +1399,8 @@ social en su trabajo.
 
 **7. Choosing Happily**
 
-Equipada con ideas, Sara evalúa sus opciones. Ella se da cuenta de que 
-comenzar una organización sin fines de lucro se alinea perfectamente con 
+Equipada con ideas, Sara evalúa sus opciones. Ella encuentra que comenzar 
+una organización sin fines de lucro se alinea perfectamente con 
 sus habilidades, pasiones y deseo de impacto.
 
 **8. Failure Immunity**
@@ -1418,7 +1418,7 @@ de resonancia y sistema de apoyo.
 **Transformación:**
 
 El viaje de autodescubrimiento y exploración de Sara utilizando la 
-metodología "Diseñando tu vida" le ayuda a pasar de un estado de 
+metodología ``Diseñando tu vida`` le ayuda a pasar de un estado de 
 inquietud a un camino infundido con propósito. Ella renuncia a su 
 trabajo corporativo y se embarca en la aventura de construir su 
 organización sin fines de lucro, basada en la convicción de que esto 
@@ -1432,7 +1432,7 @@ pequeño sea, afirma su elección. En la alineación de su trabajo con
 sus valores y pasiones más profundos, Sara encuentra el propósito y la 
 satisfacción que estaba buscando.
 
-Cada fase de la metodología "Diseñando tu vida" se convierte en un 
+Cada fase de la metodología ``Diseñando tu vida`` se convierte en un 
 capítulo en la historia de transformación de Sara, llevándola a una vida 
 de mayor autenticidad, impacto y alegría. La brújula que construyó guía 
 sus decisiones, los prototipos probaron sus suposiciones, la inmunidad 
@@ -1515,7 +1515,7 @@ requisitos legales.
 Reflexión:
 
 Sara se da cuenta de la naturaleza invaluable de la experiencia práctica. 
-Cada rechazo y éxito en las solicitudes de subvención, cada dólar recaudado 
+Cada rechazo y éxito en las solicitudes de subvención, cada peso recaudado 
 y cada obstáculo legal superado da forma a su aprendizaje.
 
 Contexto global:
