@@ -1528,14 +1528,15 @@ desarrollo personal con la competencia profesional se hace evidente.
 
 Publicar:
 
-Sara documenta su viaje en un blog, compartiendo ideas, desafíos y 
-victorias. Ella destaca la naturaleza iterativa del aprendizaje y el 
-valor indispensable de la aplicación en el mundo real.
+Sara documenta su viaje en un blog y en la red ``Biografías del Aprendizaje``, 
+compartiendo ideas, desafíos y victorias. Ella destaca la naturaleza iterativa del 
+aprendizaje y el valor indispensable de la aplicación en el mundo real.
 
 Revisión y comentario:
 
 La comunidad, incluidos otros fundadores, educadores y entusiastas sin 
-fines de lucro, se involucran con la narrativa de Sara. Sus comentarios 
+fines de lucro, se involucran con la narrativa de Sara y gracias 
+a ``Biografías del Aprendizaje`` conectan con ella. Sus aportes 
 enriquecen la comprensión de Sara y refinan su enfoque.
 
 **La evolución de Sarah:**
