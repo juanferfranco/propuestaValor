@@ -1350,7 +1350,7 @@ Creer
 
 **1. Start Where You Are**
 
-Sarah tiene 32 años y es una exitosa gerente de marketing, pero se siente 
+Sara tiene 32 años y es una exitosa gerente de marketing, pero se siente 
 insatisfecha y carente de propósito. Ella tiene la molesta sensación de 
 que hay algo más que debería estar haciendo con su vida.
 
@@ -1359,7 +1359,7 @@ satisfactorio, su salud es decente, pero el estrés está pasando factura.
 Se siente desconectada en sus relaciones y tiene poco tiempo para el 
 juego o la creatividad.
 
-**2. Start Where You Are**
+**2. Building a Compass**
 
 Ella describe su visión de vida y su visión laboral. 
 Sara cree en tener un impacto positivo, pero se da cuenta de que su 
