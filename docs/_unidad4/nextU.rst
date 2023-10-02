@@ -1453,7 +1453,7 @@ que se alineen con tener un impacto significativo en el bienestar animal.
 
 Pregunta esencial: 
 
-¿Cómo puede Sarah adquirir y aplicar nuevas habilidades 
+¿Cómo puede Sara adquirir y aplicar nuevas habilidades 
 de manera efectiva para garantizar el éxito de su organización sin 
 fines de lucro?
 
@@ -1539,7 +1539,7 @@ fines de lucro, se involucran con la narrativa de Sara y gracias
 a ``Biografías del Aprendizaje`` conectan con ella. Sus aportes 
 enriquecen la comprensión de Sara y refinan su enfoque.
 
-**La evolución de Sarah:**
+**La evolución de Sara:**
 
 En medio de los ecos de historias compartidas y aprendizaje amplificado, 
 ``Patas y bigotes`` de Sara no es solo una organización sin fines de lucro, 
@@ -1553,7 +1553,7 @@ La narrativa de Sara desdibuja las líneas entre el desarrollo personal y
 profesional, entre el aprendizaje y la vida. En el santuario de 
 ``Patas y Bigotes``, cada animal rescatado no es solo una vida salvada, 
 sino un capítulo de la narrativa de aprendizaje, crecimiento y 
-transformación de Sarah: una danza entre la estructura del aprendizaje 
+transformación de Sara: una danza entre la estructura del aprendizaje 
 basado en desafíos y los ritmos orgánicos y sin guión de los innumerables 
 desafíos y victorias de la vida.
 
@@ -1604,7 +1604,7 @@ pero significativo hacia un planeta más amable.
 
 Probando las aguas
 
-Antes del lanzamiento oficial, Sarah probó los productos dentro de 
+Antes del lanzamiento oficial, Sara probó los productos dentro de 
 su comunidad de voluntarios y simpatizantes. Los comentarios fueron 
 invaluables. El entrelazamiento del propósito y el beneficio, la 
 contribución tangible que hizo cada producto, resonó profundamente.
@@ -1633,7 +1633,7 @@ validación de un viaje que trascendió el despertar personal. Fue un
 testimonio de la danza perfecta entre el propósito y el beneficio, 
 el despertar individual y la contribución colectiva.
 
-Sarah incluyó una nota personalizada en el paquete, compartiendo la 
+Sara incluyó una nota personalizada en el paquete, compartiendo la 
 historia de un perro rescatado, Max, que encontró consuelo y alegría 
 en ``Patas y Bigotes``. Cada juguete comprado contribuyó a los días 
 alegres y seguros que Max y muchos otros como él experimentaron en 
