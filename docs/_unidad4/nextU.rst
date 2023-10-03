@@ -38,10 +38,9 @@ de posibilidades.
 
 .. note:: EL PROPÓSITO DE TRAYECTOS 3C
 
-    En resumen, el propósito de los Trayectos 3C es contribuir al rediseño 
-    colectivo de un mundo equitativo y sostenible mediante productos y servicios 
-    que permitan acompañar y apoyar a personas en diversas etapas de la vida en 
-    la exploración, diseño y materialización de vidas significativas.
+  Contribuir al rediseño colectivo de un mundo equitativo y sostenible 
+  acompañando y apoyando a personas en diversas etapas de la vida en la 
+  exploración, diseño y materialización de vidas significativas.
 
 ¿Qué es Trayectos 3C?
 ----------------------
