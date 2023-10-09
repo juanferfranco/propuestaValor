@@ -1,5 +1,5 @@
 Brief Trayectos 3C semana 13 de 2023
-======================================
+====================================== 
 
 .. note:: El propósito de Trayectos 3C
 
