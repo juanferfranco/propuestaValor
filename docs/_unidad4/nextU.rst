@@ -187,7 +187,7 @@ extracurriculares, y aprender a gestionar su tiempo de manera efectiva.
 
 **Adultos Jóvenes (20-30 años)**:
 
-Esta etapa a menudo implica decisiones cruciales sobre educación, carrera y relaciones. Trayectos 3C Aplicar 
+Esta etapa a menudo implica decisiones cruciales sobre educación, carrera y relaciones. Trayectos 3C  
 les permite explorar diferentes caminos profesionales, definir sus prioridades personales y 
 profesionales, y tomar decisiones fundamentales sobre su futuro. Pueden utilizarlo para planificar 
 su educación continua, desarrollo profesional y establecer bases sólidas para una vida significativa.
@@ -230,7 +230,6 @@ significativas en sus campos.
 Cualquier persona que experimente un cambio significativo, como la pérdida de un ser querido, 
 un divorcio o una mudanza, puede usar Trayectos 3C para rediseñar su vida, encontrar formas de 
 adaptarse y avanzar de manera positiva.
-
 
 La siguiente sección aborda la exploración de usuarios para algunos de los segmentos de 
 mercado propuestos.
