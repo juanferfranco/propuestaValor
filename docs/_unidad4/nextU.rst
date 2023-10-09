@@ -48,15 +48,15 @@ de posibilidades.
 Trayectos 3C propone unas rutas de aprendizaje que permiten configurar de manera 
 modular múltiples programas educativos. Está compuesto por 3 módulos que pueden 
 combinarse o desarrollarse de manera individual dependiendo de las necesidades 
-de la persona. El primer módulo se trata de CREER. En esta etapa la persona 
+de la persona. El primer módulo se trata de CREER. En este módulo la persona 
 aplica el método de diseño de vida de Stanford para alinear sus valores con 
-un propósito. La segunda parte se trata de CRECER. Se usa el método de challenge 
+un propósito. El segundo módulo se trata de CRECER. Se usa el método de challenge 
 based learning para que la persona, mediante retos, desarrolle competencias 
 alineadas con su propósito, mientras aporta a la solución de problemas de su 
-comunidad. Finalmente, en la tercera parte, o módulo de CREAR, se promueve el 
-emprendimiento. Se usan métodos para la construcción efectiva de un Flourishing 
-Business Canvas para que la persona o un grupo de personas puedan diseñan un 
-negocio que transfiera valor a su comunidad.
+comunidad. Finalmente, el tercer módulo es 
+CREAR, se promueve el emprendimiento. Se usan métodos para explorar, formular 
+y poner en marcha una idea de negocio acompañado y apoyando a la persona 
+hasta que genere su primera factura.
 
 ¿Quienes nos inspiran? 
 -----------------------
@@ -1450,13 +1450,6 @@ organización sin fines de lucro, basada en la convicción de que esto
 se alinea con sus valores, aprovecha sus fortalezas y cumple su deseo 
 de contribución significativa.
 
-El refugio de animales donde se ofreció como voluntaria se convierte en 
-el primer beneficiario de su organización. Los desafíos son inmensos, 
-pero cada revés fortalece su resiliencia. Cada éxito, no importa cuán 
-pequeño sea, afirma su elección. En la alineación de su trabajo con 
-sus valores y pasiones más profundos, Sara encuentra el propósito y la 
-satisfacción que estaba buscando.
-
 Cada fase de la metodología ``Diseñando tu vida`` se convierte en un 
 capítulo en la historia de transformación de Sara, llevándola a una vida 
 de mayor autenticidad, impacto y alegría. La brújula que construyó guía 
@@ -1783,3 +1776,20 @@ Alicia no era una simple empresaria; era un faro. Cada venta, cada innovación n
 sino un comienzo, una sinfonía armoniosa de individuo, sociedad, y empresa, un legado que 
 trascendía el aquí y el ahora, iluminando caminos para las futuras Alicias en sus propias 
 odiseas de auto-descubrimiento, contribución social, y triunfo emprendedor.
+
+Presentaciones Trayectos 3C
+----------------------------
+
+Slides
+*******
+
+* `Presentación <https://docs.google.com/presentation/d/1Eka9YgFooVw-411epfzHavnLQrHZXtWL6_sEZbrSvBE/edit?usp=sharing>`__ 
+  semana 13 de 2023.
+
+Briefs 
+*******
+
+.. toctree::
+    :maxdepth: 1
+
+    Brief para la presentación de Trayectos 3C de la semana 13 de 2023 <./briefSem13>
