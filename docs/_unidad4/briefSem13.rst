@@ -186,4 +186,44 @@ adaptarse y avanzar de manera positiva.
 ¿Qué necesitamos para seguir?
 ------------------------------
 
+Necesitamos conformar un equipo para realizar procesos de ingeniería del 
+aprendizaje para diseñar y desarrollar herramientas, productos y servicios 
+para cada módulo de Trayectos 3C. Se ha dedicado una apartado completo 
+de este :ref:`LearningEngineering`.
+
+¿Qué es la ingeniería del aprendizaje?
+***************************************
+
+La Ingeniería del Aprendizaje, o "Learning Engineering" en inglés, es 
+una disciplina emergente que se centra en la aplicación sistemática de 
+principios y métodos basados en evidencia provenientes de la tecnología 
+educativa y las ciencias del aprendizaje, con el objetivo de crear 
+experiencias de aprendizaje atractivas y eficaces, apoyar las dificultades 
+y desafíos de los aprendices mientras aprenden, y comprender mejor a los 
+aprendices y el aprendizaje :cite:p:`2023:LEWiki`. La disciplina enfatiza 
+el uso de un enfoque de diseño centrado en el ser humano y busca aplicar 
+metodologías de diseño de ingeniería y toma de decisiones informadas por 
+datos para apoyar a los aprendices y el aprendizaje :cite:p:`2019:WhatIs`.
+
+La Ingeniería del Aprendizaje, surge como una respuesta a las brechas 
+académicas existentes donde los expertos en un ámbito particular trabajan sin referentes 
+claros y necesitan lidiar entre varias disciplinas y fuentes informales para 
+adquirir los conocimientos y experiencias apropiadas que les ayuden a resolver 
+sus necesidades específicas. Esta nueva disciplina académica nace para adaptar 
+la educación en línea (e-Learning) a la nueva realidad tecnológica, 
+científica y socioeconómica, aprovechando el fuerte desarrollo de las 
+Tecnologías de la Información y la Comunicación (TIC) en las últimas décadas. 
+En esta disciplina, se busca integrar en un mismo grupo de trabajo a 
+representantes de diferentes disciplinas (como pedagogía, informática, 
+ciencia de datos, ciencias empresariales, derecho, entre otros) y actores 
+(como profesores, alumnos, gestores, tecnólogos, empresas, entre otros) 
+para mejorar de manera directa y activa las experiencias educativas basadas 
+en las TIC :cite:p:`2019:IEUOC`.
+
+La Ingeniería del Aprendizaje se relaciona con las ciencias del aprendizaje, 
+pero presenta prácticas distintas inspiradas en la industria, habilitadas por 
+la abundancia de datos y la digitalización de las tecnologías de aprendizaje 
+:cite:p:`Lee2023`. Por lo tanto, esta disciplina busca un enfoque más 
+técnico y basado en datos para mejorar el proceso educativo, diferenciándose 
+de otros enfoques más tradicionales en la educación.
 
