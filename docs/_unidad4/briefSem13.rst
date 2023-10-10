@@ -189,7 +189,7 @@ adaptarse y avanzar de manera positiva.
 Necesitamos conformar un equipo para realizar procesos de ingeniería del 
 aprendizaje para diseñar y desarrollar herramientas, productos y servicios 
 para cada módulo de Trayectos 3C. Se ha dedicado una apartado completo 
-de este :ref:`LearningEngineering`.
+a explicar en detalle de qué se trata la :ref:`LearningEngineering`.
 
 ¿Qué es la ingeniería del aprendizaje?
 ***************************************
