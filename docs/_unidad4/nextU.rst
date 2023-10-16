@@ -1783,8 +1783,9 @@ Presentaciones Trayectos 3C
 Slides
 *******
 
-* `Presentación <https://docs.google.com/presentation/d/1Eka9YgFooVw-411epfzHavnLQrHZXtWL6_sEZbrSvBE/edit?usp=sharing>`__ 
+* Google slides: `Presentación <https://docs.google.com/presentation/d/1Eka9YgFooVw-411epfzHavnLQrHZXtWL6_sEZbrSvBE/edit?usp=sharing>`__ 
   semana 13 de 2023.
+* Reveal.js: `Presentación <https://juanferfranco.github.io//trayectos3Cs2023-20/>`__ semana 13 de 2023. 
 
 Briefs 
 *******
@@ -1792,4 +1793,4 @@ Briefs
 .. toctree::
     :maxdepth: 1
 
-    Brief para la presentación de Trayectos 3C de la semana 13 de 2023 <./briefSem13>
+    Brief para la presentación de Trayectos 3C de la semana 13-14 de 2023 <./briefSem13>
