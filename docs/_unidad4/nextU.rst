@@ -7,13 +7,13 @@ Motivación
 La realización de la fase 1 de este documento termina con una presentación 
 que justifica las decisiones de diseño tomadas para elaborar el programa 
 Ingeniería del aprendizaje. En `este <https://docs.google.com/presentation/d/1wQutd7V4lPqbEpYd-pa28-A_3MGbomh3yAmrth9LqEg/edit?usp=sharing>`__ 
-enlace se puede consultar la presentación que busca responder la pregunta ¿Por qué 
-Ingeniería del aprendizaje? Una vez realiza la presentación se toma la decisión de 
+enlace se puede consultar la presentación que busca responder a la pregunta ¿Por qué 
+Ingeniería del aprendizaje? Luego de la presentación el equipo decidió 
 construir una propuesta más general que no responda necesariamente a las lógicas 
-impuestas por lo programas reguladores por el ministerio de educación de Colombia. 
-De esta manera se da inicio a lo siguiente fase que corresponde al diseño 
+impuestas por lo programas regulados por el Ministerio de Educación de Colombia. 
+De esta manera se da inicio a la siguiente fase del proyecto que corresponde al diseño 
 de un producto nuevo para la Universidad que en principio no tendrá que estar 
-regulador por el ministerio de educación. 
+regulado por el Ministerio de Educación. 
 
 ¿Cuál es el propósito de Trayectos 3C?
 ----------------------------------------
