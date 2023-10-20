@@ -1082,9 +1082,9 @@ Redefinición del módulo crear
 ******************************
 El módulo de crear se está quedando corto en términos de la propuesta de 
 valor que busca acompañar y apoyar al emprendedor desde la conceptualización 
-del negocio hasta su primera facturación. Validar las siguientes ideas con Diana:
+del negocio hasta su primera facturación. Estas son ideas para explorar:
 
-Posibles fases de acompañamiento y apoto para el módulo crear:
+Posibles fases de acompañamiento y apoyo para el módulo crear:
 
 1. Descubrimiento y Formulación del Concepto
 
